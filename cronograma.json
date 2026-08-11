@@ -161,7 +161,7 @@
         {
           "title": "Os imortais",
           "pages": 249,
-          "read": 0,
+          "read": 27,
           "startedOn": "2026-08-11",
           "finishedOn": ""
         },
@@ -207,7 +207,7 @@
         {
           "title": "Mr. Mercedes",
           "pages": 558,
-          "read": 0,
+          "read": 59,
           "startedOn": "2026-08-11",
           "finishedOn": ""
         },
@@ -263,7 +263,7 @@
         {
           "title": "Intermezzo",
           "pages": 500,
-          "read": 0,
+          "read": 16,
           "startedOn": "2026-08-11",
           "finishedOn": ""
         },
@@ -333,7 +333,7 @@
         {
           "title": "Odisseia",
           "pages": 1025,
-          "read": 0,
+          "read": 4,
           "startedOn": "2026-08-11",
           "finishedOn": ""
         },
@@ -394,7 +394,7 @@
         {
           "title": "Eu receberia as piores notícias…",
           "pages": 254,
-          "read": 0,
+          "read": 5,
           "startedOn": "2026-08-11",
           "finishedOn": ""
         },
@@ -609,5 +609,5 @@
     }
   ],
   "view": "pending",
-  "updatedAt": "2026-08-11T21:55:20.892Z"
+  "updatedAt": "2026-08-11T22:32:46.292Z"
 }
