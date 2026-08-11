@@ -199,6 +199,31 @@
           "read": 0,
           "startedOn": "",
           "finishedOn": ""
+        },
+        {
+          "title": "Reparação",
+          "pages": 478,
+          "read": 0
+        },
+        {
+          "title": "Matadouro cinco",
+          "pages": 229,
+          "read": 0
+        },
+        {
+          "title": "A mão esquerda da escuridão",
+          "pages": 324,
+          "read": 0
+        },
+        {
+          "title": "Os despossuídos",
+          "pages": 419,
+          "read": 0
+        },
+        {
+          "title": "Floresta é o nome do mundo",
+          "pages": 157,
+          "read": 0
         }
       ]
     },
@@ -255,6 +280,26 @@
           "read": 0,
           "startedOn": "",
           "finishedOn": ""
+        },
+        {
+          "title": "2666",
+          "pages": 1355,
+          "read": 0
+        },
+        {
+          "title": "O sol na cabeça",
+          "pages": 125,
+          "read": 0
+        },
+        {
+          "title": "O mercador de Veneza",
+          "pages": 98,
+          "read": 0
+        },
+        {
+          "title": "Argonáuticas",
+          "pages": 567,
+          "read": 0
         }
       ]
     },
@@ -325,6 +370,36 @@
           "read": 0,
           "startedOn": "",
           "finishedOn": ""
+        },
+        {
+          "title": "Teogonia",
+          "pages": 137,
+          "read": 0
+        },
+        {
+          "title": "Metamorfoses",
+          "pages": 624,
+          "read": 0
+        },
+        {
+          "title": "Meridiana",
+          "pages": 186,
+          "read": 0
+        },
+        {
+          "title": "Macbeth",
+          "pages": 231,
+          "read": 0
+        },
+        {
+          "title": "Devoradores de estrelas",
+          "pages": 662,
+          "read": 0
+        },
+        {
+          "title": "Viagem a Portugal",
+          "pages": 534,
+          "read": 0
         }
       ]
     },
@@ -386,6 +461,26 @@
           "read": 0,
           "startedOn": "",
           "finishedOn": ""
+        },
+        {
+          "title": "História da China",
+          "pages": 897,
+          "read": 0
+        },
+        {
+          "title": "Pastoral americana",
+          "pages": 623,
+          "read": 0
+        },
+        {
+          "title": "Casei com um comunista",
+          "pages": 356,
+          "read": 0
+        },
+        {
+          "title": "A marca humana",
+          "pages": 499,
+          "read": 0
         }
       ]
     },
@@ -441,6 +536,31 @@
         {
           "title": "Romances completos de Macahdo de Assis (10)",
           "pages": 2186,
+          "read": 0
+        },
+        {
+          "title": "Oração para desaparecer",
+          "pages": 224,
+          "read": 0
+        },
+        {
+          "title": "Minha querida Sputnik",
+          "pages": 226,
+          "read": 0
+        },
+        {
+          "title": "O homem que amava os cachorros",
+          "pages": 820,
+          "read": 0
+        },
+        {
+          "title": "Underground railroad",
+          "pages": 340,
+          "read": 0
+        },
+        {
+          "title": "Crônica do pássaro de corda",
+          "pages": 996,
           "read": 0
         }
       ]
@@ -523,6 +643,46 @@
           "title": "Raduan Nassar - Obra completa",
           "pages": 464,
           "read": 0
+        },
+        {
+          "title": "Prometeu prisioneiro",
+          "pages": 184,
+          "read": 0
+        },
+        {
+          "title": "Sete contra Tebas",
+          "pages": 152,
+          "read": 0
+        },
+        {
+          "title": "Trilogia tebana",
+          "pages": 500,
+          "read": 0
+        },
+        {
+          "title": "O Rio antes do Rio",
+          "pages": 432,
+          "read": 0
+        },
+        {
+          "title": "As barbas do Imperador",
+          "pages": 664,
+          "read": 0
+        },
+        {
+          "title": "Medeia",
+          "pages": 192,
+          "read": 0
+        },
+        {
+          "title": "As troianas",
+          "pages": 184,
+          "read": 0
+        },
+        {
+          "title": "O asno de ouro",
+          "pages": 480,
+          "read": 0
         }
       ]
     },
@@ -534,6 +694,11 @@
           "read": 0,
           "startedOn": "2026-08-11",
           "finishedOn": ""
+        },
+        {
+          "title": "Neve na manhã de São Paulo",
+          "pages": 368,
+          "read": 0
         },
         {
           "title": "Tóquio ano zero",
@@ -604,10 +769,35 @@
           "title": "Perder a mãe",
           "pages": 364,
           "read": 0
+        },
+        {
+          "title": "A divina comédia",
+          "pages": 736,
+          "read": 0
+        },
+        {
+          "title": "Trilogia de Orestes",
+          "pages": 300,
+          "read": 0
+        },
+        {
+          "title": "Freud, Obras completas V",
+          "pages": 478,
+          "read": 0
+        },
+        {
+          "title": "Freud, Obras completas VI",
+          "pages": 408,
+          "read": 0
+        },
+        {
+          "title": "Silas de Oliveira",
+          "pages": 145,
+          "read": 0
         }
       ]
     }
   ],
   "view": "pending",
-  "updatedAt": "2026-08-11T23:03:15.185Z"
+  "updatedAt": "2026-08-11T23:53:03.274Z"
 }
