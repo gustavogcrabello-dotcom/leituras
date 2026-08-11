@@ -15,6 +15,13 @@
     {
       "books": [
         {
+          "title": "O problema dos 3 corpos",
+          "pages": 507,
+          "read": 0,
+          "startedOn": "2026-08-11",
+          "finishedOn": ""
+        },
+        {
           "title": "Kafka à beira-mar",
           "pages": 701,
           "read": 0,
@@ -36,20 +43,6 @@
           "finishedOn": ""
         },
         {
-          "title": "O problema dos 3 corpos",
-          "pages": 507,
-          "read": 0,
-          "startedOn": "",
-          "finishedOn": ""
-        },
-        {
-          "title": "Trilogia 1Q84",
-          "pages": 1499,
-          "read": 0,
-          "startedOn": "",
-          "finishedOn": ""
-        },
-        {
           "title": "O teatro de Sabbath",
           "pages": 651,
           "read": 0,
@@ -59,6 +52,13 @@
         {
           "title": "Kramp",
           "pages": 113,
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
+        },
+        {
+          "title": "Trilogia 1Q84",
+          "pages": 1499,
           "read": 0,
           "startedOn": "",
           "finishedOn": ""
@@ -162,7 +162,7 @@
           "title": "Os imortais",
           "pages": 249,
           "read": 0,
-          "startedOn": "",
+          "startedOn": "2026-08-11",
           "finishedOn": ""
         },
         {
@@ -205,22 +205,32 @@
     {
       "books": [
         {
-          "title": "Trilogia Bill Hodges",
-          "pages": 1328,
+          "title": "Mr. Mercedes",
+          "pages": 558,
           "read": 0,
-          "startedOn": "",
+          "startedOn": "2026-08-11",
           "finishedOn": ""
         },
         {
+          "title": "Achados e perdidos",
+          "pages": 497,
+          "read": 0
+        },
+        {
+          "title": "Último turno",
+          "pages": 482,
+          "read": 0
+        },
+        {
           "title": "Billy Summers",
-          "pages": 528,
+          "pages": 703,
           "read": 0,
           "startedOn": "",
           "finishedOn": ""
         },
         {
           "title": "Ulysses",
-          "pages": 1112,
+          "pages": 1240,
           "read": 0,
           "startedOn": "",
           "finishedOn": ""
@@ -234,14 +244,14 @@
         },
         {
           "title": "Um defeito de cor",
-          "pages": 952,
+          "pages": 1285,
           "read": 0,
           "startedOn": "",
           "finishedOn": ""
         },
         {
           "title": "Fidelidade",
-          "pages": 288,
+          "pages": 246,
           "read": 0,
           "startedOn": "",
           "finishedOn": ""
@@ -252,56 +262,66 @@
       "books": [
         {
           "title": "Intermezzo",
-          "pages": 448,
+          "pages": 500,
           "read": 0,
-          "startedOn": "",
+          "startedOn": "2026-08-11",
           "finishedOn": ""
         },
         {
+          "title": "A floresta sombria",
+          "pages": 753,
+          "read": 0
+        },
+        {
+          "title": "O fim da morte",
+          "pages": 953,
+          "read": 0
+        },
+        {
           "title": "Notícias de um sequestro",
-          "pages": 336,
+          "pages": 328,
           "read": 0,
           "startedOn": "",
           "finishedOn": ""
         },
         {
           "title": "Perdido em Marte",
-          "pages": 384,
+          "pages": 437,
           "read": 0,
           "startedOn": "",
           "finishedOn": ""
         },
         {
           "title": "Primeiras estórias",
-          "pages": 240,
+          "pages": 184,
           "read": 0,
           "startedOn": "",
           "finishedOn": ""
         },
         {
           "title": "Corações sujos",
-          "pages": 344,
+          "pages": 306,
           "read": 0,
           "startedOn": "",
           "finishedOn": ""
         },
         {
           "title": "A bolsa e a vida",
-          "pages": 160,
+          "pages": 116,
           "read": 0,
           "startedOn": "",
           "finishedOn": ""
         },
         {
           "title": "O concorrente",
-          "pages": 256,
+          "pages": 390,
           "read": 0,
           "startedOn": "",
           "finishedOn": ""
         },
         {
           "title": "A cidade e suas muralhas incertas",
-          "pages": 560,
+          "pages": 652,
           "read": 0,
           "startedOn": "",
           "finishedOn": ""
@@ -312,42 +332,57 @@
       "books": [
         {
           "title": "Odisseia",
-          "pages": 600,
+          "pages": 1025,
           "read": 0,
-          "startedOn": "",
+          "startedOn": "2026-08-11",
           "finishedOn": ""
         },
         {
           "title": "O evangelho segundo Jesus Cristo",
-          "pages": 440,
+          "pages": 473,
           "read": 0,
           "startedOn": "",
           "finishedOn": ""
         },
         {
           "title": "Os detetives selvagens",
-          "pages": 624,
+          "pages": 855,
           "read": 0,
           "startedOn": "",
           "finishedOn": ""
         },
         {
-          "title": "Tetralogia napolitana",
-          "pages": 1584,
+          "title": "A amiga genial",
+          "pages": 336,
           "read": 0,
           "startedOn": "",
           "finishedOn": ""
+        },
+        {
+          "title": "História do novo sobrenome",
+          "pages": 560,
+          "read": 0
+        },
+        {
+          "title": "História de quem foge e quem fica",
+          "pages": 499,
+          "read": 0
+        },
+        {
+          "title": "História da menina perdida",
+          "pages": 517,
+          "read": 0
         },
         {
           "title": "Memorial do convento",
-          "pages": 360,
+          "pages": 400,
           "read": 0,
           "startedOn": "",
           "finishedOn": ""
         },
         {
           "title": "A pediatra",
-          "pages": 176,
+          "pages": 179,
           "read": 0,
           "startedOn": "",
           "finishedOn": ""
@@ -358,45 +393,55 @@
       "books": [
         {
           "title": "Eu receberia as piores notícias…",
-          "pages": 216,
+          "pages": 254,
           "read": 0,
-          "startedOn": "",
+          "startedOn": "2026-08-11",
           "finishedOn": ""
         },
         {
           "title": "A máquina de fazer espanhóis",
-          "pages": 256,
+          "pages": 231,
           "read": 0,
           "startedOn": "",
           "finishedOn": ""
         },
         {
           "title": "Klara e o Sol",
-          "pages": 320,
+          "pages": 359,
           "read": 0,
           "startedOn": "",
           "finishedOn": ""
         },
         {
           "title": "Caos calmo",
-          "pages": 440,
+          "pages": 485,
           "read": 0,
           "startedOn": "",
           "finishedOn": ""
         },
         {
           "title": "O ano da morte de Ricardo Reis",
-          "pages": 416,
+          "pages": 476,
           "read": 0,
           "startedOn": "",
           "finishedOn": ""
         },
         {
           "title": "Terra à deriva",
-          "pages": 288,
+          "pages": 546,
           "read": 0,
           "startedOn": "",
           "finishedOn": ""
+        },
+        {
+          "title": "Eneida",
+          "pages": 646,
+          "read": 0
+        },
+        {
+          "title": "Romances completos de Macahdo de Assis (10)",
+          "pages": 2186,
+          "read": 0
         }
       ]
     },
@@ -404,14 +449,14 @@
       "books": [
         {
           "title": "Piquito de oro",
-          "pages": 208,
+          "pages": 280,
           "read": 0,
-          "startedOn": "",
+          "startedOn": "2026-08-11",
           "finishedOn": ""
         },
         {
           "title": "Noites brancas",
-          "pages": 120,
+          "pages": 96,
           "read": 0,
           "startedOn": "",
           "finishedOn": ""
@@ -423,31 +468,56 @@
         },
         {
           "title": "Doramar ou a odisseia",
-          "pages": 192,
+          "pages": 160,
           "read": 0,
           "startedOn": "",
           "finishedOn": ""
         },
         {
           "title": "Querida konbini",
-          "pages": 144,
+          "pages": 152,
           "read": 0,
           "startedOn": "",
           "finishedOn": ""
         },
         {
-          "title": "A quizomba de Vila Isabel",
-          "pages": 240,
+          "title": "A kizomba de Vila Isabel",
+          "pages": 368,
           "read": 0,
           "startedOn": "",
           "finishedOn": ""
         },
         {
           "title": "Salgueiro, o quilombo moderno",
-          "pages": 280,
+          "pages": 272,
           "read": 0,
           "startedOn": "",
           "finishedOn": ""
+        },
+        {
+          "title": "Latim em Pó",
+          "pages": 232,
+          "read": 0
+        },
+        {
+          "title": "Palmares & Cucaú",
+          "pages": 456,
+          "read": 0
+        },
+        {
+          "title": "Freud, Obras completas III",
+          "pages": 328,
+          "read": 0
+        },
+        {
+          "title": "Freud, Obras completas IV",
+          "pages": 736,
+          "read": 0
+        },
+        {
+          "title": "História das ruas do Rio",
+          "pages": 520,
+          "read": 0
         }
       ]
     },
@@ -455,49 +525,74 @@
       "books": [
         {
           "title": "Adeus, Columbus",
-          "pages": 256,
+          "pages": 272,
+          "read": 0,
+          "startedOn": "2026-08-11",
+          "finishedOn": ""
+        },
+        {
+          "title": "Tóquio ano zero",
+          "pages": 400,
           "read": 0,
           "startedOn": "",
           "finishedOn": ""
         },
         {
-          "title": "Tóquio ano zero (coleção)",
-          "pages": 1456,
+          "title": "Tóquio cidade ocupada",
+          "pages": 320,
+          "read": 0
+        },
+        {
+          "title": "Tóquio redux",
+          "pages": 464,
+          "read": 0
+        },
+        {
+          "title": "Maldito invento dum baronete",
+          "pages": 184,
           "read": 0,
           "startedOn": "",
           "finishedOn": ""
         },
         {
-          "title": "Maldito invento de um baronete",
-          "pages": 240,
+          "title": "Freud, Obras completas I",
+          "pages": 376,
           "read": 0,
           "startedOn": "",
           "finishedOn": ""
         },
         {
-          "title": "Freud, Obras completas I e II",
-          "pages": 880,
-          "read": 0,
-          "startedOn": "",
-          "finishedOn": ""
+          "title": "Freud, Obras completas II",
+          "pages": 448,
+          "read": 0
         },
         {
           "title": "Quelé, a voz da cor",
-          "pages": 300,
+          "pages": 364,
           "read": 0,
           "startedOn": "",
           "finishedOn": ""
         },
         {
-          "title": "Lula I e II (Fernando Morais)",
-          "pages": 1320,
+          "title": "Lula vol I",
+          "pages": 416,
           "read": 0,
           "startedOn": "",
           "finishedOn": ""
+        },
+        {
+          "title": "Lula vol II",
+          "pages": 352,
+          "read": 0
+        },
+        {
+          "title": "Ecos da folia",
+          "pages": 432,
+          "read": 0
         }
       ]
     }
   ],
   "view": "pending",
-  "updatedAt": "2026-08-11T20:07:51.812Z"
+  "updatedAt": "2026-08-11T21:10:22.345Z"
 }
