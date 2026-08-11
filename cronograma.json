@@ -518,6 +518,11 @@
           "title": "História das ruas do Rio",
           "pages": 520,
           "read": 0
+        },
+        {
+          "title": "Raduan Nassar - Obra completa",
+          "pages": 464,
+          "read": 0
         }
       ]
     },
@@ -589,10 +594,20 @@
           "title": "Ecos da folia",
           "pages": 432,
           "read": 0
+        },
+        {
+          "title": "Ilê Ayiê",
+          "pages": 176,
+          "read": 0
+        },
+        {
+          "title": "Perder a mãe",
+          "pages": 364,
+          "read": 0
         }
       ]
     }
   ],
   "view": "pending",
-  "updatedAt": "2026-08-11T21:10:22.345Z"
+  "updatedAt": "2026-08-11T21:18:57.389Z"
 }
