@@ -1,0 +1,1250 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Cronograma de leituras</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Spectral:ital,wght@0,400;0,600;1,400&family=Archivo:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+:root{
+  --paper:#E9EAE4; --card:#F5F5F1; --ink:#1A211C; --ink-soft:#5A6459;
+  --rule:#CDD0C6; --accent:#2C4A7C;
+  --t1:#8C2F39; --t2:#2C4A7C; --t3:#B9822F; --t4:#4F6B45;
+  --t5:#5F3B62; --t6:#1F6E6E; --t7:#A5522A; --t8:#37506B;
+  --serif:"Spectral",Iowan Old Style,Palatino,Georgia,serif;
+  --sans:"Archivo",-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
+  --mono:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;
+}
+*{box-sizing:border-box}
+html,body{margin:0}
+body{background:var(--paper);color:var(--ink);font-family:var(--sans);font-size:15px;line-height:1.5;-webkit-font-smoothing:antialiased}
+.wrap{max-width:1440px;margin:0 auto;padding:30px 20px 72px}
+header{margin-bottom:22px}
+.eyebrow{font-size:11px;letter-spacing:.16em;text-transform:uppercase;color:var(--ink-soft);font-weight:600;margin:0 0 6px}
+h1{font-family:var(--serif);font-weight:600;font-size:clamp(30px,5vw,46px);line-height:1.05;margin:0 0 8px;letter-spacing:-.01em}
+.lead{max-width:64ch;margin:0;color:var(--ink-soft)}
+.spines{display:flex;gap:3px;margin-top:18px}
+.spines i{height:6px;flex:1;border-radius:1px}
+.grid{display:grid;grid-template-columns:376px 1fr;gap:26px;align-items:start;margin-top:16px}
+@media(max-width:980px){.grid{grid-template-columns:1fr}}
+.panel{position:sticky;top:20px;max-height:calc(100vh - 40px);overflow-y:auto}
+@media(max-width:980px){.panel{position:static;max-height:none}}
+.card{background:var(--card);border:1px solid var(--rule);border-radius:3px;padding:18px}
+.card + .card{margin-top:16px}
+h2{font-size:11px;letter-spacing:.14em;text-transform:uppercase;font-weight:600;color:var(--ink-soft);margin:0 0 14px}
+.cardhd{display:flex;align-items:center;gap:12px;flex-wrap:wrap;margin-bottom:14px}
+.cardhd h2{margin:0}
+.seg{display:flex;margin-left:auto;border:1px solid var(--rule);border-radius:2px;overflow:hidden;background:#fff}
+.seg button{border:0;background:transparent;color:var(--ink-soft);font-size:12px;padding:6px 12px;cursor:pointer;font-family:var(--sans)}
+.seg button[aria-pressed=true]{background:var(--accent);color:#fff}
+label{display:block;font-size:12px;color:var(--ink-soft);margin-bottom:4px}
+input[type=text],input[type=number],input[type=date]{width:100%;padding:7px 9px;border:1px solid var(--rule);border-radius:2px;background:#fff;color:var(--ink);font-family:var(--sans);font-size:14px}
+input[type=number]{font-family:var(--mono)}
+.field{margin-bottom:14px}
+.row2{display:grid;grid-template-columns:1fr 1fr;gap:10px}
+.chips{display:flex;gap:4px;flex-wrap:wrap}
+.chip{border:1px solid var(--rule);background:#fff;color:var(--ink-soft);border-radius:2px;padding:6px 0;width:40px;text-align:center;cursor:pointer;font-size:12px;font-weight:500;font-family:var(--sans)}
+.chip[aria-pressed=true]{background:var(--accent);border-color:var(--accent);color:#fff}
+.check{display:flex;gap:8px;align-items:flex-start;font-size:13px;color:var(--ink-soft);cursor:pointer}
+.check input{margin-top:3px;accent-color:var(--accent)}
+.btn{border:1px solid var(--accent);background:var(--accent);color:#fff;padding:8px 14px;border-radius:2px;font-size:13px;font-weight:500;cursor:pointer;font-family:var(--sans)}
+.btn.ghost{background:transparent;color:var(--accent)}
+.btn.tiny{padding:3px 6px;font-size:12px;border-color:var(--rule);background:#fff;color:var(--ink-soft);line-height:1.2}
+.btn:hover{opacity:.88}
+:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+.trk{border-top:1px solid var(--rule);padding-top:12px;margin-top:12px}
+.trk:first-child{border-top:0;padding-top:0;margin-top:0}
+.trk-hd{display:flex;align-items:center;gap:8px;margin-bottom:6px}
+.trk-hd .bar{width:16px;height:4px;border-radius:1px}
+.trk-hd strong{font-size:11px;letter-spacing:.12em;text-transform:uppercase;font-weight:600;color:var(--ink-soft)}
+.trk-hd .meta{margin-left:auto;font-family:var(--mono);font-size:11px;color:var(--ink-soft)}
+.colhd{display:grid;grid-template-columns:1fr 48px 48px 66px;gap:4px;font-size:9.5px;letter-spacing:.1em;text-transform:uppercase;color:var(--ink-soft);margin-bottom:3px}
+.colhd span:nth-child(n+2){text-align:center}
+.book{display:grid;grid-template-columns:1fr 48px 48px 66px;gap:4px;margin-bottom:4px;align-items:center}
+.book-dates{display:grid;grid-template-columns:1fr 1fr;gap:8px;margin:-1px 0 8px;padding:8px 9px;background:#EDEFE9;border:1px solid var(--rule);border-radius:2px}
+.book-dates label{font-size:9.5px;letter-spacing:.1em;text-transform:uppercase;margin-bottom:3px}
+.book-dates input{padding:4px 6px;font-size:12px}
+.btn.tiny.on{border-color:var(--accent);color:var(--accent);font-weight:600}
+.book input[type=text]{font-size:13px;padding:5px 7px}
+.book input[type=number]{font-size:12.5px;padding:5px 3px;text-align:right}
+.book input.done{background:#EDEFE9;color:var(--ink-soft)}
+.book .ctrls{display:flex;gap:2px;justify-content:flex-end}
+.stats{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:1px;background:var(--rule);border:1px solid var(--rule)}
+.stat{background:var(--card);padding:14px 16px}
+.stat .k{font-size:10px;letter-spacing:.13em;text-transform:uppercase;color:var(--ink-soft);font-weight:600}
+.stat .v{font-family:var(--serif);font-size:25px;line-height:1.15;margin-top:4px}
+.stat .v small{font-size:13px;color:var(--ink-soft);font-family:var(--sans)}
+
+/* linha do tempo */
+.axis{position:relative;height:17px;border-bottom:1px solid var(--rule)}
+.tick{position:absolute;top:0;font-size:10px;color:var(--ink-soft);padding-left:4px;border-left:1px solid var(--rule);height:17px;white-space:nowrap}
+.trackrow{display:grid;grid-template-columns:20px 1fr;gap:8px;align-items:center;margin-bottom:5px}
+.trackrow .lbl{font-family:var(--mono);font-size:11px;color:var(--ink-soft);text-align:right}
+.track{position:relative;height:26px;background:repeating-linear-gradient(90deg,transparent 0 6px,rgba(0,0,0,.045) 6px 7px)}
+.ribbon{position:absolute;top:2px;height:22px;border-radius:2px;color:#fff;font-size:11px;line-height:22px;padding:0 6px;overflow:hidden;white-space:nowrap;font-family:var(--serif)}
+.ribbon.alt{color:#1A211C}
+.ribbon.read{opacity:.72;background-image:repeating-linear-gradient(45deg,rgba(255,255,255,.55) 0 3px,transparent 3px 7px)}
+.ribbon.read.est{opacity:.38;outline:1px dashed rgba(26,33,28,.5);outline-offset:-1px}
+.now{position:absolute;top:-2px;bottom:-2px;width:0;border-left:2px dotted var(--ink)}
+.nowlbl{position:absolute;top:0;font-size:10px;font-weight:600;letter-spacing:.08em;text-transform:uppercase;color:var(--ink);padding-left:5px;border-left:2px dotted var(--ink);height:17px}
+.legend{display:flex;gap:16px;align-items:center;margin-top:12px;font-size:11.5px;color:var(--ink-soft);flex-wrap:wrap}
+.legend i{display:inline-block;width:20px;height:10px;border-radius:2px;background:var(--ink-soft);margin-right:6px;vertical-align:-1px}
+.legend i.hatch{opacity:.72;background-image:repeating-linear-gradient(45deg,rgba(255,255,255,.55) 0 3px,transparent 3px 7px)}
+.legend i.est{opacity:.38;outline:1px dashed rgba(26,33,28,.5);outline-offset:-1px;background-image:repeating-linear-gradient(45deg,rgba(255,255,255,.55) 0 3px,transparent 3px 7px)}
+
+.tbl{width:100%;border-collapse:collapse;font-size:13px}
+.tbl th{text-align:left;font-size:10px;letter-spacing:.12em;text-transform:uppercase;color:var(--ink-soft);font-weight:600;padding:0 8px 7px;border-bottom:1px solid var(--rule)}
+.tbl td{padding:7px 8px;border-bottom:1px solid var(--rule);vertical-align:middle}
+.tbl tr:last-child td{border-bottom:0}
+.tbl .num{font-family:var(--mono);font-size:12.5px;text-align:right;white-space:nowrap}
+.tbl tr.done td{color:var(--ink-soft)}
+.tbl tr.done .title{text-decoration:line-through;text-decoration-color:var(--rule)}
+.title{font-family:var(--serif);font-size:14.5px}
+.swatch{display:inline-block;width:8px;height:8px;border-radius:50%;margin-right:7px;vertical-align:1px}
+.prog{width:56px;height:5px;background:var(--rule);border-radius:3px;overflow:hidden}
+.prog i{display:block;height:100%}
+.tag{font-size:10px;letter-spacing:.1em;text-transform:uppercase;color:var(--ink-soft);font-weight:600}
+.scroll{overflow-x:auto}
+details{border-top:1px solid var(--rule);padding-top:14px;margin-top:18px}
+summary{cursor:pointer;font-size:11px;letter-spacing:.14em;text-transform:uppercase;font-weight:600;color:var(--ink-soft)}
+details > *:not(summary){margin-top:14px}
+textarea{width:100%;height:150px;font-family:var(--mono);font-size:11.5px;border:1px solid var(--rule);border-radius:2px;padding:9px;background:#fff;color:var(--ink)}
+.tools{display:flex;gap:8px;flex-wrap:wrap;align-items:center;margin-top:8px}
+.warn{background:#F8EDD9;border:1px solid #D9B168;padding:10px 12px;border-radius:2px;font-size:13px;margin-bottom:16px}
+.hint{font-size:12px;color:var(--ink-soft);margin:10px 0 0}
+.empty{color:var(--ink-soft)}
+@media (prefers-reduced-motion:reduce){*{transition:none!important;animation:none!important}}
+</style>
+</head>
+<body>
+<div class="wrap">
+
+<header>
+  <p class="eyebrow">Modelo · trilhas com fila própria</p>
+  <h1>Cronograma de leituras</h1>
+  <p class="lead">Cada trilha tem sua fila e é lida na ordem. As páginas do dia se dividem entre as trilhas ativas, e quando um livro acaba no meio da cota o resto já vai para o próximo da mesma trilha. Anote em que página você está e o plano se refaz.</p>
+  <div class="spines" aria-hidden="true">
+    <i style="background:var(--t1)"></i><i style="background:var(--t2)"></i><i style="background:var(--t3)"></i><i style="background:var(--t4)"></i>
+    <i style="background:var(--t5)"></i><i style="background:var(--t6)"></i><i style="background:var(--t7)"></i><i style="background:var(--t8)"></i>
+  </div>
+</header>
+
+<div id="alert"></div>
+<div class="stats" id="stats"></div>
+
+<div class="card" style="margin-top:16px">
+  <div class="cardhd">
+    <h2>Trilhas ao longo do tempo</h2>
+    <div class="seg" role="group" aria-label="Modo de visualização">
+      <button type="button" data-view="pending">O que falta ler</button>
+      <button type="button" data-view="full">Desde o começo</button>
+    </div>
+  </div>
+  <div id="timeline"></div>
+  <div class="legend" id="legend"></div>
+</div>
+
+<div class="grid">
+  <div class="panel">
+    <div class="card">
+      <h2>Ritmo</h2>
+      <div class="row2">
+        <div class="field"><label for="start">Projetar a partir de</label><input type="date" id="start"></div>
+        <div class="field"><label for="ppd">Páginas por dia (total)</label><input type="number" id="ppd" min="1" step="1"></div>
+      </div>
+      <div class="field">
+        <label>Dias de leitura</label>
+        <div class="chips" id="weekdays"></div>
+      </div>
+      <label class="check">
+        <input type="checkbox" id="redist">
+        <span>Redistribuir a cota das trilhas que já terminaram entre as que continuam</span>
+      </label>
+      <p class="hint" id="perTrack"></p>
+    </div>
+
+    <div class="card">
+      <h2>Trilhas</h2>
+      <p class="hint" style="margin:-6px 0 12px">Edite título, quanto já leu e o total de páginas. A coluna <b>lido</b> é o que reprojeta o cronograma.</p>
+      <div id="tracks"></div>
+      <button class="btn ghost" id="addTrack" type="button" style="margin-top:14px">+ Adicionar trilha</button>
+    </div>
+  </div>
+
+  <div>
+    <div class="card">
+      <h2>Fecho de cada trilha</h2>
+      <div class="scroll"><table class="tbl" id="byTrack"></table></div>
+    </div>
+
+    <div class="card">
+      <h2>Livro a livro</h2>
+      <div class="scroll"><table class="tbl" id="byBook"></table></div>
+
+      <details>
+        <summary>Plano diário</summary>
+        <div class="scroll"><table class="tbl" id="daily"></table></div>
+        <div class="tools">
+          <button class="btn tiny" id="moreDays" type="button">Mostrar mais dias</button>
+          <span class="hint" id="dayCount"></span>
+        </div>
+      </details>
+
+      <details id="syncPanel" open>
+        <summary>Salvamento e sincronização</summary>
+        <div>
+          <p class="hint" id="syncStatus" style="margin:0"></p>
+        </div>
+        <div class="row2">
+          <div class="field"><label for="ghOwner">Usuário do GitHub</label><input type="text" id="ghOwner" placeholder="seu-usuario"></div>
+          <div class="field"><label for="ghRepo">Repositório</label><input type="text" id="ghRepo" placeholder="estante"></div>
+        </div>
+        <div class="row2">
+          <div class="field"><label for="ghPath">Arquivo de dados</label><input type="text" id="ghPath" placeholder="cronograma.json"></div>
+          <div class="field"><label for="ghBranch">Branch</label><input type="text" id="ghBranch" placeholder="main"></div>
+        </div>
+        <div class="field">
+          <label for="ghToken">Token de acesso — <i>fine-grained</i>, restrito a este repositório, permissão <b>Contents: read and write</b></label>
+          <input type="password" id="ghToken" placeholder="github_pat_…" autocomplete="off">
+        </div>
+        <div class="tools">
+          <button class="btn tiny" id="ghSaveCfg" type="button">Guardar configuração</button>
+          <button class="btn tiny" id="ghPush" type="button">Enviar para o GitHub</button>
+          <button class="btn tiny" id="ghPull" type="button">Trazer do GitHub</button>
+        </div>
+        <p class="hint">O token fica só neste navegador, nunca dentro do arquivo publicado. Sem token a página ainda lê os dados do repositório, mas não consegue gravar.</p>
+      </details>
+
+      <details>
+        <summary>Salvar e exportar</summary>
+        <div>
+          <label for="json">Configuração em JSON — copie para guardar; cole aqui e carregue para retomar</label>
+          <textarea id="json"></textarea>
+          <div class="tools">
+            <button class="btn tiny" data-copy="json" type="button">Copiar JSON</button>
+            <button class="btn tiny" id="loadJson" type="button">Carregar configuração</button>
+          </div>
+          <p class="hint">Esta página não guarda nada sozinha: ao fechar, o que não estiver copiado se perde.</p>
+        </div>
+        <div>
+          <label for="csv">Plano diário em CSV (separador “;”)</label>
+          <textarea id="csv" readonly></textarea>
+          <div class="tools"><button class="btn tiny" data-copy="csv" type="button">Copiar CSV</button></div>
+        </div>
+      </details>
+    </div>
+  </div>
+</div>
+</div>
+
+<script>
+const TCOLORS=["--t1","--t2","--t3","--t4","--t5","--t6","--t7","--t8"];
+const DIAS=["dom","seg","ter","qua","qui","sex","sáb"];
+const MESES=["jan","fev","mar","abr","mai","jun","jul","ago","set","out","nov","dez"];
+const DAY=86400000;
+
+let state={
+  "start": "2026-08-11",
+  "pagesPerDay": 80,
+  "weekdays": [
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true
+  ],
+  "redistribute": false,
+  "tracks": [
+    {
+      "books": [
+        {
+          "title": "Kafka à beira-mar",
+          "pages": 701,
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
+        },
+        {
+          "title": "A cabeça do santo",
+          "pages": 177,
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
+        },
+        {
+          "title": "Novembro de 63",
+          "pages": 1059,
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
+        },
+        {
+          "title": "O problema dos 3 corpos",
+          "pages": 507,
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
+        },
+        {
+          "title": "Trilogia 1Q84",
+          "pages": 1499,
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
+        },
+        {
+          "title": "O teatro de Sabbath",
+          "pages": 651,
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
+        },
+        {
+          "title": "Kramp",
+          "pages": 113,
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
+        },
+        {
+          "title": "O colibri",
+          "pages": 321,
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
+        },
+        {
+          "title": "Setembro negro",
+          "pages": 276,
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
+        },
+        {
+          "title": "Conversas entre amigos",
+          "pages": 332,
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
+        },
+        {
+          "title": "Pessoas normais",
+          "pages": 295,
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
+        },
+        {
+          "title": "Belo mundo, onde você está",
+          "pages": 370,
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
+        },
+        {
+          "title": "Rei Lear",
+          "pages": 395,
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
+        },
+        {
+          "title": "Não me abandone jamais",
+          "pages": 377,
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
+        },
+        {
+          "title": "Pra tudo começar na quinta-feira",
+          "pages": 293,
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
+        },
+        {
+          "title": "Após o anoitecer",
+          "pages": 197,
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
+        },
+        {
+          "title": "O agente secreto (roteiro)",
+          "pages": 328,
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
+        },
+        {
+          "title": "Jantar secreto",
+          "pages": 389,
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
+        },
+        {
+          "title": "Estação onze",
+          "pages": 320,
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
+        },
+        {
+          "title": "El mar de la tranquilidad",
+          "pages": 253,
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
+        }
+      ]
+    },
+    {
+      "books": [
+        {
+          "title": "Os imortais",
+          "pages": 249,
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
+        },
+        {
+          "title": "Lavínia",
+          "pages": 332,
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
+        },
+        {
+          "title": "Torto arado",
+          "pages": 264,
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
+        },
+        {
+          "title": "Salvar o fogo",
+          "pages": 341,
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
+        },
+        {
+          "title": "Coração sem medo",
+          "pages": 336,
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
+        },
+        {
+          "title": "Em busca do tempo perdido (7 vols.)",
+          "pages": 3680,
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
+        }
+      ]
+    },
+    {
+      "books": [
+        {
+          "title": "Trilogia Bill Hodges",
+          "pages": 1328,
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
+        },
+        {
+          "title": "Billy Summers",
+          "pages": 528,
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
+        },
+        {
+          "title": "Ulysses",
+          "pages": 1112,
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
+        },
+        {
+          "title": "Erva brava",
+          "pages": 116,
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
+        },
+        {
+          "title": "Um defeito de cor",
+          "pages": 952,
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
+        },
+        {
+          "title": "Fidelidade",
+          "pages": 288,
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
+        }
+      ]
+    },
+    {
+      "books": [
+        {
+          "title": "Intermezzo",
+          "pages": 448,
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
+        },
+        {
+          "title": "Notícias de um sequestro",
+          "pages": 336,
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
+        },
+        {
+          "title": "Perdido em Marte",
+          "pages": 384,
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
+        },
+        {
+          "title": "Primeiras estórias",
+          "pages": 240,
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
+        },
+        {
+          "title": "Corações sujos",
+          "pages": 344,
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
+        },
+        {
+          "title": "A bolsa e a vida",
+          "pages": 160,
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
+        },
+        {
+          "title": "O concorrente",
+          "pages": 256,
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
+        },
+        {
+          "title": "A cidade e suas muralhas incertas",
+          "pages": 560,
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
+        }
+      ]
+    },
+    {
+      "books": [
+        {
+          "title": "Odisseia",
+          "pages": 600,
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
+        },
+        {
+          "title": "O evangelho segundo Jesus Cristo",
+          "pages": 440,
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
+        },
+        {
+          "title": "Os detetives selvagens",
+          "pages": 624,
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
+        },
+        {
+          "title": "Tetralogia napolitana",
+          "pages": 1584,
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
+        },
+        {
+          "title": "Memorial do convento",
+          "pages": 360,
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
+        },
+        {
+          "title": "A pediatra",
+          "pages": 176,
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
+        }
+      ]
+    },
+    {
+      "books": [
+        {
+          "title": "Eu receberia as piores notícias…",
+          "pages": 216,
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
+        },
+        {
+          "title": "A máquina de fazer espanhóis",
+          "pages": 256,
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
+        },
+        {
+          "title": "Klara e o Sol",
+          "pages": 320,
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
+        },
+        {
+          "title": "Caos calmo",
+          "pages": 440,
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
+        },
+        {
+          "title": "O ano da morte de Ricardo Reis",
+          "pages": 416,
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
+        },
+        {
+          "title": "Terra à deriva",
+          "pages": 288,
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
+        }
+      ]
+    },
+    {
+      "books": [
+        {
+          "title": "Piquito de oro",
+          "pages": 208,
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
+        },
+        {
+          "title": "Noites brancas",
+          "pages": 120,
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
+        },
+        {
+          "title": "Doramar ou a odisseia",
+          "pages": 192,
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
+        },
+        {
+          "title": "Querida konbini",
+          "pages": 144,
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
+        },
+        {
+          "title": "A quizomba de Vila Isabel",
+          "pages": 240,
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
+        },
+        {
+          "title": "Salgueiro, o quilombo moderno",
+          "pages": 280,
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
+        }
+      ]
+    },
+    {
+      "books": [
+        {
+          "title": "Adeus, Columbus",
+          "pages": 256,
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
+        },
+        {
+          "title": "Tóquio ano zero (coleção)",
+          "pages": 1456,
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
+        },
+        {
+          "title": "Maldito invento de um baronete",
+          "pages": 240,
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
+        },
+        {
+          "title": "Freud, Obras completas I e II",
+          "pages": 880,
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
+        },
+        {
+          "title": "Quelé, a voz da cor",
+          "pages": 300,
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
+        },
+        {
+          "title": "Lula I e II (Fernando Morais)",
+          "pages": 1320,
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
+        }
+      ]
+    }
+  ],
+  "view": "pending"
+};
+if(!state.view) state.view="pending";
+let visibleDays=21;
+const openRows=new Set();
+
+function parseISO(s){const [y,m,d]=s.split("-").map(Number);return new Date(y,m-1,d)}
+function fmt(d){return String(d.getDate()).padStart(2,"0")+"/"+String(d.getMonth()+1).padStart(2,"0")+"/"+d.getFullYear()}
+function fmtLong(d){return d.getDate()+" "+MESES[d.getMonth()]+" "+d.getFullYear()}
+function nInt(x){return Math.round(x).toLocaleString("pt-BR")}
+function n1(x){return x.toLocaleString("pt-BR",{minimumFractionDigits:1,maximumFractionDigits:1})}
+function esc(s){return String(s).replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]))}
+function tcolor(i){return getComputedStyle(document.documentElement).getPropertyValue(TCOLORS[i%TCOLORS.length]).trim()}
+function lighten(hex,amt){const h=hex.replace("#","");const r=parseInt(h.slice(0,2),16),g=parseInt(h.slice(2,4),16),b=parseInt(h.slice(4,6),16);
+  const m=v=>Math.round(v+(255-v)*amt).toString(16).padStart(2,"0");return "#"+m(r)+m(g)+m(b)}
+
+/* ---------- projeção para a frente ---------- */
+function simulate(){
+  const tracks=state.tracks.map((t,ti)=>({
+    idx:ti,
+    books:t.books.filter(b=>String(b.title).trim()!=="" && Number(b.pages)>0).map((b,bi)=>{
+      const pages=Number(b.pages), read=Math.max(0,Math.min(Number(b.read)||0,pages));
+      return {title:b.title,pages,read0:read,read,remaining:pages-read,track:ti,order:bi,
+              startedOn:b.startedOn||"",finishedOn:b.finishedOn||"",
+              start:null,end:null,retroStart:null,retroEnd:null,retroReal:false,realDays:null,
+              days:0,done:pages-read<=0,_last:-1};
+    })
+  }));
+  const all=tracks.flatMap(t=>t.books);
+  if(!all.length) return {error:"empty"};
+  if(!state.weekdays.some(Boolean)) return {error:"nodays"};
+  if(!(state.pagesPerDay>0)) return {error:"nopages"};
+  const pend=tracks.map(t=>t.books.filter(b=>!b.done));
+  if(!pend.some(p=>p.length)){const s={error:"alldone",tracks,books:all};backProject(s);return s}
+
+  const cur=pend.map(()=>0);
+  const alive=()=>pend.some((p,i)=>cur[i]<p.length);
+  const days=[]; let d=parseISO(state.start), guard=0, truncated=false, di=0;
+
+  while(alive()){
+    if(++guard>7300){truncated=true;break}
+    if(state.weekdays[d.getDay()]){
+      const active=pend.filter((p,i)=>cur[i]<p.length).length;
+      const per=state.pagesPerDay/(state.redistribute?active:tracks.length);
+      const entries=[];
+      pend.forEach((p,ti)=>{
+        let budget=per;
+        while(budget>1e-9 && cur[ti]<p.length){
+          const b=p[cur[ti]];
+          const amount=Math.min(budget,b.remaining);
+          const from=Math.floor(b.read)+1;
+          b.read+=amount; b.remaining-=amount; budget-=amount;
+          if(!b.start) b.start=new Date(d);
+          if(b._last!==di){b.days++;b._last=di}
+          const to=Math.max(from,Math.min(b.pages,Math.round(b.read)));
+          entries.push({track:ti,book:b,from,to,amount});
+          if(b.remaining<=1e-9){b.end=new Date(d);cur[ti]++}
+        }
+      });
+      days.push({date:new Date(d),entries});di++;
+    }
+    if(alive()) d=new Date(d.getTime()+DAY); else break;
+  }
+  const sim={tracks,books:all,days,truncated};
+  backProject(sim);
+  return sim;
+}
+
+/* ---------- retroprojeção do que já foi lido ---------- */
+function backProject(sim){
+  const nTracks=sim.tracks.length||1;
+  const per=state.pagesPerDay/nTracks;           // cota fixa: redistribuir só faz sentido para a frente
+  const startD=parseISO(state.start);
+  const prevReading=d=>{let g=0;while(!state.weekdays[d.getDay()] && g++<14) d=new Date(d.getTime()-DAY);return d};
+  sim.tracks.forEach(t=>{
+    const readBooks=t.books.filter(b=>b.read0>0);
+    if(!readBooks.length) return;
+    let i=readBooks.length-1, rem=readBooks[i].read0, guard=0;
+    let d=prevReading(new Date(startD.getTime()-DAY));
+    while(i>=0 && guard++<7300){
+      let budget=per;
+      while(budget>1e-9 && i>=0){
+        const b=readBooks[i];
+        if(!b.retroEnd) b.retroEnd=b.done?new Date(d):new Date(startD);
+        const a=Math.min(budget,rem);
+        rem-=a; budget-=a; b.retroStart=new Date(d);
+        if(rem<=1e-9){i--; if(i>=0) rem=readBooks[i].read0}
+      }
+      if(i>=0) d=prevReading(new Date(d.getTime()-DAY));
+    }
+  });
+  applyRealDates(sim);
+}
+
+/* ---------- datas informadas pelo leitor têm prioridade ---------- */
+function applyRealDates(sim){
+  const per=state.pagesPerDay/(sim.tracks.length||1);
+  const startD=parseISO(state.start);
+  const walk=(from,n,dir)=>{let r=new Date(from),c=0,g=0;
+    while(c<n&&g++<7300){r=new Date(r.getTime()+dir*DAY);if(state.weekdays[r.getDay()])c++}return r};
+  sim.books.forEach(b=>{
+    if(b.read0<=0) return;
+    const s=b.startedOn?parseISO(b.startedOn):null;
+    const f=b.finishedOn?parseISO(b.finishedOn):null;
+    const est=Math.max(1,Math.ceil(b.read0/per));
+    if(s&&f&&f>=s){b.retroStart=s;b.retroEnd=f;b.retroReal=true}
+    else if(s&&!f){b.retroStart=s;b.retroEnd=b.done?walk(s,est,1):new Date(startD);b.retroReal=!b.done}
+    else if(f&&!s){b.retroEnd=f;b.retroStart=walk(f,est,-1);b.retroReal=false}
+    if(b.retroReal) b.realDays=Math.round((b.retroEnd-b.retroStart)/DAY)+1;
+  });
+}
+
+/* ---------- render ---------- */
+function render(){
+  renderPanel();
+  const sim=simulate();
+  const msg={empty:"Adicione ao menos um livro com título e páginas.",
+             nodays:"Escolha pelo menos um dia da semana.",
+             nopages:"Defina as páginas por dia.",
+             alldone:"Tudo lido — não há nada pendente para agendar."}[sim.error];
+  document.getElementById("alert").innerHTML=msg?`<div class="warn">${msg}</div>`:
+    (sim.truncated?`<div class="warn">O plano ultrapassa 20 anos — reveja o ritmo ou a fila.</div>`:"");
+  document.querySelectorAll("[data-view]").forEach(b=>b.setAttribute("aria-pressed",state.view===b.dataset.view));
+  if(sim.error){
+    ["stats","byTrack","daily"].forEach(id=>document.getElementById(id).innerHTML="");
+    if(sim.books){renderTimeline(sim);renderByBook(sim)}else{document.getElementById("timeline").innerHTML=""}
+    return;
+  }
+  renderStats(sim);renderTimeline(sim);renderByTrack(sim);renderByBook(sim);renderDaily(sim);renderExports(sim);
+}
+
+function renderPanel(){
+  document.getElementById("start").value=state.start;
+  document.getElementById("ppd").value=state.pagesPerDay;
+  document.getElementById("redist").checked=state.redistribute;
+  document.getElementById("weekdays").innerHTML=DIAS.map((d,i)=>
+    `<button class="chip" type="button" data-wd="${i}" aria-pressed="${state.weekdays[i]}">${d}</button>`).join("");
+  const n=state.tracks.length||1;
+  document.getElementById("perTrack").textContent=`${n1(state.pagesPerDay/n)} páginas por dia em cada uma das ${n} trilhas.`;
+
+  document.getElementById("tracks").innerHTML=state.tracks.map((t,ti)=>{
+    const tot=t.books.reduce((a,b)=>a+(Number(b.pages)||0),0);
+    const lido=t.books.reduce((a,b)=>a+Math.min(Number(b.read)||0,Number(b.pages)||0),0);
+    return `<div class="trk">
+      <div class="trk-hd">
+        <span class="bar" style="background:${tcolor(ti)}"></span>
+        <strong>Trilha ${ti+1}</strong>
+        <span class="meta">${nInt(lido)}/${nInt(tot)} p.</span>
+        <button class="btn tiny" data-deltrack="${ti}" type="button" aria-label="Remover trilha ${ti+1}">×</button>
+      </div>
+      <div class="colhd"><span>Título</span><span>lido</span><span>total</span><span></span></div>
+      ${t.books.map((b,bi)=>{
+        const done=(Number(b.read)||0)>=(Number(b.pages)||0);
+        const hasD=!!(b.startedOn||b.finishedOn);
+        const open=hasD||openRows.has(ti+":"+bi);
+        return `<div class="book">
+          <input type="text" data-t="${ti}" data-b="${bi}" data-f="title" value="${esc(b.title)}" aria-label="Título">
+          <input type="number" min="0" data-t="${ti}" data-b="${bi}" data-f="read" value="${Number(b.read)||0}" class="${done?"done":""}" aria-label="Páginas lidas">
+          <input type="number" min="1" data-t="${ti}" data-b="${bi}" data-f="pages" value="${b.pages}" aria-label="Total de páginas">
+          <span class="ctrls">
+            <button class="btn tiny${hasD?" on":""}" data-cal="${ti}:${bi}" type="button" aria-label="Datas de leitura" aria-expanded="${open}">⌄</button>
+            <button class="btn tiny" data-up="${ti}:${bi}" type="button" aria-label="Subir">↑</button>
+            <button class="btn tiny" data-del="${ti}:${bi}" type="button" aria-label="Remover">×</button>
+          </span></div>
+          ${open?`<div class="book-dates">
+            <div><label>comecei em</label><input type="date" data-t="${ti}" data-b="${bi}" data-f="startedOn" value="${b.startedOn||""}"></div>
+            <div><label>terminei em</label><input type="date" data-t="${ti}" data-b="${bi}" data-f="finishedOn" value="${b.finishedOn||""}"></div>
+          </div>`:""}`;
+      }).join("")}
+      <button class="btn tiny" data-add="${ti}" type="button">+ livro</button>
+    </div>`;
+  }).join("");
+}
+
+function renderStats(sim){
+  const last=sim.days[sim.days.length-1].date, first=sim.days[0].date;
+  const corridos=Math.round((last-first)/DAY)+1;
+  const total=sim.books.reduce((a,b)=>a+b.pages,0);
+  const lido=sim.books.reduce((a,b)=>a+b.read0,0);
+  const ends=sim.tracks.filter(t=>t.books.some(b=>b.end)).map(t=>Math.max(...t.books.filter(b=>b.end).map(b=>b.end)));
+  const firstEnd=new Date(Math.min(...ends));
+  document.getElementById("stats").innerHTML=`
+    <div class="stat"><div class="k">Última página</div><div class="v">${fmtLong(last)}</div></div>
+    <div class="stat"><div class="k">Daqui até lá</div><div class="v">${n1(corridos/30.44)} <small>meses · ${nInt(sim.days.length)} dias de leitura</small></div></div>
+    <div class="stat"><div class="k">Falta ler</div><div class="v">${nInt(total-lido)} <small>de ${nInt(total)} p. (${n1(lido/total*100)}% lido)</small></div></div>
+    <div class="stat"><div class="k">1ª trilha a fechar</div><div class="v">${fmtLong(firstEnd)}</div></div>
+    ${observed(sim)}`;
+}
+
+function observed(sim){
+  const reals=sim.books.filter(b=>b.retroReal&&b.retroStart&&b.retroEnd);
+  if(!reals.length) return "";
+  const ini=new Date(Math.min(...reals.map(b=>b.retroStart)));
+  const fim=new Date(Math.max(...reals.map(b=>b.retroEnd)));
+  const dias=Math.max(1,Math.round((fim-ini)/DAY)+1);
+  const pags=reals.reduce((a,b)=>a+b.read0,0);
+  return `<div class="stat"><div class="k">Ritmo observado</div>
+    <div class="v">${n1(pags/dias)} <small>p./dia em ${reals.length} título${reals.length>1?"s":""} datado${reals.length>1?"s":""}</small></div></div>`;
+}
+
+function renderTimeline(sim){
+  const full=state.view==="full";
+  const startD=parseISO(state.start);
+  const fwd=sim.days&&sim.days.length;
+  let first=fwd?sim.days[0].date:startD;
+  let last=fwd?sim.days[sim.days.length-1].date:startD;
+  if(full){
+    sim.books.forEach(b=>{if(b.retroStart&&b.retroStart<first)first=b.retroStart;
+                          if(b.retroEnd&&b.retroEnd>last)last=b.retroEnd});
+  }
+  const span=Math.max(1,Math.round((last-first)/DAY)+1);
+  const pos=d=>Math.max(0,Math.min(100,Math.round((d-first)/DAY)/span*100));
+
+  let ticks="";
+  let m=new Date(first.getFullYear(),first.getMonth()+1,1);
+  const step=span>1500?6:span>900?3:1;
+  while(m<=last){
+    if(m.getMonth()%step===0){
+      const label=(m.getMonth()===0)?MESES[0]+" "+m.getFullYear():MESES[m.getMonth()];
+      ticks+=`<span class="tick" style="left:${pos(m)}%">${label}</span>`;
+    }
+    m=new Date(m.getFullYear(),m.getMonth()+1,1);
+  }
+  const nowLbl=full&&startD>first?`<span class="nowlbl" style="left:${pos(startD)}%">hoje</span>`:"";
+  let html=`<div class="trackrow"><span class="lbl"></span><div class="axis">
+      <span class="tick" style="left:0;border:0;padding:0">${fmt(first)}</span>${ticks}${nowLbl}</div></div>`;
+
+  sim.tracks.forEach(t=>{
+    const base=tcolor(t.idx);
+    let ribbons="";
+    t.books.forEach(b=>{
+      const alt=b.order%2===1;
+      const bg=alt?lighten(base,.55):base;
+      const cls=`ribbon${alt?" alt":""}`;
+      if(full&&b.retroStart){
+        const to=b.retroEnd||startD;
+        const l=pos(b.retroStart), w=Math.max(.5,(Math.round((to-b.retroStart)/DAY)+1)/span*100);
+        const tip=b.retroReal
+          ? `${b.title} · lido de ${fmt(b.retroStart)} a ${fmt(to)} · ${n1(b.read0/Math.max(1,b.realDays))} p./dia`
+          : `${b.title} · ${nInt(b.read0)} p. lidas, período estimado`;
+        ribbons+=`<div class="${cls} read${b.retroReal?"":" est"}" style="left:${l}%;width:${w}%;background:${bg}" title="${esc(tip)}">${b.done?esc(b.title):""}</div>`;
+      }
+      if(b.start){
+        const l=pos(b.start), w=Math.max(.5,(Math.round((b.end-b.start)/DAY)+1)/span*100);
+        ribbons+=`<div class="${cls}" style="left:${l}%;width:${w}%;background:${bg}" title="${esc(b.title)} · ${fmt(b.start)} a ${fmt(b.end)}">${esc(b.title)}</div>`;
+      }
+    });
+    const now=full&&startD>first?`<span class="now" style="left:${pos(startD)}%"></span>`:"";
+    html+=`<div class="trackrow"><span class="lbl">${t.idx+1}</span><div class="track">${ribbons}${now}</div></div>`;
+  });
+  document.getElementById("timeline").innerHTML=html;
+  document.getElementById("legend").innerHTML= full
+    ? `<span><i class="hatch"></i>lido, com as datas que você informou</span><span><i class="est"></i>lido, período estimado</span><span><i></i>a ler</span><span>linha pontilhada: a data de referência</span>`
+    : `<span><i></i>a ler, a partir de ${fmt(startD)}</span><span>livros já concluídos ficam de fora</span>`;
+}
+
+function renderByTrack(sim){
+  const rows=sim.tracks.filter(t=>t.books.length).map(t=>{
+    const sched=t.books.filter(b=>b.end);
+    const pages=t.books.reduce((a,b)=>a+b.pages,0);
+    const rest=t.books.reduce((a,b)=>a+(b.pages-b.read0),0);
+    const last=sched.length?sched[sched.length-1]:null;
+    return `<tr>
+      <td><span class="swatch" style="background:${tcolor(t.idx)}"></span>Trilha ${t.idx+1}</td>
+      <td class="num">${t.books.length}</td>
+      <td class="num">${nInt(pages)}</td>
+      <td class="num">${nInt(rest)}</td>
+      <td class="num">${last?fmt(last.end):"—"}</td>
+      <td class="title">${last?esc(last.title):'<span class="tag">concluída</span>'}</td></tr>`;
+  }).join("");
+  document.getElementById("byTrack").innerHTML=`<thead><tr><th>Trilha</th>
+    <th style="text-align:right">Títulos</th><th style="text-align:right">Páginas</th>
+    <th style="text-align:right">Falta</th><th style="text-align:right">Fecha em</th>
+    <th>Último título</th></tr></thead><tbody>${rows}</tbody>`;
+}
+
+function renderByBook(sim){
+  const rows=sim.books.map(b=>{
+    const pct=Math.min(100,b.read0/b.pages*100);
+    const ini=b.startedOn?fmt(parseISO(b.startedOn)):(b.start?fmt(b.start):"—");
+    const fim=b.finishedOn?fmt(parseISO(b.finishedOn)):(b.end?fmt(b.end):"—");
+    const dias=b.retroReal?b.realDays:(b.days||null);
+    const ritmo=b.retroReal?b.read0/Math.max(1,b.realDays):(b.days?(b.pages-b.read0)/b.days:null);
+    return `<tr class="${b.done?"done":""}">
+      <td class="title"><span class="swatch" style="background:${tcolor(b.track)}"></span>${esc(b.title)}</td>
+      <td class="num">${b.track+1}.${b.order+1}</td>
+      <td><div class="prog" title="${nInt(b.read0)} de ${nInt(b.pages)} p."><i style="width:${pct}%;background:${tcolor(b.track)}"></i></div></td>
+      <td class="num">${nInt(b.pages-b.read0)}</td>
+      <td class="num">${ini}</td>
+      <td class="num">${fim}</td>
+      <td class="num">${dias?nInt(dias):"—"}</td>
+      <td class="num">${ritmo?n1(ritmo):"—"}${b.retroReal?' <span class="tag">real</span>':""}</td></tr>`;
+  }).join("");
+  document.getElementById("byBook").innerHTML=`<thead><tr><th>Livro</th>
+    <th style="text-align:right">Pos.</th><th>Progresso</th><th style="text-align:right">Falta</th>
+    <th style="text-align:right">Início</th><th style="text-align:right">Fim</th>
+    <th style="text-align:right">Dias</th><th style="text-align:right">Pág./dia</th></tr></thead><tbody>${rows}</tbody>`;
+}
+
+function renderDaily(sim){
+  const show=sim.days.slice(0,visibleDays);
+  const head=`<thead><tr><th>Dia</th>${sim.tracks.map((t,i)=>`<th>T${i+1}</th>`).join("")}</tr></thead>`;
+  const body=show.map(d=>{
+    const cells=sim.tracks.map((t,ti)=>{
+      const es=d.entries.filter(x=>x.track===ti);
+      if(!es.length) return `<td class="empty">—</td>`;
+      return `<td>${es.map(e=>`<span class="title">${esc(e.book.title)}</span><br><span class="num" style="text-align:left">p. ${e.from}–${e.to}</span>`).join("<br>")}</td>`;
+    }).join("");
+    return `<tr><td class="num" style="text-align:left">${DIAS[d.date.getDay()]} ${fmt(d.date)}</td>${cells}</tr>`;
+  }).join("");
+  document.getElementById("daily").innerHTML=head+`<tbody>${body}</tbody>`;
+  document.getElementById("dayCount").textContent=`${Math.min(visibleDays,sim.days.length)} de ${sim.days.length} dias`;
+  document.getElementById("moreDays").style.display=visibleDays>=sim.days.length?"none":"";
+}
+
+function renderExports(sim){
+  const lines=["Data;Dia;Trilha;Livro;De;Ate;Paginas"];
+  sim.days.forEach(d=>d.entries.forEach(e=>lines.push(
+    [fmt(d.date),DIAS[d.date.getDay()],e.track+1,String(e.book.title).replace(/;/g,","),e.from,e.to,n1(e.amount)].join(";"))));
+  document.getElementById("csv").value=lines.join("\n");
+  document.getElementById("json").value=JSON.stringify(state,null,2);
+}
+
+/* ---------- eventos ---------- */
+document.querySelectorAll("[data-view]").forEach(b=>b.addEventListener("click",()=>{state.view=b.dataset.view;render()}));
+document.getElementById("start").addEventListener("change",e=>{state.start=e.target.value;render()});
+document.getElementById("ppd").addEventListener("input",e=>{state.pagesPerDay=Number(e.target.value);render()});
+document.getElementById("redist").addEventListener("change",e=>{state.redistribute=e.target.checked;render()});
+document.getElementById("moreDays").addEventListener("click",()=>{visibleDays+=30;render()});
+document.getElementById("addTrack").addEventListener("click",()=>{state.tracks.push({books:[{title:"",pages:300,read:0}]});render()});
+document.getElementById("weekdays").addEventListener("click",e=>{
+  const b=e.target.closest("[data-wd]");if(!b)return;
+  state.weekdays[Number(b.dataset.wd)]=!state.weekdays[Number(b.dataset.wd)];render();
+});
+document.getElementById("tracks").addEventListener("input",e=>{
+  const t=e.target;if(t.dataset.t===undefined)return;
+  const ti=Number(t.dataset.t),bi=Number(t.dataset.b),f=t.dataset.f;
+  const txt=(f==="title"||f==="startedOn"||f==="finishedOn");
+  state.tracks[ti].books[bi][f]=txt?t.value:Number(t.value);
+  const bk=state.tracks[ti].books[bi];
+  if(f==="finishedOn"&&t.value&&(Number(bk.read)||0)<Number(bk.pages)) bk.read=Number(bk.pages);
+  const readInput=document.querySelector(`[data-t="${ti}"][data-b="${bi}"][data-f=read]`);
+  if(readInput){readInput.value=Number(bk.read)||0;
+    readInput.classList.toggle("done",(Number(bk.read)||0)>=(Number(bk.pages)||0))}
+  const sim=simulate();
+  if(!sim.error){renderStats(sim);renderTimeline(sim);renderByTrack(sim);renderByBook(sim);renderDaily(sim);renderExports(sim)}
+});
+document.getElementById("tracks").addEventListener("click",e=>{
+  const add=e.target.closest("[data-add]"),del=e.target.closest("[data-del]"),
+        up=e.target.closest("[data-up]"),dt=e.target.closest("[data-deltrack]"),
+        cal=e.target.closest("[data-cal]");
+  if(cal){const k=cal.dataset.cal;openRows.has(k)?openRows.delete(k):openRows.add(k);renderPanel();return}
+  if(add){state.tracks[Number(add.dataset.add)].books.push({title:"",pages:300,read:0});render()}
+  if(del){const [ti,bi]=del.dataset.del.split(":").map(Number);state.tracks[ti].books.splice(bi,1);render()}
+  if(up){const [ti,bi]=up.dataset.up.split(":").map(Number);
+    if(bi>0){const bks=state.tracks[ti].books;[bks[bi-1],bks[bi]]=[bks[bi],bks[bi-1]];render()}}
+  if(dt){state.tracks.splice(Number(dt.dataset.deltrack),1);render()}
+});
+document.querySelectorAll("[data-copy]").forEach(btn=>btn.addEventListener("click",()=>{
+  const ta=document.getElementById(btn.dataset.copy);ta.select();ta.setSelectionRange(0,999999);
+  try{document.execCommand("copy")}catch(err){}
+  const old=btn.textContent;btn.textContent="Copiado";setTimeout(()=>btn.textContent=old,1400);
+}));
+document.getElementById("loadJson").addEventListener("click",()=>{
+  try{
+    const o=JSON.parse(document.getElementById("json").value);
+    if(!Array.isArray(o.tracks)) throw new Error("faltam as trilhas");
+    o.tracks.forEach(t=>t.books.forEach(b=>{if(b.read===undefined)b.read=0;
+      if(b.startedOn===undefined)b.startedOn="";if(b.finishedOn===undefined)b.finishedOn=""}));
+    state={...state,...o};visibleDays=21;render();
+  }catch(err){alert("Não deu para ler esse JSON: "+err.message)}
+});
+
+/* ---------- salvamento no navegador ---------- */
+const LKEY="cronograma-leituras-v1", GKEY="cronograma-leituras-github";
+let saveTimer=null, savedAt=null, syncAt=null, syncMsg="", ghSha=null;
+
+function lsGet(k){try{return localStorage.getItem(k)}catch(e){return null}}
+function lsSet(k,v){try{localStorage.setItem(k,v);return true}catch(e){return false}}
+function storageOk(){try{localStorage.setItem("__t","1");localStorage.removeItem("__t");return true}catch(e){return false}}
+
+function persist(){
+  state.updatedAt=new Date().toISOString();
+  if(lsSet(LKEY,JSON.stringify(state))) savedAt=new Date();
+  showStatus();
+}
+function schedule(){clearTimeout(saveTimer);saveTimer=setTimeout(persist,600)}
+function hhmm(d){return String(d.getHours()).padStart(2,"0")+":"+String(d.getMinutes()).padStart(2,"0")}
+
+function showStatus(){
+  const el=document.getElementById("syncStatus");if(!el)return;
+  const parts=[];
+  if(!storageOk()) parts.push("Este ambiente não permite salvar no navegador — guarde o JSON abaixo.");
+  else parts.push(savedAt?("Salvo neste navegador às "+hhmm(savedAt)+"."):"Nada salvo ainda neste navegador.");
+  if(syncAt) parts.push("GitHub: "+syncMsg+" às "+hhmm(syncAt)+".");
+  else if(syncMsg) parts.push("GitHub: "+syncMsg+".");
+  el.textContent=parts.join(" ");
+}
+
+/* ---------- configuração do GitHub ---------- */
+function ghCfg(){try{return JSON.parse(lsGet(GKEY)||"{}")}catch(e){return {}}}
+function ghFill(){
+  const c=ghCfg();
+  const set=(id,v)=>{const el=document.getElementById(id);if(el)el.value=v||""};
+  set("ghOwner",c.owner);set("ghRepo",c.repo);set("ghPath",c.path||"cronograma.json");
+  set("ghBranch",c.branch||"main");set("ghToken",c.token);
+}
+function ghRead(){
+  const g=id=>((document.getElementById(id)||{}).value||"");
+  return {owner:g("ghOwner").trim(),repo:g("ghRepo").trim(),
+          path:(g("ghPath").trim()||"cronograma.json"),branch:(g("ghBranch").trim()||"main"),
+          token:g("ghToken").trim()};
+}
+function ghReady(c){return !!(c.owner&&c.repo&&c.path)}
+function ghHeaders(c){
+  const h={"Accept":"application/vnd.github+json"};
+  if(c.token) h["Authorization"]="Bearer "+c.token;
+  return h;
+}
+function b64enc(str){const bytes=new TextEncoder().encode(str);let bin="";
+  bytes.forEach(b=>{bin+=String.fromCharCode(b)});return btoa(bin)}
+function b64dec(s){const bin=atob(String(s).replace(/\s/g,""));
+  return new TextDecoder().decode(Uint8Array.from(bin,c=>c.charCodeAt(0)))}
+
+async function ghFetch(c){
+  const url="https://api.github.com/repos/"+c.owner+"/"+c.repo+"/contents/"+encodeURIComponent(c.path)
+            +"?ref="+encodeURIComponent(c.branch)+"&t="+Date.now();
+  const r=await fetch(url,{headers:ghHeaders(c),cache:"no-store"});
+  if(r.status===404) return null;
+  if(!r.ok) throw new Error("HTTP "+r.status+(r.status===401?" — token inválido":r.status===403?" — sem permissão ou limite atingido":""));
+  const j=await r.json();
+  ghSha=j.sha;
+  return JSON.parse(b64dec(j.content));
+}
+async function ghPut(c){
+  try{await ghFetch(c)}catch(e){}
+  const url="https://api.github.com/repos/"+c.owner+"/"+c.repo+"/contents/"+encodeURIComponent(c.path);
+  const body={message:"cronograma de leituras — "+fmt(new Date()),
+              content:b64enc(JSON.stringify(state,null,2)),branch:c.branch};
+  if(ghSha) body.sha=ghSha;
+  const r=await fetch(url,{method:"PUT",headers:Object.assign(ghHeaders(c),{"Content-Type":"application/json"}),body:JSON.stringify(body)});
+  if(!r.ok){const t=await r.text();throw new Error("HTTP "+r.status+" "+t.slice(0,120))}
+  const j=await r.json(); ghSha=j.content&&j.content.sha;
+}
+
+function normalize(o){
+  const s=Object.assign({},state,o);
+  s.view=s.view||"pending";
+  (s.tracks||[]).forEach(t=>(t.books||[]).forEach(b=>{
+    if(b.read===undefined)b.read=0;
+    if(b.startedOn===undefined)b.startedOn="";
+    if(b.finishedOn===undefined)b.finishedOn="";
+  }));
+  return s;
+}
+
+document.getElementById("ghSaveCfg").addEventListener("click",()=>{
+  const c=ghRead();
+  if(!ghReady(c)){syncMsg="preencha usuário, repositório e arquivo";syncAt=null;showStatus();return}
+  lsSet(GKEY,JSON.stringify(c));syncMsg="configuração guardada";syncAt=new Date();showStatus();
+});
+document.getElementById("ghPush").addEventListener("click",async()=>{
+  const c=ghRead();
+  if(!ghReady(c)||!c.token){syncMsg="para gravar é preciso a configuração completa e o token";syncAt=null;showStatus();return}
+  lsSet(GKEY,JSON.stringify(c));
+  syncMsg="enviando…";syncAt=null;showStatus();
+  try{persist();await ghPut(c);syncMsg="enviado";syncAt=new Date()}
+  catch(err){syncMsg="falhou ao enviar ("+err.message+")";syncAt=null}
+  showStatus();
+});
+document.getElementById("ghPull").addEventListener("click",async()=>{
+  const c=ghRead();
+  if(!ghReady(c)){syncMsg="preencha usuário, repositório e arquivo";syncAt=null;showStatus();return}
+  lsSet(GKEY,JSON.stringify(c));
+  syncMsg="buscando…";syncAt=null;showStatus();
+  try{
+    const remote=await ghFetch(c);
+    if(!remote){syncMsg="o arquivo ainda não existe no repositório";syncAt=null}
+    else{state=normalize(remote);visibleDays=21;openRows.clear();render();persist();syncMsg="trazido do repositório";syncAt=new Date()}
+  }catch(err){syncMsg="falhou ao buscar ("+err.message+")";syncAt=null}
+  showStatus();
+});
+
+/* salva sozinho depois de qualquer alteração */
+document.addEventListener("input",schedule,true);
+document.addEventListener("click",e=>{if(e.target.closest("button"))schedule()},true);
+
+/* ---------- início ---------- */
+(async function boot(){
+  const raw=lsGet(LKEY);
+  if(raw){try{const o=JSON.parse(raw);if(Array.isArray(o.tracks)){state=normalize(o);savedAt=new Date(o.updatedAt||Date.now())}}catch(e){}}
+  render();ghFill();showStatus();
+  const c=ghCfg();
+  if(ghReady(c)){
+    try{
+      const remote=await ghFetch(c);
+      if(remote){
+        const rt=new Date(remote.updatedAt||0), lt=new Date(state.updatedAt||0);
+        if(!raw||rt>lt){state=normalize(remote);render();syncMsg="versão do repositório carregada";syncAt=new Date()}
+        else{syncMsg=(rt<lt)?"o repositório está atrás desta versão":"em dia";syncAt=new Date()}
+      }
+    }catch(err){syncMsg="não deu para ler o repositório ("+err.message+")"}
+    showStatus();
+  }
+})();
+</script>
+</body>
+</html>

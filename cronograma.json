@@ -1,0 +1,498 @@
+{
+  "start": "2026-08-11",
+  "pagesPerDay": 80,
+  "weekdays": [
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true
+  ],
+  "redistribute": false,
+  "tracks": [
+    {
+      "books": [
+        {
+          "title": "Kafka à beira-mar",
+          "pages": 701,
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
+        },
+        {
+          "title": "A cabeça do santo",
+          "pages": 177,
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
+        },
+        {
+          "title": "Novembro de 63",
+          "pages": 1059,
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
+        },
+        {
+          "title": "O problema dos 3 corpos",
+          "pages": 507,
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
+        },
+        {
+          "title": "Trilogia 1Q84",
+          "pages": 1499,
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
+        },
+        {
+          "title": "O teatro de Sabbath",
+          "pages": 651,
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
+        },
+        {
+          "title": "Kramp",
+          "pages": 113,
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
+        },
+        {
+          "title": "O colibri",
+          "pages": 321,
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
+        },
+        {
+          "title": "Setembro negro",
+          "pages": 276,
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
+        },
+        {
+          "title": "Conversas entre amigos",
+          "pages": 332,
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
+        },
+        {
+          "title": "Pessoas normais",
+          "pages": 295,
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
+        },
+        {
+          "title": "Belo mundo, onde você está",
+          "pages": 370,
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
+        },
+        {
+          "title": "Rei Lear",
+          "pages": 395,
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
+        },
+        {
+          "title": "Não me abandone jamais",
+          "pages": 377,
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
+        },
+        {
+          "title": "Pra tudo começar na quinta-feira",
+          "pages": 293,
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
+        },
+        {
+          "title": "Após o anoitecer",
+          "pages": 197,
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
+        },
+        {
+          "title": "O agente secreto (roteiro)",
+          "pages": 328,
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
+        },
+        {
+          "title": "Jantar secreto",
+          "pages": 389,
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
+        },
+        {
+          "title": "Estação onze",
+          "pages": 320,
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
+        },
+        {
+          "title": "El mar de la tranquilidad",
+          "pages": 253,
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
+        }
+      ]
+    },
+    {
+      "books": [
+        {
+          "title": "Os imortais",
+          "pages": 249,
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
+        },
+        {
+          "title": "Lavínia",
+          "pages": 332,
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
+        },
+        {
+          "title": "Torto arado",
+          "pages": 264,
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
+        },
+        {
+          "title": "Salvar o fogo",
+          "pages": 341,
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
+        },
+        {
+          "title": "Coração sem medo",
+          "pages": 336,
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
+        },
+        {
+          "title": "Em busca do tempo perdido (7 vols.)",
+          "pages": 3680,
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
+        }
+      ]
+    },
+    {
+      "books": [
+        {
+          "title": "Trilogia Bill Hodges",
+          "pages": 1328,
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
+        },
+        {
+          "title": "Billy Summers",
+          "pages": 528,
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
+        },
+        {
+          "title": "Ulysses",
+          "pages": 1112,
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
+        },
+        {
+          "title": "Erva brava",
+          "pages": 116,
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
+        },
+        {
+          "title": "Um defeito de cor",
+          "pages": 952,
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
+        },
+        {
+          "title": "Fidelidade",
+          "pages": 288,
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
+        }
+      ]
+    },
+    {
+      "books": [
+        {
+          "title": "Intermezzo",
+          "pages": 448,
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
+        },
+        {
+          "title": "Notícias de um sequestro",
+          "pages": 336,
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
+        },
+        {
+          "title": "Perdido em Marte",
+          "pages": 384,
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
+        },
+        {
+          "title": "Primeiras estórias",
+          "pages": 240,
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
+        },
+        {
+          "title": "Corações sujos",
+          "pages": 344,
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
+        },
+        {
+          "title": "A bolsa e a vida",
+          "pages": 160,
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
+        },
+        {
+          "title": "O concorrente",
+          "pages": 256,
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
+        },
+        {
+          "title": "A cidade e suas muralhas incertas",
+          "pages": 560,
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
+        }
+      ]
+    },
+    {
+      "books": [
+        {
+          "title": "Odisseia",
+          "pages": 600,
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
+        },
+        {
+          "title": "O evangelho segundo Jesus Cristo",
+          "pages": 440,
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
+        },
+        {
+          "title": "Os detetives selvagens",
+          "pages": 624,
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
+        },
+        {
+          "title": "Tetralogia napolitana",
+          "pages": 1584,
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
+        },
+        {
+          "title": "Memorial do convento",
+          "pages": 360,
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
+        },
+        {
+          "title": "A pediatra",
+          "pages": 176,
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
+        }
+      ]
+    },
+    {
+      "books": [
+        {
+          "title": "Eu receberia as piores notícias…",
+          "pages": 216,
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
+        },
+        {
+          "title": "A máquina de fazer espanhóis",
+          "pages": 256,
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
+        },
+        {
+          "title": "Klara e o Sol",
+          "pages": 320,
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
+        },
+        {
+          "title": "Caos calmo",
+          "pages": 440,
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
+        },
+        {
+          "title": "O ano da morte de Ricardo Reis",
+          "pages": 416,
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
+        },
+        {
+          "title": "Terra à deriva",
+          "pages": 288,
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
+        }
+      ]
+    },
+    {
+      "books": [
+        {
+          "title": "Piquito de oro",
+          "pages": 208,
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
+        },
+        {
+          "title": "Noites brancas",
+          "pages": 120,
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
+        },
+        {
+          "title": "Doramar ou a odisseia",
+          "pages": 192,
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
+        },
+        {
+          "title": "Querida konbini",
+          "pages": 144,
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
+        },
+        {
+          "title": "A quizomba de Vila Isabel",
+          "pages": 240,
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
+        },
+        {
+          "title": "Salgueiro, o quilombo moderno",
+          "pages": 280,
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
+        }
+      ]
+    },
+    {
+      "books": [
+        {
+          "title": "Adeus, Columbus",
+          "pages": 256,
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
+        },
+        {
+          "title": "Tóquio ano zero (coleção)",
+          "pages": 1456,
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
+        },
+        {
+          "title": "Maldito invento de um baronete",
+          "pages": 240,
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
+        },
+        {
+          "title": "Freud, Obras completas I e II",
+          "pages": 880,
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
+        },
+        {
+          "title": "Quelé, a voz da cor",
+          "pages": 300,
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
+        },
+        {
+          "title": "Lula I e II (Fernando Morais)",
+          "pages": 1320,
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
+        }
+      ]
+    }
+  ],
+  "view": "pending",
+  "updatedAt": ""
+}
