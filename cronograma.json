@@ -448,15 +448,15 @@
     {
       "books": [
         {
-          "title": "Piquito de oro",
-          "pages": 280,
+          "title": "Noites brancas",
+          "pages": 96,
           "read": 0,
           "startedOn": "2026-08-11",
           "finishedOn": ""
         },
         {
-          "title": "Noites brancas",
-          "pages": 96,
+          "title": "Piquito de oro",
+          "pages": 280,
           "read": 0,
           "startedOn": "",
           "finishedOn": ""
@@ -609,5 +609,5 @@
     }
   ],
   "view": "pending",
-  "updatedAt": "2026-08-11T21:18:57.389Z"
+  "updatedAt": "2026-08-11T21:19:53.334Z"
 }
