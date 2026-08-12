@@ -360,6 +360,11 @@
           "title": "Doutor sono",
           "pages": 625,
           "read": 0
+        },
+        {
+          "title": "A epopeia de Gilgamesh",
+          "pages": 163,
+          "read": 0
         }
       ]
     },
@@ -702,16 +707,16 @@
           "finishedOn": ""
         },
         {
+          "title": "Ilíada",
+          "pages": 720,
+          "read": 0
+        },
+        {
           "title": "Piquito de oro",
           "pages": 280,
           "read": 0,
           "startedOn": "",
           "finishedOn": ""
-        },
-        {
-          "title": "Ilíada",
-          "pages": 720,
-          "read": 0
         },
         {
           "title": "Doramar ou a odisseia",
@@ -959,5 +964,5 @@
     }
   ],
   "view": "pending",
-  "updatedAt": "2026-08-12T01:54:02.835Z"
+  "updatedAt": "2026-08-12T01:59:38.749Z"
 }
