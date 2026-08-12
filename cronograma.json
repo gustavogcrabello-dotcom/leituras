@@ -50,6 +50,11 @@
           "finishedOn": ""
         },
         {
+          "title": "Grande Sertão: veredas",
+          "pages": 504,
+          "read": 0
+        },
+        {
           "title": "Kramp",
           "pages": 113,
           "read": 0,
@@ -127,20 +132,6 @@
           "finishedOn": ""
         },
         {
-          "title": "O agente secreto (roteiro)",
-          "pages": 328,
-          "read": 0,
-          "startedOn": "",
-          "finishedOn": ""
-        },
-        {
-          "title": "Jantar secreto",
-          "pages": 389,
-          "read": 0,
-          "startedOn": "",
-          "finishedOn": ""
-        },
-        {
           "title": "Estação onze",
           "pages": 320,
           "read": 0,
@@ -150,6 +141,20 @@
         {
           "title": "El mar de la tranquilidad",
           "pages": 253,
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
+        },
+        {
+          "title": "O agente secreto (roteiro)",
+          "pages": 328,
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
+        },
+        {
+          "title": "Jantar secreto",
+          "pages": 389,
           "read": 0,
           "startedOn": "",
           "finishedOn": ""
@@ -223,6 +228,16 @@
         {
           "title": "Floresta é o nome do mundo",
           "pages": 157,
+          "read": 0
+        },
+        {
+          "title": "O museu da inocência",
+          "pages": 805,
+          "read": 0
+        },
+        {
+          "title": "O maior revolucionário das américas",
+          "pages": 786,
           "read": 0
         }
       ]
@@ -299,6 +314,26 @@
         {
           "title": "Argonáuticas",
           "pages": 567,
+          "read": 0
+        },
+        {
+          "title": "Dance dance dance",
+          "pages": 593,
+          "read": 0
+        },
+        {
+          "title": "Canção para ninar menino grande",
+          "pages": 124,
+          "read": 0
+        },
+        {
+          "title": "O Iluminado",
+          "pages": 689,
+          "read": 0
+        },
+        {
+          "title": "Doutor sono",
+          "pages": 625,
           "read": 0
         }
       ]
@@ -400,6 +435,31 @@
           "title": "Viagem a Portugal",
           "pages": 534,
           "read": 0
+        },
+        {
+          "title": "Tutameia",
+          "pages": 240,
+          "read": 0
+        },
+        {
+          "title": "Sobre a escrita",
+          "pages": 294,
+          "read": 0
+        },
+        {
+          "title": "O mapa fantasma",
+          "pages": 354,
+          "read": 0
+        },
+        {
+          "title": "Religiões negras no Brasil",
+          "pages": 450,
+          "read": 0
+        },
+        {
+          "title": "Lima Barreto - Contos completos",
+          "pages": 964,
+          "read": 0
         }
       ]
     },
@@ -481,6 +541,21 @@
           "title": "A marca humana",
           "pages": 499,
           "read": 0
+        },
+        {
+          "title": "Bom dia inverno",
+          "pages": 268,
+          "read": 0
+        },
+        {
+          "title": "Água de barrela",
+          "pages": 381,
+          "read": 0
+        },
+        {
+          "title": "Emma",
+          "pages": 711,
+          "read": 0
         }
       ]
     },
@@ -561,6 +636,16 @@
         {
           "title": "Crônica do pássaro de corda",
           "pages": 996,
+          "read": 0
+        },
+        {
+          "title": "El hotel de cristal",
+          "pages": 320,
+          "read": 0
+        },
+        {
+          "title": "As crônicas marcianas",
+          "pages": 299,
           "read": 0
         }
       ]
@@ -683,6 +768,16 @@
           "title": "O asno de ouro",
           "pages": 480,
           "read": 0
+        },
+        {
+          "title": "Cidade no Brasil - Terra de quem?",
+          "pages": 143,
+          "read": 0
+        },
+        {
+          "title": "Cidade no Brasil - Em que termos?",
+          "pages": 143,
+          "read": 0
         }
       ]
     },
@@ -723,6 +818,11 @@
           "read": 0,
           "startedOn": "",
           "finishedOn": ""
+        },
+        {
+          "title": "Os ganhadores",
+          "pages": 456,
+          "read": 0
         },
         {
           "title": "Freud, Obras completas I",
@@ -794,10 +894,15 @@
           "title": "Silas de Oliveira",
           "pages": 145,
           "read": 0
+        },
+        {
+          "title": "Contos tradicionais do Brasil",
+          "pages": 320,
+          "read": 0
         }
       ]
     }
   ],
   "view": "pending",
-  "updatedAt": "2026-08-11T23:53:03.274Z"
+  "updatedAt": "2026-08-12T00:22:19.970Z"
 }
