@@ -295,6 +295,26 @@
           "title": "O diabo e a Terra de Santa Cruz",
           "pages": 567,
           "read": 0
+        },
+        {
+          "title": "Uma história do samba",
+          "pages": 427,
+          "read": 0
+        },
+        {
+          "title": "Manuelzão e Miguilim",
+          "pages": 265,
+          "read": 0
+        },
+        {
+          "title": "No Urubuquaquá, No Pinhém",
+          "pages": 313,
+          "read": 0
+        },
+        {
+          "title": "Noites do Serão",
+          "pages": 317,
+          "read": 0
         }
       ]
     },
@@ -437,6 +457,11 @@
         {
           "title": "O estrangeiro",
           "pages": 114,
+          "read": 0
+        },
+        {
+          "title": "Moby Dick",
+          "pages": 656,
           "read": 0
         }
       ]
@@ -603,6 +628,11 @@
         {
           "title": "Uma breve história da terra",
           "pages": 239,
+          "read": 0
+        },
+        {
+          "title": "As mil e uma noites",
+          "pages": 1306,
           "read": 0
         }
       ]
@@ -862,6 +892,11 @@
         {
           "title": "A ilha do Dr. Moreau",
           "pages": 144,
+          "read": 0
+        },
+        {
+          "title": "Faca de água",
+          "pages": 516,
           "read": 0
         }
       ]
@@ -1252,10 +1287,30 @@
           "title": "Nada",
           "pages": 264,
           "read": 0
+        },
+        {
+          "title": "Mesopotâmia",
+          "pages": 384,
+          "read": 0
+        },
+        {
+          "title": "The Architectural History of Venice",
+          "pages": 364,
+          "read": 0
+        },
+        {
+          "title": "Freud, Obras completas IX",
+          "pages": 424,
+          "read": 0
+        },
+        {
+          "title": "Freud, Obras completas X",
+          "pages": 376,
+          "read": 0
         }
       ]
     }
   ],
   "view": "pending",
-  "updatedAt": "2026-08-12T19:18:37.577Z"
+  "updatedAt": "2026-08-12T21:43:48.996Z"
 }
