@@ -52,7 +52,9 @@
         {
           "title": "Grande Sertão: veredas",
           "pages": 504,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "Kramp",
@@ -162,17 +164,23 @@
         {
           "title": "Getúlio I",
           "pages": 928,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "Getúlio II",
           "pages": 878,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "Getúlio III",
           "pages": 626,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         }
       ]
     },
@@ -223,47 +231,65 @@
         {
           "title": "Reparação",
           "pages": 478,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "Matadouro cinco",
           "pages": 229,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "A mão esquerda da escuridão",
           "pages": 324,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "Os despossuídos",
           "pages": 419,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "Floresta é o nome do mundo",
           "pages": 157,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "O museu da inocência",
           "pages": 805,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "O maior revolucionário das américas",
           "pages": 786,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "Continente selvagem",
           "pages": 752,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "O remorso de Baltazar Serapião",
           "pages": 185,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         }
       ]
     },
@@ -279,12 +305,16 @@
         {
           "title": "Achados e perdidos",
           "pages": 497,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "Último turno",
           "pages": 482,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "Billy Summers",
@@ -324,47 +354,65 @@
         {
           "title": "2666",
           "pages": 1355,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "O sol na cabeça",
           "pages": 125,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "O mercador de Veneza",
           "pages": 98,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "Argonáuticas",
           "pages": 567,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "Dance dance dance",
           "pages": 593,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "Canção para ninar menino grande",
           "pages": 124,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "O Iluminado",
           "pages": 689,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "Doutor sono",
           "pages": 625,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "A epopeia de Gilgamesh",
           "pages": 163,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         }
       ]
     },
@@ -380,12 +428,16 @@
         {
           "title": "A floresta sombria",
           "pages": 753,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "O fim da morte",
           "pages": 953,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "Notícias de um sequestro",
@@ -439,57 +491,79 @@
         {
           "title": "Teogonia",
           "pages": 137,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "Metamorfoses",
           "pages": 624,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "Meridiana",
           "pages": 186,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "Macbeth",
           "pages": 231,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "Devoradores de estrelas",
           "pages": 662,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "Viagem a Portugal",
           "pages": 534,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "Tutameia",
           "pages": 240,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "Sobre a escrita",
           "pages": 294,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "O mapa fantasma",
           "pages": 354,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "Religiões negras no Brasil",
           "pages": 450,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "Lima Barreto - Contos completos",
           "pages": 964,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         }
       ]
     },
@@ -526,17 +600,23 @@
         {
           "title": "História do novo sobrenome",
           "pages": 560,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "História de quem foge e quem fica",
           "pages": 499,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "História da menina perdida",
           "pages": 517,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "Memorial do convento",
@@ -555,42 +635,58 @@
         {
           "title": "História da China",
           "pages": 897,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "Pastoral americana",
           "pages": 623,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "Casei com um comunista",
           "pages": 356,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "A marca humana",
           "pages": 499,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "Bom dia inverno",
           "pages": 268,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "Água de barrela",
           "pages": 381,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "Emma",
           "pages": 711,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "Tolstoi - Contos completos",
           "pages": 2058,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         }
       ]
     },
@@ -641,52 +737,72 @@
         {
           "title": "Eneida",
           "pages": 646,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "Romances completos de Macahdo de Assis (10)",
           "pages": 2186,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "Oração para desaparecer",
           "pages": 224,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "Minha querida Sputnik",
           "pages": 226,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "O homem que amava os cachorros",
           "pages": 820,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "Underground railroad",
           "pages": 340,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "Crônica do pássaro de corda",
           "pages": 996,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "El hotel de cristal",
           "pages": 320,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "As crônicas marcianas",
           "pages": 299,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "O despertar de tudo",
           "pages": 1001,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         }
       ]
     },
@@ -695,7 +811,7 @@
         {
           "title": "Noites brancas",
           "pages": 96,
-          "read": 0,
+          "read": 27,
           "startedOn": "2026-08-11",
           "finishedOn": ""
         },
@@ -709,7 +825,9 @@
         {
           "title": "Ilíada",
           "pages": 720,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "Piquito de oro",
@@ -742,87 +860,121 @@
         {
           "title": "Latim em Pó",
           "pages": 232,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "Palmares & Cucaú",
           "pages": 456,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "Freud, Obras completas III",
           "pages": 328,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "Freud, Obras completas IV",
           "pages": 736,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "História das ruas do Rio",
           "pages": 520,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "Raduan Nassar - Obra completa",
           "pages": 464,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "Prometeu prisioneiro",
           "pages": 184,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "Sete contra Tebas",
           "pages": 152,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "Trilogia tebana",
           "pages": 500,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "O Rio antes do Rio",
           "pages": 432,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "As barbas do Imperador",
           "pages": 664,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "Medeia",
           "pages": 192,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "As troianas",
           "pages": 184,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "O asno de ouro",
           "pages": 480,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "Cidade no Brasil - Terra de quem?",
           "pages": 143,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "Cidade no Brasil - Em que termos?",
           "pages": 143,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "Os descobridores",
           "pages": 784,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         }
       ]
     },
@@ -838,7 +990,9 @@
         {
           "title": "Neve na manhã de São Paulo",
           "pages": 368,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "Tóquio ano zero",
@@ -850,12 +1004,16 @@
         {
           "title": "Tóquio cidade ocupada",
           "pages": 320,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "Tóquio redux",
           "pages": 464,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "Maldito invento dum baronete",
@@ -867,7 +1025,9 @@
         {
           "title": "Os ganhadores",
           "pages": 456,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "Freud, Obras completas I",
@@ -879,7 +1039,9 @@
         {
           "title": "Freud, Obras completas II",
           "pages": 448,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "Quelé, a voz da cor",
@@ -898,71 +1060,97 @@
         {
           "title": "Lula vol II",
           "pages": 352,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "Ecos da folia",
           "pages": 432,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "Ilê Ayiê",
           "pages": 176,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "Perder a mãe",
           "pages": 364,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "A divina comédia",
           "pages": 736,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "Trilogia de Orestes",
           "pages": 300,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "Freud, Obras completas V",
           "pages": 478,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "Freud, Obras completas VI",
           "pages": 408,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "Silas de Oliveira",
           "pages": 145,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "Contos tradicionais do Brasil",
           "pages": 320,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "Histórias de quilombolas",
           "pages": 432,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "Santos de casa",
           "pages": 216,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "Neve",
           "pages": 488,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         }
       ]
     }
   ],
   "view": "pending",
-  "updatedAt": "2026-08-12T02:10:01.384Z"
+  "updatedAt": "2026-08-12T02:44:05.865Z"
 }
