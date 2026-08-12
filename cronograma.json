@@ -158,6 +158,21 @@
           "read": 0,
           "startedOn": "",
           "finishedOn": ""
+        },
+        {
+          "title": "Getúlio I",
+          "pages": 928,
+          "read": 0
+        },
+        {
+          "title": "Getúlio II",
+          "pages": 878,
+          "read": 0
+        },
+        {
+          "title": "Getúlio III",
+          "pages": 626,
+          "read": 0
         }
       ]
     },
@@ -238,6 +253,16 @@
         {
           "title": "O maior revolucionário das américas",
           "pages": 786,
+          "read": 0
+        },
+        {
+          "title": "Continente selvagem",
+          "pages": 752,
+          "read": 0
+        },
+        {
+          "title": "O remorso de Baltazar Serapião",
+          "pages": 185,
           "read": 0
         }
       ]
@@ -556,6 +581,11 @@
           "title": "Emma",
           "pages": 711,
           "read": 0
+        },
+        {
+          "title": "Tolstoi - Contos completos",
+          "pages": 2058,
+          "read": 0
         }
       ]
     },
@@ -646,6 +676,11 @@
         {
           "title": "As crônicas marcianas",
           "pages": 299,
+          "read": 0
+        },
+        {
+          "title": "O despertar de tudo",
+          "pages": 1001,
           "read": 0
         }
       ]
@@ -778,6 +813,11 @@
           "title": "Cidade no Brasil - Em que termos?",
           "pages": 143,
           "read": 0
+        },
+        {
+          "title": "Os descobridores",
+          "pages": 784,
+          "read": 0
         }
       ]
     },
@@ -899,10 +939,25 @@
           "title": "Contos tradicionais do Brasil",
           "pages": 320,
           "read": 0
+        },
+        {
+          "title": "Histórias de quilombolas",
+          "pages": 432,
+          "read": 0
+        },
+        {
+          "title": "Santos de casa",
+          "pages": 216,
+          "read": 0
+        },
+        {
+          "title": "Neve",
+          "pages": 488,
+          "read": 0
         }
       ]
     }
   ],
   "view": "pending",
-  "updatedAt": "2026-08-12T00:22:19.970Z"
+  "updatedAt": "2026-08-12T01:54:02.835Z"
 }
