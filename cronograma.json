@@ -290,6 +290,11 @@
           "read": 0,
           "startedOn": "",
           "finishedOn": ""
+        },
+        {
+          "title": "O diabo e a Terra de Santa Cruz",
+          "pages": 567,
+          "read": 0
         }
       ]
     },
@@ -413,6 +418,26 @@
           "read": 0,
           "startedOn": "",
           "finishedOn": ""
+        },
+        {
+          "title": "O invasor",
+          "pages": 118,
+          "read": 0
+        },
+        {
+          "title": "A bela Madame Vargas",
+          "pages": 76,
+          "read": 0
+        },
+        {
+          "title": "Sob os tempos do equinócio",
+          "pages": 248,
+          "read": 0
+        },
+        {
+          "title": "O estrangeiro",
+          "pages": 114,
+          "read": 0
         }
       ]
     },
@@ -564,6 +589,21 @@
           "read": 0,
           "startedOn": "",
           "finishedOn": ""
+        },
+        {
+          "title": "Nada digo de ti, que me ti não veja",
+          "pages": 194,
+          "read": 0
+        },
+        {
+          "title": "O avesso da pele",
+          "pages": 197,
+          "read": 0
+        },
+        {
+          "title": "Uma breve história da terra",
+          "pages": 239,
+          "read": 0
         }
       ]
     },
@@ -803,6 +843,26 @@
           "read": 0,
           "startedOn": "",
           "finishedOn": ""
+        },
+        {
+          "title": "Otelo",
+          "pages": 368,
+          "read": 0
+        },
+        {
+          "title": "O homem invisível",
+          "pages": 202,
+          "read": 0
+        },
+        {
+          "title": "A máquina do tempo",
+          "pages": 114,
+          "read": 0
+        },
+        {
+          "title": "A ilha do Dr. Moreau",
+          "pages": 144,
+          "read": 0
         }
       ]
     },
@@ -872,20 +932,6 @@
           "finishedOn": ""
         },
         {
-          "title": "Freud, Obras completas III",
-          "pages": 328,
-          "read": 0,
-          "startedOn": "",
-          "finishedOn": ""
-        },
-        {
-          "title": "Freud, Obras completas IV",
-          "pages": 736,
-          "read": 0,
-          "startedOn": "",
-          "finishedOn": ""
-        },
-        {
           "title": "História das ruas do Rio",
           "pages": 520,
           "read": 0,
@@ -895,6 +941,20 @@
         {
           "title": "Raduan Nassar - Obra completa",
           "pages": 464,
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
+        },
+        {
+          "title": "Freud, Obras completas III",
+          "pages": 328,
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
+        },
+        {
+          "title": "Freud, Obras completas IV",
+          "pages": 736,
           "read": 0,
           "startedOn": "",
           "finishedOn": ""
@@ -975,6 +1035,31 @@
           "read": 0,
           "startedOn": "",
           "finishedOn": ""
+        },
+        {
+          "title": "A história do Rio de Janeiro em 45 objetos",
+          "pages": 376,
+          "read": 0
+        },
+        {
+          "title": "Freud, Obras completas VII",
+          "pages": 352,
+          "read": 0
+        },
+        {
+          "title": "Freud, Obras completas VIII",
+          "pages": 456,
+          "read": 0
+        },
+        {
+          "title": "La cuidad ausente",
+          "pages": 96,
+          "read": 0
+        },
+        {
+          "title": "Revoltas escravas no Brasil",
+          "pages": 672,
+          "read": 0
         }
       ]
     },
@@ -1147,10 +1232,30 @@
           "read": 0,
           "startedOn": "",
           "finishedOn": ""
+        },
+        {
+          "title": "A felicidade",
+          "pages": 446,
+          "read": 0
+        },
+        {
+          "title": "Hilo de plata",
+          "pages": 256,
+          "read": 0
+        },
+        {
+          "title": "Por un saco de huesos",
+          "pages": 309,
+          "read": 0
+        },
+        {
+          "title": "Nada",
+          "pages": 264,
+          "read": 0
         }
       ]
     }
   ],
   "view": "pending",
-  "updatedAt": "2026-08-12T02:44:05.865Z"
+  "updatedAt": "2026-08-12T19:01:15.957Z"
 }
