@@ -1,5 +1,5 @@
 {
-  "start": "2026-08-12",
+  "start": "2026-08-13",
   "pagesPerDay": 80,
   "weekdays": [
     true,
@@ -181,6 +181,26 @@
           "read": 0,
           "startedOn": "",
           "finishedOn": ""
+        },
+        {
+          "title": "A jangada de pedra",
+          "pages": 367,
+          "read": 0
+        },
+        {
+          "title": "O homem duplicado",
+          "pages": 356,
+          "read": 0
+        },
+        {
+          "title": "Crime e castigo",
+          "pages": 592,
+          "read": 0
+        },
+        {
+          "title": "História do cerco de Lisboa",
+          "pages": 388,
+          "read": 0
         }
       ]
     },
@@ -294,26 +314,41 @@
         {
           "title": "O diabo e a Terra de Santa Cruz",
           "pages": 567,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "Uma história do samba",
           "pages": 427,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "Manuelzão e Miguilim",
           "pages": 265,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "No Urubuquaquá, No Pinhém",
           "pages": 313,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "Noites do Serão",
           "pages": 317,
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
+        },
+        {
+          "title": "Marighella",
+          "pages": 1116,
           "read": 0
         }
       ]
@@ -442,26 +477,46 @@
         {
           "title": "O invasor",
           "pages": 118,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "A bela Madame Vargas",
           "pages": 76,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "Sob os tempos do equinócio",
           "pages": 248,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "O estrangeiro",
           "pages": 114,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "Moby Dick",
           "pages": 656,
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
+        },
+        {
+          "title": "A capital da solidão",
+          "pages": 738,
+          "read": 0
+        },
+        {
+          "title": "A capital da vertigem",
+          "pages": 683,
           "read": 0
         }
       ]
@@ -618,21 +673,34 @@
         {
           "title": "Nada digo de ti, que me ti não veja",
           "pages": 194,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "O avesso da pele",
           "pages": 197,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "Uma breve história da terra",
           "pages": 239,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "As mil e uma noites",
           "pages": 1306,
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
+        },
+        {
+          "title": "Todos os nomes",
+          "pages": 281,
           "read": 0
         }
       ]
@@ -757,6 +825,56 @@
           "read": 0,
           "startedOn": "",
           "finishedOn": ""
+        },
+        {
+          "title": "Tudo é rio",
+          "pages": 197,
+          "read": 0
+        },
+        {
+          "title": "Muito longe de casa",
+          "pages": 244,
+          "read": 0
+        },
+        {
+          "title": "A alma encantadora das ruas",
+          "pages": 256,
+          "read": 0
+        },
+        {
+          "title": "Biblia I",
+          "pages": 564,
+          "read": 0
+        },
+        {
+          "title": "Biblia II",
+          "pages": 616,
+          "read": 0
+        },
+        {
+          "title": "Biblia III",
+          "pages": 1016,
+          "read": 0
+        },
+        {
+          "title": "Biblia IV",
+          "pages": 1114,
+          "read": 0
+        },
+        {
+          "title": "Biblia V",
+          "pages": 700,
+          "read": 0
+        },
+        {
+          "title": "Biblia VI",
+          "pages": 700,
+          "read": 0
+        },
+        {
+          "title": "Evangelhos apócrifos: Gregos e latinos",
+          "pages": 820,
+          "read": 0
         }
       ]
     },
@@ -877,26 +995,41 @@
         {
           "title": "Otelo",
           "pages": 368,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "O homem invisível",
           "pages": 202,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "A máquina do tempo",
           "pages": 114,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "A ilha do Dr. Moreau",
           "pages": 144,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "Faca de água",
           "pages": 516,
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
+        },
+        {
+          "title": "Os irmãos Karamázov",
+          "pages": 1501,
           "read": 0
         }
       ]
@@ -1074,26 +1207,46 @@
         {
           "title": "A história do Rio de Janeiro em 45 objetos",
           "pages": 376,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "Freud, Obras completas VII",
           "pages": 352,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "Freud, Obras completas VIII",
           "pages": 456,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "La cuidad ausente",
           "pages": 96,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "Revoltas escravas no Brasil",
           "pages": 672,
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
+        },
+        {
+          "title": "Pixinguinha",
+          "pages": 323,
+          "read": 0
+        },
+        {
+          "title": "Economia de la edad de la piedra",
+          "pages": 204,
           "read": 0
         }
       ]
@@ -1271,46 +1424,62 @@
         {
           "title": "A felicidade",
           "pages": 446,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "Hilo de plata",
           "pages": 256,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "Por un saco de huesos",
           "pages": 309,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "Nada",
           "pages": 264,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "Mesopotâmia",
           "pages": 384,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "The Architectural History of Venice",
           "pages": 364,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "Freud, Obras completas IX",
           "pages": 424,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "Freud, Obras completas X",
           "pages": 376,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         }
       ]
     }
   ],
   "view": "pending",
-  "updatedAt": "2026-08-12T21:49:53.355Z"
+  "updatedAt": "2026-08-13T01:55:54.366Z"
 }
