@@ -221,6 +221,11 @@
           "title": "O labirinto dos espíritos",
           "pages": 1018,
           "read": 0
+        },
+        {
+          "title": "Umbandas",
+          "pages": 168,
+          "read": 0
         }
       ]
     },
@@ -369,6 +374,16 @@
         {
           "title": "Marighella",
           "pages": 1116,
+          "read": 0
+        },
+        {
+          "title": "Dívida",
+          "pages": 892,
+          "read": 0
+        },
+        {
+          "title": "A revolta da vacina",
+          "pages": 123,
           "read": 0
         }
       ]
@@ -542,6 +557,11 @@
         {
           "title": "Karl Marx: grandeza e ilusão",
           "pages": 870,
+          "read": 0
+        },
+        {
+          "title": "Morte e vida das grandes cidades",
+          "pages": 503,
           "read": 0
         }
       ]
@@ -741,6 +761,16 @@
         {
           "title": "Seu paciente favorito",
           "pages": 157,
+          "read": 0
+        },
+        {
+          "title": "Imagens estranhas",
+          "pages": 269,
+          "read": 0
+        },
+        {
+          "title": "It: a coisa",
+          "pages": 1645,
           "read": 0
         }
       ]
@@ -1071,6 +1101,21 @@
           "title": "Os irmãos Karamázov",
           "pages": 1501,
           "read": 0
+        },
+        {
+          "title": "Chatô",
+          "pages": 1071,
+          "read": 0
+        },
+        {
+          "title": "Norwegian Wood",
+          "pages": 426,
+          "read": 0
+        },
+        {
+          "title": "Homens sem mulheres",
+          "pages": 235,
+          "read": 0
         }
       ]
     },
@@ -1292,6 +1337,61 @@
         {
           "title": "Os sons dos negros no Brasil",
           "pages": 152,
+          "read": 0
+        },
+        {
+          "title": "Os sons que vêm da rua",
+          "pages": 240,
+          "read": 0
+        },
+        {
+          "title": "Pequena história da música popular",
+          "pages": 352,
+          "read": 0
+        },
+        {
+          "title": "Freud, Obras completas XI",
+          "pages": 448,
+          "read": 0
+        },
+        {
+          "title": "Freud, Obras completas XII",
+          "pages": 312,
+          "read": 0
+        },
+        {
+          "title": "Mapas e ficções",
+          "pages": 198,
+          "read": 0
+        },
+        {
+          "title": "A desumanização",
+          "pages": 192,
+          "read": 0
+        },
+        {
+          "title": "Civilização material I",
+          "pages": 542,
+          "read": 0
+        },
+        {
+          "title": "Civilização material II",
+          "pages": 542,
+          "read": 0
+        },
+        {
+          "title": "Civilização material III",
+          "pages": 632,
+          "read": 0
+        },
+        {
+          "title": "Freud, Obras completas XV",
+          "pages": 352,
+          "read": 0
+        },
+        {
+          "title": "Freud, Obras completas XVI",
+          "pages": 376,
           "read": 0
         }
       ]
@@ -1521,10 +1621,35 @@
           "read": 0,
           "startedOn": "",
           "finishedOn": ""
+        },
+        {
+          "title": "Jacques Lacan (Roudinesco)",
+          "pages": 728,
+          "read": 0
+        },
+        {
+          "title": "Castello",
+          "pages": 464,
+          "read": 0
+        },
+        {
+          "title": "O trato dos viventes",
+          "pages": 544,
+          "read": 0
+        },
+        {
+          "title": "Freud, Obras completas XIII",
+          "pages": 640,
+          "read": 0
+        },
+        {
+          "title": "Freud, Obras completas XIV",
+          "pages": 432,
+          "read": 0
         }
       ]
     }
   ],
   "view": "pending",
-  "updatedAt": "2026-08-13T02:14:48.120Z"
+  "updatedAt": "2026-08-13T03:36:30.300Z"
 }
