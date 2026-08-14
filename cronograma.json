@@ -1,5 +1,5 @@
 {
-  "start": "2026-08-13",
+  "start": "2026-08-14",
   "pagesPerDay": 80,
   "weekdays": [
     true,
@@ -409,6 +409,16 @@
           "read": 0,
           "startedOn": "",
           "finishedOn": ""
+        },
+        {
+          "title": "Luanda, Lisboa, Paraíso",
+          "pages": 213,
+          "read": 0
+        },
+        {
+          "title": "Intruso",
+          "pages": 264,
+          "read": 0
         }
       ]
     },
@@ -595,6 +605,16 @@
           "read": 0,
           "startedOn": "",
           "finishedOn": ""
+        },
+        {
+          "title": "Fahrenheit 451",
+          "pages": 200,
+          "read": 0
+        },
+        {
+          "title": "Maracanã: quando a cidade era terreiro",
+          "pages": 280,
+          "read": 0
         }
       ]
     },
@@ -832,7 +852,8 @@
           "title": "1177 AC",
           "pages": 359,
           "read": 13,
-          "startedOn": "2026-08-13"
+          "startedOn": "2026-08-13",
+          "finishedOn": ""
         },
         {
           "title": "O evangelho segundo Jesus Cristo",
@@ -1026,6 +1047,12 @@
           "read": 18,
           "startedOn": "2026-08-11",
           "finishedOn": ""
+        },
+        {
+          "title": "Dracula",
+          "pages": 500,
+          "read": 7,
+          "startedOn": "2026-08-13"
         },
         {
           "title": "A máquina de fazer espanhóis",
@@ -1499,6 +1526,16 @@
           "read": 0,
           "startedOn": "",
           "finishedOn": ""
+        },
+        {
+          "title": "Os demônios",
+          "pages": 704,
+          "read": 0
+        },
+        {
+          "title": "O idiota",
+          "pages": 712,
+          "read": 0
         }
       ]
     },
@@ -1762,10 +1799,40 @@
           "read": 0,
           "startedOn": "",
           "finishedOn": ""
+        },
+        {
+          "title": "História social de Roma",
+          "pages": 264,
+          "read": 0
+        },
+        {
+          "title": "Sacerdotisas voduns e rainhas do Rosário",
+          "pages": 192,
+          "read": 0
+        },
+        {
+          "title": "Macunaíma",
+          "pages": 272,
+          "read": 0
+        },
+        {
+          "title": "Pessoas extraordinárias",
+          "pages": 532,
+          "read": 0
+        },
+        {
+          "title": "Freud, Obras completas XVII",
+          "pages": 400,
+          "read": 0
+        },
+        {
+          "title": "Freud, Obras completas XVIII",
+          "pages": 496,
+          "read": 0
         }
       ]
     }
   ],
   "view": "pending",
-  "updatedAt": "2026-08-13T19:15:56.040Z"
+  "updatedAt": "2026-08-14T21:20:56.590Z"
 }
