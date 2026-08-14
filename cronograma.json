@@ -17,7 +17,7 @@
         {
           "title": "O problema dos 3 corpos",
           "pages": 507,
-          "read": 48,
+          "read": 59,
           "startedOn": "2026-08-11",
           "finishedOn": ""
         },
@@ -252,7 +252,7 @@
         {
           "title": "Os imortais",
           "pages": 249,
-          "read": 27,
+          "read": 57,
           "startedOn": "2026-08-11",
           "finishedOn": ""
         },
@@ -427,7 +427,7 @@
         {
           "title": "Mr. Mercedes",
           "pages": 558,
-          "read": 59,
+          "read": 101,
           "startedOn": "2026-08-11",
           "finishedOn": ""
         },
@@ -623,7 +623,7 @@
         {
           "title": "Intermezzo",
           "pages": 500,
-          "read": 53,
+          "read": 64,
           "startedOn": "2026-08-11",
           "finishedOn": ""
         },
@@ -844,14 +844,14 @@
         {
           "title": "Odisseia",
           "pages": 1025,
-          "read": 14,
+          "read": 27,
           "startedOn": "2026-08-11",
           "finishedOn": ""
         },
         {
           "title": "1177 AC",
           "pages": 359,
-          "read": 13,
+          "read": 18,
           "startedOn": "2026-08-13",
           "finishedOn": ""
         },
@@ -1044,7 +1044,7 @@
         {
           "title": "Eu receberia as piores notícias…",
           "pages": 254,
-          "read": 18,
+          "read": 32,
           "startedOn": "2026-08-11",
           "finishedOn": ""
         },
@@ -1834,5 +1834,5 @@
     }
   ],
   "view": "pending",
-  "updatedAt": "2026-08-14T21:24:13.726Z"
+  "updatedAt": "2026-08-14T23:45:23.420Z"
 }
