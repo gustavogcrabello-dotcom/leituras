@@ -251,6 +251,31 @@
           "read": 0,
           "startedOn": "",
           "finishedOn": ""
+        },
+        {
+          "title": "A guerra dos tronos",
+          "pages": 1184,
+          "read": 0
+        },
+        {
+          "title": "A fúria dos reis",
+          "pages": 1316,
+          "read": 0
+        },
+        {
+          "title": "A tormenta de espadas",
+          "pages": 1687,
+          "read": 0
+        },
+        {
+          "title": "O festim dos corvos",
+          "pages": 1227,
+          "read": 0
+        },
+        {
+          "title": "A dança dos dragões",
+          "pages": 1666,
+          "read": 0
         }
       ]
     },
@@ -476,6 +501,41 @@
         {
           "title": "Coleção Ditadura",
           "pages": 4832,
+          "read": 0
+        },
+        {
+          "title": "Los peregrinos del fin del mundo",
+          "pages": 290,
+          "read": 0
+        },
+        {
+          "title": "Neca: Romance em bajubá",
+          "pages": 100,
+          "read": 0
+        },
+        {
+          "title": "As Religiões no Rio",
+          "pages": 272,
+          "read": 0
+        },
+        {
+          "title": "Estas Estórias",
+          "pages": 346,
+          "read": 0
+        },
+        {
+          "title": "As vinhas da ira",
+          "pages": 710,
+          "read": 0
+        },
+        {
+          "title": "O amor nos tempos do cólera",
+          "pages": 434,
+          "read": 0
+        },
+        {
+          "title": "A história do Rio de Janeiro",
+          "pages": 454,
           "read": 0
         }
       ]
@@ -735,6 +795,16 @@
         {
           "title": "Machado de Assis - Contos completos",
           "pages": 6179,
+          "read": 0
+        },
+        {
+          "title": "Ave Palavra",
+          "pages": 376,
+          "read": 0
+        },
+        {
+          "title": "Os delírios da razão",
+          "pages": 531,
           "read": 0
         }
       ]
@@ -1023,6 +1093,11 @@
           "title": "Ensaio sobre a cegueira",
           "pages": 364,
           "read": 0
+        },
+        {
+          "title": "Torre negra: A série completa",
+          "pages": 5548,
+          "read": 0
         }
       ]
     },
@@ -1225,16 +1300,6 @@
           "finishedOn": ""
         },
         {
-          "title": "As Eras - Hobsbawm (3)",
-          "pages": 2061,
-          "read": 0
-        },
-        {
-          "title": "Era dos extremos: O breve século XX",
-          "pages": 1073,
-          "read": 0
-        },
-        {
           "title": "Nightflyers",
           "pages": 160,
           "read": 0
@@ -1257,6 +1322,56 @@
         {
           "title": "Terceiro Reich em Guerra",
           "pages": 1517,
+          "read": 0
+        },
+        {
+          "title": "Outlander: A viajante do tempo",
+          "pages": 1068,
+          "read": 0
+        },
+        {
+          "title": "A libélula no âmbar",
+          "pages": 1238,
+          "read": 0
+        },
+        {
+          "title": "O resgate no mar",
+          "pages": 1431,
+          "read": 0
+        },
+        {
+          "title": "Os tambores do outono",
+          "pages": 1403,
+          "read": 0
+        },
+        {
+          "title": "A Cruz de fogo",
+          "pages": 1677,
+          "read": 0
+        },
+        {
+          "title": "Um Sopro de neve e cinzas",
+          "pages": 1897,
+          "read": 0
+        },
+        {
+          "title": "Ecos do futuro",
+          "pages": 1482,
+          "read": 0
+        },
+        {
+          "title": "Escrito com o sangue do meu coração",
+          "pages": 1476,
+          "read": 0
+        },
+        {
+          "title": "Diga às abelhas que não estou mais aqui",
+          "pages": 1706,
+          "read": 0
+        },
+        {
+          "title": "O círculo das sete pedras",
+          "pages": 820,
           "read": 0
         }
       ]
@@ -1500,6 +1615,16 @@
         {
           "title": "David Copperfield",
           "pages": 1083,
+          "read": 0
+        },
+        {
+          "title": "As Eras - Hobsbawm (3)",
+          "pages": 2061,
+          "read": 0
+        },
+        {
+          "title": "Era dos extremos: O breve século XX",
+          "pages": 1073,
           "read": 0
         }
       ]
@@ -2380,5 +2505,5 @@
     }
   ],
   "view": "pending",
-  "updatedAt": "2026-08-15T20:53:07.380Z"
+  "updatedAt": "2026-08-15T21:21:57.469Z"
 }
