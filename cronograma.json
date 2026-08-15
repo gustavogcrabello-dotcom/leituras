@@ -472,6 +472,11 @@
           "read": 0,
           "startedOn": "",
           "finishedOn": ""
+        },
+        {
+          "title": "Coleção Ditadura",
+          "pages": 4832,
+          "read": 0
         }
       ]
     },
@@ -721,6 +726,16 @@
           "read": 0,
           "startedOn": "",
           "finishedOn": ""
+        },
+        {
+          "title": "Razão e sensibilidade",
+          "pages": 550,
+          "read": 0
+        },
+        {
+          "title": "Machado de Assis - Contos completos",
+          "pages": 6179,
+          "read": 0
         }
       ]
     },
@@ -776,8 +791,25 @@
           "finishedOn": ""
         },
         {
-          "title": "A bolsa e a vida",
-          "pages": 116,
+          "title": "A cidade e suas muralhas incertas",
+          "pages": 652,
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
+        },
+        {
+          "title": "Dez mitos sobre Israel",
+          "pages": 242,
+          "read": 0
+        },
+        {
+          "title": "Milicianos",
+          "pages": 348,
+          "read": 0
+        },
+        {
+          "title": "Devoradores de estrelas",
+          "pages": 662,
           "read": 0,
           "startedOn": "",
           "finishedOn": ""
@@ -790,11 +822,9 @@
           "finishedOn": ""
         },
         {
-          "title": "A cidade e suas muralhas incertas",
-          "pages": 652,
-          "read": 0,
-          "startedOn": "",
-          "finishedOn": ""
+          "title": "Mitologia dos orixás",
+          "pages": 677,
+          "read": 0
         },
         {
           "title": "Teogonia",
@@ -818,15 +848,15 @@
           "finishedOn": ""
         },
         {
-          "title": "Macbeth",
-          "pages": 231,
+          "title": "A bolsa e a vida",
+          "pages": 116,
           "read": 0,
           "startedOn": "",
           "finishedOn": ""
         },
         {
-          "title": "Devoradores de estrelas",
-          "pages": 662,
+          "title": "Macbeth",
+          "pages": 231,
           "read": 0,
           "startedOn": "",
           "finishedOn": ""
@@ -963,6 +993,36 @@
           "read": 0,
           "startedOn": "",
           "finishedOn": ""
+        },
+        {
+          "title": "O Decamerão",
+          "pages": 1257,
+          "read": 0
+        },
+        {
+          "title": "Sagarana",
+          "pages": 403,
+          "read": 0
+        },
+        {
+          "title": "Homens imprudentemente poéticos",
+          "pages": 168,
+          "read": 0
+        },
+        {
+          "title": "A redoma de vidro",
+          "pages": 266,
+          "read": 0
+        },
+        {
+          "title": "Admirável novo mundo: Uma história da ocupação humana nas Américas",
+          "pages": 582,
+          "read": 0
+        },
+        {
+          "title": "Ensaio sobre a cegueira",
+          "pages": 364,
+          "read": 0
         }
       ]
     },
@@ -1163,6 +1223,41 @@
           "read": 0,
           "startedOn": "",
           "finishedOn": ""
+        },
+        {
+          "title": "As Eras - Hobsbawm (3)",
+          "pages": 2061,
+          "read": 0
+        },
+        {
+          "title": "Era dos extremos: O breve século XX",
+          "pages": 1073,
+          "read": 0
+        },
+        {
+          "title": "Nightflyers",
+          "pages": 160,
+          "read": 0
+        },
+        {
+          "title": "Cem anos de solidão",
+          "pages": 445,
+          "read": 0
+        },
+        {
+          "title": "A Chegada Do Terceiro Reich",
+          "pages": 935,
+          "read": 0
+        },
+        {
+          "title": "O terceiro Reich no poder",
+          "pages": 1396,
+          "read": 0
+        },
+        {
+          "title": "Terceiro Reich em Guerra",
+          "pages": 1517,
+          "read": 0
         }
       ]
     },
@@ -1391,6 +1486,21 @@
           "read": 0,
           "startedOn": "",
           "finishedOn": ""
+        },
+        {
+          "title": "Os miseráveis",
+          "pages": 2076,
+          "read": 0
+        },
+        {
+          "title": "Dom Quixote",
+          "pages": 1328,
+          "read": 0
+        },
+        {
+          "title": "David Copperfield",
+          "pages": 1083,
+          "read": 0
         }
       ]
     },
@@ -1714,152 +1824,212 @@
         {
           "title": "Freud, Obras completas XIX",
           "pages": 384,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "O Seminário, livro 1",
           "pages": 384,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "O Seminário, livro 2",
           "pages": 448,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "O Seminário, livro 3",
           "pages": 380,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "O Seminário, livro 4",
           "pages": 460,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "O Seminário, livro 5",
           "pages": 536,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "O Seminário, livro 6",
           "pages": 562,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "O Seminário, livro 7",
           "pages": 388,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "O Seminário, livro 8",
           "pages": 488,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "O Seminário, livro 9",
           "pages": 450,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "O Seminário, livro 10",
           "pages": 372,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "O Seminário, livro 11",
           "pages": 280,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "O Seminário, livro 12",
           "pages": 450,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "O Seminário, livro 13",
           "pages": 300,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "Escritos",
           "pages": 944,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "O Seminário, livro 14",
           "pages": 384,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "O Seminário, livro 15",
           "pages": 272,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "O Seminário, livro 16",
           "pages": 416,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "O Seminário, livro 17",
           "pages": 232,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "O Seminário, livro 18",
           "pages": 176,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "O Seminário, livro 19",
           "pages": 256,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "O Seminário, livro 20",
           "pages": 160,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "O Seminário, livro 21",
           "pages": 250,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "O Seminário, livro 22",
           "pages": 250,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "O Seminário, livro 23",
           "pages": 256,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "O Seminário, livro 24",
           "pages": 250,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "O Seminário, livro 25",
           "pages": 250,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "O Seminário, livro 26",
           "pages": 250,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "O Seminário, livro 27",
           "pages": 250,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "Outros escritos",
           "pages": 608,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         }
       ]
     },
@@ -2169,31 +2339,46 @@
         {
           "title": "Nosso Chão. Do Sagrado ao Profano",
           "pages": 224,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "Antônio Francisco Lisboa",
           "pages": 208,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "O ouvidor do Brasil",
           "pages": 232,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "Memórias do mediterrâneo",
           "pages": 395,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "Padre Cícero",
           "pages": 560,
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
+        },
+        {
+          "title": "Vértice",
+          "pages": 327,
           "read": 0
         }
       ]
     }
   ],
   "view": "pending",
-  "updatedAt": "2026-08-15T07:18:17.639Z"
+  "updatedAt": "2026-08-15T20:53:07.380Z"
 }
