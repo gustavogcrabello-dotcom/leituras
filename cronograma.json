@@ -419,6 +419,31 @@
           "title": "Intruso",
           "pages": 264,
           "read": 0
+        },
+        {
+          "title": "Frankenstein",
+          "pages": 253,
+          "read": 0
+        },
+        {
+          "title": "Hamlet",
+          "pages": 386,
+          "read": 0
+        },
+        {
+          "title": "A filha perdida",
+          "pages": 152,
+          "read": 0
+        },
+        {
+          "title": "Bahia de Todos-os-Santos",
+          "pages": 478,
+          "read": 0
+        },
+        {
+          "title": "Sigmund Freud na sua época e em nosso tempo",
+          "pages": 735,
+          "read": 0
         }
       ]
     },
@@ -614,6 +639,31 @@
         {
           "title": "Maracanã: quando a cidade era terreiro",
           "pages": 280,
+          "read": 0
+        },
+        {
+          "title": "Arrancados da terra",
+          "pages": 554,
+          "read": 0
+        },
+        {
+          "title": "Babilônia",
+          "pages": 308,
+          "read": 0
+        },
+        {
+          "title": "O planeta dos macacos",
+          "pages": 245,
+          "read": 0
+        },
+        {
+          "title": "Hamnet",
+          "pages": 371,
+          "read": 0
+        },
+        {
+          "title": "Orgulho e preconceito",
+          "pages": 603,
           "read": 0
         }
       ]
@@ -836,6 +886,16 @@
           "read": 0,
           "startedOn": "",
           "finishedOn": ""
+        },
+        {
+          "title": "O Hobbit",
+          "pages": 402,
+          "read": 0
+        },
+        {
+          "title": "Trilogia O Senhor dos Anéis",
+          "pages": 1997,
+          "read": 0
         }
       ]
     },
@@ -1221,6 +1281,26 @@
           "read": 0,
           "startedOn": "",
           "finishedOn": ""
+        },
+        {
+          "title": "Ana Terra",
+          "pages": 152,
+          "read": 0
+        },
+        {
+          "title": "A parte obscura de nós mesmos",
+          "pages": 292,
+          "read": 0
+        },
+        {
+          "title": "O amante de lady Chatterley",
+          "pages": 609,
+          "read": 0
+        },
+        {
+          "title": "Rosa Egipcíaca: Uma santa africana no Brasil",
+          "pages": 901,
+          "read": 0
         }
       ]
     },
@@ -1834,5 +1914,5 @@
     }
   ],
   "view": "pending",
-  "updatedAt": "2026-08-14T23:45:23.420Z"
+  "updatedAt": "2026-08-15T01:12:04.784Z"
 }
