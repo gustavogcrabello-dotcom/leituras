@@ -244,6 +244,11 @@
           "read": 0,
           "startedOn": "",
           "finishedOn": ""
+        },
+        {
+          "title": "O Capital - Livros 1 a 3",
+          "pages": 2520,
+          "read": 0
         }
       ]
     },
@@ -458,6 +463,11 @@
           "read": 0,
           "startedOn": "",
           "finishedOn": ""
+        },
+        {
+          "title": "Brasil: uma biografia",
+          "pages": 1388,
+          "read": 0
         }
       ]
     },
@@ -693,6 +703,16 @@
           "read": 0,
           "startedOn": "",
           "finishedOn": ""
+        },
+        {
+          "title": "Pedro Páramo",
+          "pages": 136,
+          "read": 0
+        },
+        {
+          "title": "Anna Kariênina",
+          "pages": 1346,
+          "read": 0
         }
       ]
     },
@@ -928,6 +948,11 @@
           "read": 0,
           "startedOn": "",
           "finishedOn": ""
+        },
+        {
+          "title": "1499: O Brasil antes de Cabral",
+          "pages": 260,
+          "read": 0
         }
       ]
     },
@@ -1342,6 +1367,16 @@
           "read": 0,
           "startedOn": "",
           "finishedOn": ""
+        },
+        {
+          "title": "As palavras de Freud",
+          "pages": 354,
+          "read": 0
+        },
+        {
+          "title": "Princípio do Infinito: Um perfil de Luiz Carlos da Vila",
+          "pages": 106,
+          "read": 0
         }
       ]
     },
@@ -1971,5 +2006,5 @@
     }
   ],
   "view": "pending",
-  "updatedAt": "2026-08-15T05:32:44.738Z"
+  "updatedAt": "2026-08-15T05:49:51.810Z"
 }
