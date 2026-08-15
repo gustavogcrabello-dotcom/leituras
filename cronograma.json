@@ -248,7 +248,9 @@
         {
           "title": "O Capital - Livros 1 a 3",
           "pages": 2520,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         }
       ]
     },
@@ -467,7 +469,9 @@
         {
           "title": "Brasil: uma biografia",
           "pages": 1388,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         }
       ]
     },
@@ -707,12 +711,16 @@
         {
           "title": "Pedro Páramo",
           "pages": 136,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "Anna Kariênina",
           "pages": 1346,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         }
       ]
     },
@@ -952,7 +960,9 @@
         {
           "title": "1499: O Brasil antes de Cabral",
           "pages": 260,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         }
       ]
     },
@@ -1371,12 +1381,16 @@
         {
           "title": "As palavras de Freud",
           "pages": 354,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "Princípio do Infinito: Um perfil de Luiz Carlos da Vila",
           "pages": 106,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         }
       ]
     },
@@ -1696,6 +1710,156 @@
           "read": 0,
           "startedOn": "",
           "finishedOn": ""
+        },
+        {
+          "title": "Freud, Obras completas XIX",
+          "pages": 384,
+          "read": 0
+        },
+        {
+          "title": "O Seminário, livro 1",
+          "pages": 384,
+          "read": 0
+        },
+        {
+          "title": "O Seminário, livro 2",
+          "pages": 448,
+          "read": 0
+        },
+        {
+          "title": "O Seminário, livro 3",
+          "pages": 380,
+          "read": 0
+        },
+        {
+          "title": "O Seminário, livro 4",
+          "pages": 460,
+          "read": 0
+        },
+        {
+          "title": "O Seminário, livro 5",
+          "pages": 536,
+          "read": 0
+        },
+        {
+          "title": "O Seminário, livro 6",
+          "pages": 562,
+          "read": 0
+        },
+        {
+          "title": "O Seminário, livro 7",
+          "pages": 388,
+          "read": 0
+        },
+        {
+          "title": "O Seminário, livro 8",
+          "pages": 488,
+          "read": 0
+        },
+        {
+          "title": "O Seminário, livro 9",
+          "pages": 450,
+          "read": 0
+        },
+        {
+          "title": "O Seminário, livro 10",
+          "pages": 372,
+          "read": 0
+        },
+        {
+          "title": "O Seminário, livro 11",
+          "pages": 280,
+          "read": 0
+        },
+        {
+          "title": "O Seminário, livro 12",
+          "pages": 450,
+          "read": 0
+        },
+        {
+          "title": "O Seminário, livro 13",
+          "pages": 300,
+          "read": 0
+        },
+        {
+          "title": "Escritos",
+          "pages": 944,
+          "read": 0
+        },
+        {
+          "title": "O Seminário, livro 14",
+          "pages": 384,
+          "read": 0
+        },
+        {
+          "title": "O Seminário, livro 15",
+          "pages": 272,
+          "read": 0
+        },
+        {
+          "title": "O Seminário, livro 16",
+          "pages": 416,
+          "read": 0
+        },
+        {
+          "title": "O Seminário, livro 17",
+          "pages": 232,
+          "read": 0
+        },
+        {
+          "title": "O Seminário, livro 18",
+          "pages": 176,
+          "read": 0
+        },
+        {
+          "title": "O Seminário, livro 19",
+          "pages": 256,
+          "read": 0
+        },
+        {
+          "title": "O Seminário, livro 20",
+          "pages": 160,
+          "read": 0
+        },
+        {
+          "title": "O Seminário, livro 21",
+          "pages": 250,
+          "read": 0
+        },
+        {
+          "title": "O Seminário, livro 22",
+          "pages": 250,
+          "read": 0
+        },
+        {
+          "title": "O Seminário, livro 23",
+          "pages": 256,
+          "read": 0
+        },
+        {
+          "title": "O Seminário, livro 24",
+          "pages": 250,
+          "read": 0
+        },
+        {
+          "title": "O Seminário, livro 25",
+          "pages": 250,
+          "read": 0
+        },
+        {
+          "title": "O Seminário, livro 26",
+          "pages": 250,
+          "read": 0
+        },
+        {
+          "title": "O Seminário, livro 27",
+          "pages": 250,
+          "read": 0
+        },
+        {
+          "title": "Outros escritos",
+          "pages": 608,
+          "read": 0
         }
       ]
     },
@@ -1704,7 +1868,7 @@
         {
           "title": "Adeus, Columbus",
           "pages": 272,
-          "read": 21,
+          "read": 35,
           "startedOn": "2026-08-11",
           "finishedOn": ""
         },
@@ -2001,10 +2165,35 @@
           "read": 0,
           "startedOn": "",
           "finishedOn": ""
+        },
+        {
+          "title": "Nosso Chão. Do Sagrado ao Profano",
+          "pages": 224,
+          "read": 0
+        },
+        {
+          "title": "Antônio Francisco Lisboa",
+          "pages": 208,
+          "read": 0
+        },
+        {
+          "title": "O ouvidor do Brasil",
+          "pages": 232,
+          "read": 0
+        },
+        {
+          "title": "Memórias do mediterrâneo",
+          "pages": 395,
+          "read": 0
+        },
+        {
+          "title": "Padre Cícero",
+          "pages": 560,
+          "read": 0
         }
       ]
     }
   ],
   "view": "pending",
-  "updatedAt": "2026-08-15T05:52:25.419Z"
+  "updatedAt": "2026-08-15T07:18:17.639Z"
 }
