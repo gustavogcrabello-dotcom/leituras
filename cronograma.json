@@ -17,7 +17,7 @@
         {
           "title": "O problema dos 3 corpos",
           "pages": 507,
-          "read": 59,
+          "read": 81,
           "startedOn": "2026-08-11",
           "finishedOn": ""
         },
@@ -252,7 +252,7 @@
         {
           "title": "Os imortais",
           "pages": 249,
-          "read": 57,
+          "read": 95,
           "startedOn": "2026-08-11",
           "finishedOn": ""
         },
@@ -413,37 +413,51 @@
         {
           "title": "Luanda, Lisboa, Paraíso",
           "pages": 213,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "Intruso",
           "pages": 264,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "Frankenstein",
           "pages": 253,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "Hamlet",
           "pages": 386,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "A filha perdida",
           "pages": 152,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "Bahia de Todos-os-Santos",
           "pages": 478,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "Sigmund Freud na sua época e em nosso tempo",
           "pages": 735,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         }
       ]
     },
@@ -452,7 +466,7 @@
         {
           "title": "Mr. Mercedes",
           "pages": 558,
-          "read": 101,
+          "read": 176,
           "startedOn": "2026-08-11",
           "finishedOn": ""
         },
@@ -634,37 +648,51 @@
         {
           "title": "Fahrenheit 451",
           "pages": 200,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "Maracanã: quando a cidade era terreiro",
           "pages": 280,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "Arrancados da terra",
           "pages": 554,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "Babilônia",
           "pages": 308,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "O planeta dos macacos",
           "pages": 245,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "Hamnet",
           "pages": 371,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "Orgulho e preconceito",
           "pages": 603,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         }
       ]
     },
@@ -673,7 +701,7 @@
         {
           "title": "Intermezzo",
           "pages": 500,
-          "read": 64,
+          "read": 73,
           "startedOn": "2026-08-11",
           "finishedOn": ""
         },
@@ -890,12 +918,16 @@
         {
           "title": "O Hobbit",
           "pages": 402,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "Trilogia O Senhor dos Anéis",
           "pages": 1997,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         }
       ]
     },
@@ -904,14 +936,14 @@
         {
           "title": "Odisseia",
           "pages": 1025,
-          "read": 27,
+          "read": 45,
           "startedOn": "2026-08-11",
           "finishedOn": ""
         },
         {
           "title": "1177 AC",
           "pages": 359,
-          "read": 18,
+          "read": 38,
           "startedOn": "2026-08-13",
           "finishedOn": ""
         },
@@ -1104,15 +1136,16 @@
         {
           "title": "Eu receberia as piores notícias…",
           "pages": 254,
-          "read": 32,
+          "read": 46,
           "startedOn": "2026-08-11",
           "finishedOn": ""
         },
         {
           "title": "Dracula",
-          "pages": 500,
-          "read": 7,
-          "startedOn": "2026-08-13"
+          "pages": 368,
+          "read": 6,
+          "startedOn": "2026-08-13",
+          "finishedOn": ""
         },
         {
           "title": "A máquina de fazer espanhóis",
@@ -1285,22 +1318,30 @@
         {
           "title": "Ana Terra",
           "pages": 152,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "A parte obscura de nós mesmos",
           "pages": 292,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "O amante de lady Chatterley",
           "pages": 609,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "Rosa Egipcíaca: Uma santa africana no Brasil",
           "pages": 901,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         }
       ]
     },
@@ -1610,12 +1651,16 @@
         {
           "title": "Os demônios",
           "pages": 704,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "O idiota",
           "pages": 712,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         }
       ]
     },
@@ -1624,7 +1669,7 @@
         {
           "title": "Adeus, Columbus",
           "pages": 272,
-          "read": 0,
+          "read": 21,
           "startedOn": "2026-08-11",
           "finishedOn": ""
         },
@@ -1883,36 +1928,48 @@
         {
           "title": "História social de Roma",
           "pages": 264,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "Sacerdotisas voduns e rainhas do Rosário",
           "pages": 192,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "Macunaíma",
           "pages": 272,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "Pessoas extraordinárias",
           "pages": 532,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "Freud, Obras completas XVII",
           "pages": 400,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "Freud, Obras completas XVIII",
           "pages": 496,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         }
       ]
     }
   ],
   "view": "pending",
-  "updatedAt": "2026-08-15T01:12:27.943Z"
+  "updatedAt": "2026-08-15T05:32:44.738Z"
 }
