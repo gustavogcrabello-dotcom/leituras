@@ -671,6 +671,11 @@
           "finishedOn": ""
         },
         {
+          "title": "Homens ao sol",
+          "pages": 83,
+          "read": 0
+        },
+        {
           "title": "Um defeito de cor",
           "pages": 1285,
           "read": 0,
@@ -725,6 +730,11 @@
           "read": 0,
           "startedOn": "",
           "finishedOn": ""
+        },
+        {
+          "title": "Tripulação de esqueletos",
+          "pages": 765,
+          "read": 0
         },
         {
           "title": "O Iluminado",
@@ -900,6 +910,11 @@
           "read": 0,
           "startedOn": "",
           "finishedOn": ""
+        },
+        {
+          "title": "Inglês, August: Uma história indiana",
+          "pages": 407,
+          "read": 0
         }
       ]
     },
@@ -1058,6 +1073,11 @@
           "read": 0,
           "startedOn": "",
           "finishedOn": ""
+        },
+        {
+          "title": "Por que escrever?: Conversas e ensaios sobre literatura",
+          "pages": 612,
+          "read": 0
         },
         {
           "title": "O mapa fantasma",
@@ -2661,5 +2681,5 @@
     }
   ],
   "view": "pending",
-  "updatedAt": "2026-08-16T17:02:06.510Z"
+  "updatedAt": "2026-08-16T18:51:03.377Z"
 }
