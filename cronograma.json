@@ -157,7 +157,9 @@
         {
           "title": "Bambino a Roma",
           "pages": 139,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "Jantar secreto",
@@ -218,17 +220,23 @@
         {
           "title": "Tieta do agreste",
           "pages": 858,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "Capitães da Areia",
           "pages": 338,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "Lima Barreto - Triste visionário",
           "pages": 1202,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "A sombra do vento",
@@ -275,7 +283,9 @@
         {
           "title": "Bullshit jobs",
           "pages": 369,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "A guerra dos tronos",
@@ -354,7 +364,9 @@
         {
           "title": "Precisamos de novos nomes",
           "pages": 255,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "Reparação",
@@ -499,7 +511,9 @@
         {
           "title": "A polícia da memória",
           "pages": 320,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "Intruso",
@@ -511,7 +525,9 @@
         {
           "title": "O abismo de São Sebastião",
           "pages": 181,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "Frankenstein",
@@ -558,22 +574,30 @@
         {
           "title": "Pachinko",
           "pages": 639,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "Coração das trevas",
           "pages": 224,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "Brizola: Vol. 1: Lobisomem contra o império",
           "pages": 639,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "Lacerda: Coração de tempestade Vol. 1",
           "pages": 758,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "Brasil: uma biografia",
@@ -673,7 +697,9 @@
         {
           "title": "Homens ao sol",
           "pages": 83,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "Um defeito de cor",
@@ -734,7 +760,9 @@
         {
           "title": "Tripulação de esqueletos",
           "pages": 765,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "O Iluminado",
@@ -914,7 +942,9 @@
         {
           "title": "Inglês, August: Uma história indiana",
           "pages": 407,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         }
       ]
     },
@@ -1077,7 +1107,9 @@
         {
           "title": "Por que escrever?: Conversas e ensaios sobre literatura",
           "pages": 612,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "O mapa fantasma",
@@ -1559,7 +1591,9 @@
         {
           "title": "A cor púrpura",
           "pages": 310,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "A máquina de fazer espanhóis",
@@ -1816,6 +1850,11 @@
           "read": 45,
           "startedOn": "2026-08-11",
           "finishedOn": ""
+        },
+        {
+          "title": "O hotel dos sonhos",
+          "pages": 378,
+          "read": 0
         },
         {
           "title": "Querida konbini",
@@ -2685,11 +2724,13 @@
         {
           "title": "Incidente em Antares",
           "pages": 496,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         }
       ]
     }
   ],
   "view": "pending",
-  "updatedAt": "2026-08-16T19:07:23.691Z"
+  "updatedAt": "2026-08-16T20:00:18.630Z"
 }
