@@ -1,5 +1,5 @@
 {
-  "start": "2026-08-16",
+  "start": "2026-08-17",
   "pagesPerDay": 80,
   "weekdays": [
     true,
@@ -1854,7 +1854,8 @@
         {
           "title": "O hotel dos sonhos",
           "pages": 378,
-          "read": 0
+          "read": 11,
+          "startedOn": "2026-08-16"
         },
         {
           "title": "Querida konbini",
@@ -2732,5 +2733,5 @@
     }
   ],
   "view": "pending",
-  "updatedAt": "2026-08-16T20:00:18.630Z"
+  "updatedAt": "2026-08-16T20:06:47.487Z"
 }
