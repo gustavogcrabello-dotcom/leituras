@@ -1557,6 +1557,11 @@
           "finishedOn": ""
         },
         {
+          "title": "A cor púrpura",
+          "pages": 310,
+          "read": 0
+        },
+        {
           "title": "A máquina de fazer espanhóis",
           "pages": 231,
           "read": 0,
@@ -2681,5 +2686,5 @@
     }
   ],
   "view": "pending",
-  "updatedAt": "2026-08-16T18:51:03.377Z"
+  "updatedAt": "2026-08-16T19:01:53.911Z"
 }
