@@ -155,8 +155,27 @@
           "finishedOn": ""
         },
         {
+          "title": "Bambino a Roma",
+          "pages": 139,
+          "read": 0
+        },
+        {
           "title": "Jantar secreto",
           "pages": 389,
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
+        },
+        {
+          "title": "Crime e castigo",
+          "pages": 592,
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
+        },
+        {
+          "title": "História do cerco de Lisboa",
+          "pages": 388,
           "read": 0,
           "startedOn": "",
           "finishedOn": ""
@@ -197,18 +216,19 @@
           "finishedOn": ""
         },
         {
-          "title": "Crime e castigo",
-          "pages": 592,
-          "read": 0,
-          "startedOn": "",
-          "finishedOn": ""
+          "title": "Tieta do agreste",
+          "pages": 858,
+          "read": 0
         },
         {
-          "title": "História do cerco de Lisboa",
-          "pages": 388,
-          "read": 0,
-          "startedOn": "",
-          "finishedOn": ""
+          "title": "Capitães da Areia",
+          "pages": 338,
+          "read": 0
+        },
+        {
+          "title": "Lima Barreto - Triste visionário",
+          "pages": 1202,
+          "read": 0
         },
         {
           "title": "A sombra do vento",
@@ -253,29 +273,44 @@
           "finishedOn": ""
         },
         {
+          "title": "Bullshit jobs",
+          "pages": 369,
+          "read": 0
+        },
+        {
           "title": "A guerra dos tronos",
           "pages": 1184,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "A fúria dos reis",
           "pages": 1316,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "A tormenta de espadas",
           "pages": 1687,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "O festim dos corvos",
           "pages": 1227,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "A dança dos dragões",
           "pages": 1666,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         }
       ]
     },
@@ -284,7 +319,7 @@
         {
           "title": "Os imortais",
           "pages": 249,
-          "read": 95,
+          "read": 103,
           "startedOn": "2026-08-11",
           "finishedOn": ""
         },
@@ -317,11 +352,9 @@
           "finishedOn": ""
         },
         {
-          "title": "Em busca do tempo perdido (7 vols.)",
-          "pages": 3680,
-          "read": 0,
-          "startedOn": "",
-          "finishedOn": ""
+          "title": "Precisamos de novos nomes",
+          "pages": 255,
+          "read": 0
         },
         {
           "title": "Reparação",
@@ -354,6 +387,20 @@
         {
           "title": "Floresta é o nome do mundo",
           "pages": 157,
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
+        },
+        {
+          "title": "A história do Rio de Janeiro",
+          "pages": 454,
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
+        },
+        {
+          "title": "Em busca do tempo perdido (7 vols.)",
+          "pages": 3680,
           "read": 0,
           "startedOn": "",
           "finishedOn": ""
@@ -436,13 +483,6 @@
           "finishedOn": ""
         },
         {
-          "title": "A revolta da vacina",
-          "pages": 123,
-          "read": 0,
-          "startedOn": "",
-          "finishedOn": ""
-        },
-        {
           "title": "Luanda, Lisboa, Paraíso",
           "pages": 213,
           "read": 0,
@@ -450,11 +490,28 @@
           "finishedOn": ""
         },
         {
+          "title": "As vinhas da ira",
+          "pages": 710,
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
+        },
+        {
+          "title": "A polícia da memória",
+          "pages": 320,
+          "read": 0
+        },
+        {
           "title": "Intruso",
           "pages": 264,
           "read": 0,
           "startedOn": "",
           "finishedOn": ""
+        },
+        {
+          "title": "O abismo de São Sebastião",
+          "pages": 181,
+          "read": 0
         },
         {
           "title": "Frankenstein",
@@ -466,6 +523,13 @@
         {
           "title": "Hamlet",
           "pages": 386,
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
+        },
+        {
+          "title": "A revolta da vacina",
+          "pages": 123,
           "read": 0,
           "startedOn": "",
           "finishedOn": ""
@@ -492,6 +556,26 @@
           "finishedOn": ""
         },
         {
+          "title": "Pachinko",
+          "pages": 639,
+          "read": 0
+        },
+        {
+          "title": "Coração das trevas",
+          "pages": 224,
+          "read": 0
+        },
+        {
+          "title": "Brizola: Vol. 1: Lobisomem contra o império",
+          "pages": 639,
+          "read": 0
+        },
+        {
+          "title": "Lacerda: Coração de tempestade Vol. 1",
+          "pages": 758,
+          "read": 0
+        },
+        {
           "title": "Brasil: uma biografia",
           "pages": 1388,
           "read": 0,
@@ -499,44 +583,46 @@
           "finishedOn": ""
         },
         {
-          "title": "Coleção Ditadura",
-          "pages": 4832,
-          "read": 0
-        },
-        {
           "title": "Los peregrinos del fin del mundo",
           "pages": 290,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "Neca: Romance em bajubá",
           "pages": 100,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "As Religiões no Rio",
           "pages": 272,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "Estas Estórias",
           "pages": 346,
-          "read": 0
-        },
-        {
-          "title": "As vinhas da ira",
-          "pages": 710,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "O amor nos tempos do cólera",
           "pages": 434,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
-          "title": "A história do Rio de Janeiro",
-          "pages": 454,
-          "read": 0
+          "title": "Coleção Ditadura",
+          "pages": 4832,
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         }
       ]
     },
@@ -545,7 +631,7 @@
         {
           "title": "Mr. Mercedes",
           "pages": 558,
-          "read": 176,
+          "read": 192,
           "startedOn": "2026-08-11",
           "finishedOn": ""
         },
@@ -790,22 +876,30 @@
         {
           "title": "Razão e sensibilidade",
           "pages": 550,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "Machado de Assis - Contos completos",
           "pages": 6179,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "Ave Palavra",
           "pages": 376,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "Os delírios da razão",
           "pages": 531,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         }
       ]
     },
@@ -870,12 +964,16 @@
         {
           "title": "Dez mitos sobre Israel",
           "pages": 242,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "Milicianos",
           "pages": 348,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "Devoradores de estrelas",
@@ -894,7 +992,9 @@
         {
           "title": "Mitologia dos orixás",
           "pages": 677,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "Teogonia",
@@ -1067,37 +1167,51 @@
         {
           "title": "O Decamerão",
           "pages": 1257,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "Sagarana",
           "pages": 403,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "Homens imprudentemente poéticos",
           "pages": 168,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "A redoma de vidro",
           "pages": 266,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "Admirável novo mundo: Uma história da ocupação humana nas Américas",
           "pages": 582,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "Ensaio sobre a cegueira",
           "pages": 364,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "Torre negra: A série completa",
           "pages": 5548,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         }
       ]
     },
@@ -1106,14 +1220,14 @@
         {
           "title": "Odisseia",
           "pages": 1025,
-          "read": 45,
+          "read": 58,
           "startedOn": "2026-08-11",
           "finishedOn": ""
         },
         {
           "title": "1177 AC",
           "pages": 359,
-          "read": 38,
+          "read": 39,
           "startedOn": "2026-08-13",
           "finishedOn": ""
         },
@@ -1302,77 +1416,107 @@
         {
           "title": "Nightflyers",
           "pages": 160,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "Cem anos de solidão",
           "pages": 445,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "A Chegada Do Terceiro Reich",
           "pages": 935,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "O terceiro Reich no poder",
           "pages": 1396,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "Terceiro Reich em Guerra",
           "pages": 1517,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "Outlander: A viajante do tempo",
           "pages": 1068,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "A libélula no âmbar",
           "pages": 1238,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "O resgate no mar",
           "pages": 1431,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "Os tambores do outono",
           "pages": 1403,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "A Cruz de fogo",
           "pages": 1677,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "Um Sopro de neve e cinzas",
           "pages": 1897,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "Ecos do futuro",
           "pages": 1482,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "Escrito com o sangue do meu coração",
           "pages": 1476,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "Diga às abelhas que não estou mais aqui",
           "pages": 1706,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "O círculo das sete pedras",
           "pages": 820,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         }
       ]
     },
@@ -1381,14 +1525,14 @@
         {
           "title": "Eu receberia as piores notícias…",
           "pages": 254,
-          "read": 46,
+          "read": 62,
           "startedOn": "2026-08-11",
           "finishedOn": ""
         },
         {
           "title": "Dracula",
           "pages": 368,
-          "read": 6,
+          "read": 9,
           "startedOn": "2026-08-13",
           "finishedOn": ""
         },
@@ -1605,27 +1749,37 @@
         {
           "title": "Os miseráveis",
           "pages": 2076,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "Dom Quixote",
           "pages": 1328,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "David Copperfield",
           "pages": 1083,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "As Eras - Hobsbawm (3)",
           "pages": 2061,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "Era dos extremos: O breve século XX",
           "pages": 1073,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         }
       ]
     },
@@ -1634,7 +1788,7 @@
         {
           "title": "Noites brancas",
           "pages": 96,
-          "read": 27,
+          "read": 45,
           "startedOn": "2026-08-11",
           "finishedOn": ""
         },
@@ -2499,11 +2653,13 @@
         {
           "title": "Vértice",
           "pages": 327,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         }
       ]
     }
   ],
   "view": "pending",
-  "updatedAt": "2026-08-15T21:36:59.767Z"
+  "updatedAt": "2026-08-16T17:02:06.510Z"
 }
