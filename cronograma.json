@@ -17,7 +17,7 @@
         {
           "title": "O problema dos 3 corpos",
           "pages": 507,
-          "read": 81,
+          "read": 88,
           "startedOn": "2026-08-11",
           "finishedOn": ""
         },
@@ -329,7 +329,7 @@
         {
           "title": "Os imortais",
           "pages": 249,
-          "read": 103,
+          "read": 127,
           "startedOn": "2026-08-11",
           "finishedOn": ""
         },
@@ -655,7 +655,7 @@
         {
           "title": "Mr. Mercedes",
           "pages": 558,
-          "read": 192,
+          "read": 271,
           "startedOn": "2026-08-11",
           "finishedOn": ""
         },
@@ -953,7 +953,7 @@
         {
           "title": "Intermezzo",
           "pages": 500,
-          "read": 73,
+          "read": 89,
           "startedOn": "2026-08-11",
           "finishedOn": ""
         },
@@ -1272,14 +1272,14 @@
         {
           "title": "Odisseia",
           "pages": 1025,
-          "read": 58,
+          "read": 75,
           "startedOn": "2026-08-11",
           "finishedOn": ""
         },
         {
           "title": "1177 AC",
           "pages": 359,
-          "read": 39,
+          "read": 43,
           "startedOn": "2026-08-13",
           "finishedOn": ""
         },
@@ -1577,14 +1577,14 @@
         {
           "title": "Eu receberia as piores notícias…",
           "pages": 254,
-          "read": 62,
+          "read": 102,
           "startedOn": "2026-08-11",
           "finishedOn": ""
         },
         {
           "title": "Dracula",
           "pages": 368,
-          "read": 9,
+          "read": 11,
           "startedOn": "2026-08-13",
           "finishedOn": ""
         },
@@ -1855,7 +1855,8 @@
           "title": "O hotel dos sonhos",
           "pages": 378,
           "read": 11,
-          "startedOn": "2026-08-16"
+          "startedOn": "2026-08-16",
+          "finishedOn": ""
         },
         {
           "title": "Querida konbini",
@@ -2733,5 +2734,5 @@
     }
   ],
   "view": "pending",
-  "updatedAt": "2026-08-16T20:06:47.487Z"
+  "updatedAt": "2026-08-17T04:01:26.143Z"
 }
