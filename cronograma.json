@@ -1591,8 +1591,8 @@
         {
           "title": "A cor púrpura",
           "pages": 310,
-          "read": 0,
-          "startedOn": "",
+          "read": 35,
+          "startedOn": "2026-08-16",
           "finishedOn": ""
         },
         {
@@ -2734,5 +2734,5 @@
     }
   ],
   "view": "pending",
-  "updatedAt": "2026-08-17T04:01:26.143Z"
+  "updatedAt": "2026-08-17T04:05:07.825Z"
 }
