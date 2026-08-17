@@ -1882,7 +1882,7 @@
         {
           "title": "O hotel dos sonhos",
           "pages": 378,
-          "read": 14,
+          "read": 17,
           "startedOn": "2026-08-16",
           "finishedOn": ""
         },
@@ -2802,5 +2802,5 @@
     }
   ],
   "view": "pending",
-  "updatedAt": "2026-08-17T23:35:46.810Z"
+  "updatedAt": "2026-08-17T23:40:15.077Z"
 }
