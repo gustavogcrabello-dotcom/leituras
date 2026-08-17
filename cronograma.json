@@ -321,6 +321,16 @@
           "read": 0,
           "startedOn": "",
           "finishedOn": ""
+        },
+        {
+          "title": "O crime do Cais do Valongo",
+          "pages": 143,
+          "read": 0
+        },
+        {
+          "title": "A primeira história do mundo",
+          "pages": 179,
+          "read": 0
         }
       ]
     },
@@ -602,13 +612,6 @@
         {
           "title": "Brasil: uma biografia",
           "pages": 1388,
-          "read": 0,
-          "startedOn": "",
-          "finishedOn": ""
-        },
-        {
-          "title": "Los peregrinos del fin del mundo",
-          "pages": 290,
           "read": 0,
           "startedOn": "",
           "finishedOn": ""
@@ -1839,6 +1842,31 @@
           "read": 0,
           "startedOn": "",
           "finishedOn": ""
+        },
+        {
+          "title": "Ficções (Borges)",
+          "pages": 177,
+          "read": 0
+        },
+        {
+          "title": "O livro de areia",
+          "pages": 116,
+          "read": 0
+        },
+        {
+          "title": "Júlio César",
+          "pages": 201,
+          "read": 0
+        },
+        {
+          "title": "Exit Party",
+          "pages": 320,
+          "read": 0
+        },
+        {
+          "title": "Solitária",
+          "pages": 160,
+          "read": 0
         }
       ]
     },
@@ -1868,13 +1896,6 @@
         {
           "title": "Ilíada",
           "pages": 720,
-          "read": 0,
-          "startedOn": "",
-          "finishedOn": ""
-        },
-        {
-          "title": "Piquito de oro",
-          "pages": 280,
           "read": 0,
           "startedOn": "",
           "finishedOn": ""
@@ -1994,6 +2015,13 @@
         {
           "title": "O asno de ouro",
           "pages": 480,
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
+        },
+        {
+          "title": "Piquito de oro - Piquito a secas -  Los peregrinos del fin del mundo - Piquito en las sombras - Piquito en los vientos",
+          "pages": 1550,
           "read": 0,
           "startedOn": "",
           "finishedOn": ""
@@ -2729,10 +2757,50 @@
           "read": 0,
           "startedOn": "",
           "finishedOn": ""
+        },
+        {
+          "title": "O corpo encantado das ruas",
+          "pages": 176,
+          "read": 0
+        },
+        {
+          "title": "Samba de enredo: História e arte",
+          "pages": 266,
+          "read": 0
+        },
+        {
+          "title": "Caim",
+          "pages": 176,
+          "read": 0
+        },
+        {
+          "title": "As intermitências da Morte",
+          "pages": 208,
+          "read": 0
+        },
+        {
+          "title": "A viagem do elefante",
+          "pages": 264,
+          "read": 0
+        },
+        {
+          "title": "Meu destino é ser onça",
+          "pages": 208,
+          "read": 0
+        },
+        {
+          "title": "Doberman",
+          "pages": 288,
+          "read": 0
+        },
+        {
+          "title": "Meu nome é Vermelho",
+          "pages": 576,
+          "read": 0
         }
       ]
     }
   ],
   "view": "pending",
-  "updatedAt": "2026-08-17T22:22:30.997Z"
+  "updatedAt": "2026-08-17T23:35:46.810Z"
 }
