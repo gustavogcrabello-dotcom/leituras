@@ -1889,9 +1889,9 @@
         {
           "title": "Noites brancas",
           "pages": 96,
-          "read": 67,
+          "read": 96,
           "startedOn": "2026-08-11",
-          "finishedOn": ""
+          "finishedOn": "2026-08-18"
         },
         {
           "title": "O hotel dos sonhos",
@@ -2034,11 +2034,31 @@
           "finishedOn": ""
         },
         {
-          "title": "Piquito de oro - Piquito a secas -  Los peregrinos del fin del mundo - Piquito en las sombras - Piquito en los vientos",
-          "pages": 1550,
+          "title": "Piquito de oro",
+          "pages": 280,
           "read": 0,
           "startedOn": "",
           "finishedOn": ""
+        },
+        {
+          "title": "Piquito a secas",
+          "pages": 336,
+          "read": 0
+        },
+        {
+          "title": "Los peregrinos del fin del mundo",
+          "pages": 290,
+          "read": 0
+        },
+        {
+          "title": "Piquito en las sombras",
+          "pages": 549,
+          "read": 0
+        },
+        {
+          "title": "Piquito en los vientos",
+          "pages": 183,
+          "read": 0
         },
         {
           "title": "Cidade no Brasil - Terra de quem?",
@@ -2428,6 +2448,11 @@
           "read": 52,
           "startedOn": "2026-08-11",
           "finishedOn": ""
+        },
+        {
+          "title": "O adolescente",
+          "pages": 624,
+          "read": 0
         },
         {
           "title": "Neve na manhã de São Paulo",
@@ -2832,5 +2857,5 @@
     }
   ],
   "view": "pending",
-  "updatedAt": "2026-08-18T03:05:35.014Z"
+  "updatedAt": "2026-08-18T04:39:20.883Z"
 }
