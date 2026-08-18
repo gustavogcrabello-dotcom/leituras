@@ -325,12 +325,16 @@
         {
           "title": "O crime do Cais do Valongo",
           "pages": 143,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "A primeira história do mundo",
           "pages": 179,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         }
       ]
     },
@@ -1580,7 +1584,7 @@
         {
           "title": "Eu receberia as piores notícias…",
           "pages": 254,
-          "read": 102,
+          "read": 118,
           "startedOn": "2026-08-11",
           "finishedOn": ""
         },
@@ -1846,27 +1850,37 @@
         {
           "title": "Ficções (Borges)",
           "pages": 177,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "O livro de areia",
           "pages": 116,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "Júlio César",
           "pages": 201,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "Exit Party",
           "pages": 320,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "Solitária",
           "pages": 160,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         }
       ]
     },
@@ -2761,46 +2775,62 @@
         {
           "title": "O corpo encantado das ruas",
           "pages": 176,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "Samba de enredo: História e arte",
           "pages": 266,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "Caim",
           "pages": 176,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "As intermitências da Morte",
           "pages": 208,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "A viagem do elefante",
           "pages": 264,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "Meu destino é ser onça",
           "pages": 208,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "Doberman",
           "pages": 288,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "Meu nome é Vermelho",
           "pages": 576,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         }
       ]
     }
   ],
   "view": "pending",
-  "updatedAt": "2026-08-17T23:40:15.077Z"
+  "updatedAt": "2026-08-18T02:13:57.427Z"
 }
