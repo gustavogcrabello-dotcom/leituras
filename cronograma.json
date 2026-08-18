@@ -662,7 +662,7 @@
         {
           "title": "Mr. Mercedes",
           "pages": 558,
-          "read": 283,
+          "read": 292,
           "startedOn": "2026-08-11",
           "finishedOn": ""
         },
@@ -960,7 +960,7 @@
         {
           "title": "Intermezzo",
           "pages": 500,
-          "read": 89,
+          "read": 108,
           "startedOn": "2026-08-11",
           "finishedOn": ""
         },
@@ -1279,7 +1279,7 @@
         {
           "title": "Odisseia",
           "pages": 1025,
-          "read": 100,
+          "read": 118,
           "startedOn": "2026-08-11",
           "finishedOn": ""
         },
@@ -1591,7 +1591,7 @@
         {
           "title": "Dracula",
           "pages": 368,
-          "read": 11,
+          "read": 12,
           "startedOn": "2026-08-13",
           "finishedOn": ""
         },
@@ -2043,22 +2043,30 @@
         {
           "title": "Piquito a secas",
           "pages": 336,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "Los peregrinos del fin del mundo",
           "pages": 290,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "Piquito en las sombras",
           "pages": 549,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "Piquito en los vientos",
           "pages": 183,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "Cidade no Brasil - Terra de quem?",
@@ -2453,7 +2461,8 @@
           "title": "O adolescente",
           "pages": 624,
           "read": 9,
-          "startedOn": "2026-08-18"
+          "startedOn": "2026-08-18",
+          "finishedOn": ""
         },
         {
           "title": "Neve na manhã de São Paulo",
@@ -2858,5 +2867,5 @@
     }
   ],
   "view": "pending",
-  "updatedAt": "2026-08-18T04:45:25.332Z"
+  "updatedAt": "2026-08-18T13:55:18.258Z"
 }
