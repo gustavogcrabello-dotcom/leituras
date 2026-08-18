@@ -2452,7 +2452,8 @@
         {
           "title": "O adolescente",
           "pages": 624,
-          "read": 0
+          "read": 9,
+          "startedOn": "2026-08-18"
         },
         {
           "title": "Neve na manhã de São Paulo",
@@ -2857,5 +2858,5 @@
     }
   ],
   "view": "pending",
-  "updatedAt": "2026-08-18T04:39:20.883Z"
+  "updatedAt": "2026-08-18T04:45:25.332Z"
 }
