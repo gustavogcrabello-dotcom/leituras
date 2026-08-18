@@ -1743,13 +1743,6 @@
           "finishedOn": ""
         },
         {
-          "title": "Os irmãos Karamázov",
-          "pages": 1501,
-          "read": 0,
-          "startedOn": "",
-          "finishedOn": ""
-        },
-        {
           "title": "Chatô",
           "pages": 1071,
           "read": 0,
@@ -2458,9 +2451,9 @@
           "finishedOn": ""
         },
         {
-          "title": "O adolescente",
-          "pages": 624,
-          "read": 9,
+          "title": "Os irmãos Karamázov",
+          "pages": 1501,
+          "read": 22,
           "startedOn": "2026-08-18",
           "finishedOn": ""
         },
@@ -2787,15 +2780,20 @@
           "finishedOn": ""
         },
         {
-          "title": "Padre Cícero",
-          "pages": 560,
+          "title": "Vértice",
+          "pages": 327,
           "read": 0,
           "startedOn": "",
           "finishedOn": ""
         },
         {
-          "title": "Vértice",
-          "pages": 327,
+          "title": "O adolescente",
+          "pages": 624,
+          "read": 0
+        },
+        {
+          "title": "Padre Cícero",
+          "pages": 560,
           "read": 0,
           "startedOn": "",
           "finishedOn": ""
@@ -2867,5 +2865,5 @@
     }
   ],
   "view": "pending",
-  "updatedAt": "2026-08-18T13:57:03.924Z"
+  "updatedAt": "2026-08-18T14:08:21.441Z"
 }
