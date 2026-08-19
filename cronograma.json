@@ -1874,6 +1874,71 @@
           "read": 0,
           "startedOn": "",
           "finishedOn": ""
+        },
+        {
+          "title": "Sonho de uma noite de verão",
+          "pages": 88,
+          "read": 0
+        },
+        {
+          "title": "A megera domada",
+          "pages": 137,
+          "read": 0
+        },
+        {
+          "title": "A tempestade",
+          "pages": 311,
+          "read": 0
+        },
+        {
+          "title": "Ricardo III",
+          "pages": 192,
+          "read": 0
+        },
+        {
+          "title": "Muito Barulho por Nada",
+          "pages": 168,
+          "read": 0
+        },
+        {
+          "title": "Dona Flor e seus dois maridos",
+          "pages": 671,
+          "read": 0
+        },
+        {
+          "title": "Mar morto",
+          "pages": 332,
+          "read": 0
+        },
+        {
+          "title": "Tenda dos milagres",
+          "pages": 459,
+          "read": 0
+        },
+        {
+          "title": "A morte e a morte de Quincas Berro Dágua",
+          "pages": 95,
+          "read": 0
+        },
+        {
+          "title": "Terras do sem-fim",
+          "pages": 386,
+          "read": 0
+        },
+        {
+          "title": "Tereza Batista cansada de guerra",
+          "pages": 633,
+          "read": 0
+        },
+        {
+          "title": "O cavaleiro da esperança: Vida de Luís Carlos Prestes",
+          "pages": 477,
+          "read": 0
+        },
+        {
+          "title": "Tocaia grande",
+          "pages": 653,
+          "read": 0
         }
       ]
     },
@@ -2862,10 +2927,30 @@
           "read": 0,
           "startedOn": "",
           "finishedOn": ""
+        },
+        {
+          "title": "Romeu e Julieta",
+          "pages": 248,
+          "read": 0
+        },
+        {
+          "title": "Gabriela, cravo e canela",
+          "pages": 588,
+          "read": 0
+        },
+        {
+          "title": "Jubiabá",
+          "pages": 360,
+          "read": 0
+        },
+        {
+          "title": "A descoberta da América pelos turcos",
+          "pages": 180,
+          "read": 0
         }
       ]
     }
   ],
   "view": "pending",
-  "updatedAt": "2026-08-19T20:41:43.622Z"
+  "updatedAt": "2026-08-19T20:57:41.119Z"
 }
