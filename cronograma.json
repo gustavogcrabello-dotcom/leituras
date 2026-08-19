@@ -343,9 +343,9 @@
         {
           "title": "Os imortais",
           "pages": 249,
-          "read": 195,
+          "read": 249,
           "startedOn": "2026-08-11",
-          "finishedOn": ""
+          "finishedOn": "2026-08-19"
         },
         {
           "title": "Lavínia",
@@ -960,7 +960,7 @@
         {
           "title": "Intermezzo",
           "pages": 500,
-          "read": 108,
+          "read": 117,
           "startedOn": "2026-08-11",
           "finishedOn": ""
         },
@@ -1286,7 +1286,7 @@
         {
           "title": "1177 AC",
           "pages": 359,
-          "read": 50,
+          "read": 54,
           "startedOn": "2026-08-13",
           "finishedOn": ""
         },
@@ -1584,21 +1584,21 @@
         {
           "title": "Eu receberia as piores notícias…",
           "pages": 254,
-          "read": 118,
+          "read": 134,
           "startedOn": "2026-08-11",
           "finishedOn": ""
         },
         {
           "title": "Dracula",
           "pages": 368,
-          "read": 12,
+          "read": 14,
           "startedOn": "2026-08-13",
           "finishedOn": ""
         },
         {
           "title": "A cor púrpura",
           "pages": 310,
-          "read": 70,
+          "read": 83,
           "startedOn": "2026-08-16",
           "finishedOn": ""
         },
@@ -2867,5 +2867,5 @@
     }
   ],
   "view": "pending",
-  "updatedAt": "2026-08-19T00:33:02.936Z"
+  "updatedAt": "2026-08-19T19:11:30.778Z"
 }
