@@ -350,8 +350,8 @@
         {
           "title": "Eneida",
           "pages": 646,
-          "read": 0,
-          "startedOn": "",
+          "read": 38,
+          "startedOn": "2026-08-19",
           "finishedOn": ""
         },
         {
@@ -2867,5 +2867,5 @@
     }
   ],
   "view": "pending",
-  "updatedAt": "2026-08-19T19:14:46.227Z"
+  "updatedAt": "2026-08-19T20:41:43.622Z"
 }
