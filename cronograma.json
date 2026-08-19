@@ -654,6 +654,46 @@
           "read": 0,
           "startedOn": "",
           "finishedOn": ""
+        },
+        {
+          "title": "São Jorge: O santo do povo e o povo do santo",
+          "pages": 110,
+          "read": 0
+        },
+        {
+          "title": "Pedrinhas miudinhas",
+          "pages": 150,
+          "read": 0
+        },
+        {
+          "title": "Ode a Mauro Shampoo",
+          "pages": 93,
+          "read": 0
+        },
+        {
+          "title": "Last Night in Montreal: A Novel",
+          "pages": 230,
+          "read": 0
+        },
+        {
+          "title": "The Lola Quartet",
+          "pages": 287,
+          "read": 0
+        },
+        {
+          "title": "The Singer's Gun",
+          "pages": 271,
+          "read": 0
+        },
+        {
+          "title": "A Narrativa",
+          "pages": 222,
+          "read": 0
+        },
+        {
+          "title": "O buraco da agulha",
+          "pages": 435,
+          "read": 0
         }
       ]
     },
@@ -952,6 +992,41 @@
           "read": 0,
           "startedOn": "",
           "finishedOn": ""
+        },
+        {
+          "title": "Guerra e paz",
+          "pages": 2260,
+          "read": 0
+        },
+        {
+          "title": "Misery: Louca obsessão",
+          "pages": 397,
+          "read": 0
+        },
+        {
+          "title": "A cidade de vapor: Contos reunidos",
+          "pages": 168,
+          "read": 0
+        },
+        {
+          "title": "Marina",
+          "pages": 248,
+          "read": 0
+        },
+        {
+          "title": "O Príncipe da Névoa",
+          "pages": 176,
+          "read": 0
+        },
+        {
+          "title": "O Palácio da Meia-Noite",
+          "pages": 260,
+          "read": 0
+        },
+        {
+          "title": "As luzes de setembro",
+          "pages": 226,
+          "read": 0
         }
       ]
     },
@@ -993,11 +1068,23 @@
           "finishedOn": ""
         },
         {
+          "title": "Devoradores de estrelas",
+          "pages": 662,
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
+        },
+        {
           "title": "Primeiras estórias",
           "pages": 184,
           "read": 0,
           "startedOn": "",
           "finishedOn": ""
+        },
+        {
+          "title": "A morte de Ivan Ilitch",
+          "pages": 112,
+          "read": 0
         },
         {
           "title": "Corações sujos",
@@ -1014,22 +1101,15 @@
           "finishedOn": ""
         },
         {
+          "title": "Mitologia dos orixás",
+          "pages": 677,
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
+        },
+        {
           "title": "Dez mitos sobre Israel",
           "pages": 242,
-          "read": 0,
-          "startedOn": "",
-          "finishedOn": ""
-        },
-        {
-          "title": "Milicianos",
-          "pages": 348,
-          "read": 0,
-          "startedOn": "",
-          "finishedOn": ""
-        },
-        {
-          "title": "Devoradores de estrelas",
-          "pages": 662,
           "read": 0,
           "startedOn": "",
           "finishedOn": ""
@@ -1042,8 +1122,8 @@
           "finishedOn": ""
         },
         {
-          "title": "Mitologia dos orixás",
-          "pages": 677,
+          "title": "Milicianos",
+          "pages": 348,
           "read": 0,
           "startedOn": "",
           "finishedOn": ""
@@ -1271,6 +1351,36 @@
           "read": 0,
           "startedOn": "",
           "finishedOn": ""
+        },
+        {
+          "title": "Ensaio sobre a lucidez",
+          "pages": 369,
+          "read": 0
+        },
+        {
+          "title": "In Nomine Dei",
+          "pages": 164,
+          "read": 0
+        },
+        {
+          "title": "Os vestígios do dia",
+          "pages": 307,
+          "read": 0
+        },
+        {
+          "title": "Holly",
+          "pages": 592,
+          "read": 0
+        },
+        {
+          "title": "Outsider",
+          "pages": 662,
+          "read": 0
+        },
+        {
+          "title": "Com sangue",
+          "pages": 537,
+          "read": 0
         }
       ]
     },
@@ -1938,6 +2048,21 @@
         {
           "title": "Tocaia grande",
           "pages": 653,
+          "read": 0
+        },
+        {
+          "title": "À espera de um milagre",
+          "pages": 489,
+          "read": 0
+        },
+        {
+          "title": "O assassinato do comendador - Vol. 1",
+          "pages": 473,
+          "read": 0
+        },
+        {
+          "title": "O assassinato do comendador - Vol. 2",
+          "pages": 505,
           "read": 0
         }
       ]
@@ -2952,5 +3077,5 @@
     }
   ],
   "view": "pending",
-  "updatedAt": "2026-08-19T20:57:41.119Z"
+  "updatedAt": "2026-08-19T21:28:52.345Z"
 }
