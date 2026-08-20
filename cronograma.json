@@ -120,13 +120,6 @@
           "finishedOn": ""
         },
         {
-          "title": "Pra tudo começar na quinta-feira",
-          "pages": 293,
-          "read": 0,
-          "startedOn": "",
-          "finishedOn": ""
-        },
-        {
           "title": "Após o anoitecer",
           "pages": 197,
           "read": 0,
@@ -150,6 +143,13 @@
         {
           "title": "O agente secreto (roteiro)",
           "pages": 328,
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
+        },
+        {
+          "title": "Pra tudo começar na quinta-feira",
+          "pages": 293,
           "read": 0,
           "startedOn": "",
           "finishedOn": ""
@@ -658,42 +658,58 @@
         {
           "title": "São Jorge: O santo do povo e o povo do santo",
           "pages": 110,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "Pedrinhas miudinhas",
           "pages": 150,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "Ode a Mauro Shampoo",
           "pages": 93,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "Last Night in Montreal: A Novel",
           "pages": 230,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "The Lola Quartet",
           "pages": 287,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "The Singer's Gun",
           "pages": 271,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "A Narrativa",
           "pages": 222,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "O buraco da agulha",
           "pages": 435,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         }
       ]
     },
@@ -996,37 +1012,51 @@
         {
           "title": "Guerra e paz",
           "pages": 2260,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "Misery: Louca obsessão",
           "pages": 397,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "A cidade de vapor: Contos reunidos",
           "pages": 168,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "Marina",
           "pages": 248,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "O Príncipe da Névoa",
           "pages": 176,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "O Palácio da Meia-Noite",
           "pages": 260,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "As luzes de setembro",
           "pages": 226,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         }
       ]
     },
@@ -1084,7 +1114,9 @@
         {
           "title": "A morte de Ivan Ilitch",
           "pages": 112,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "Corações sujos",
@@ -1355,32 +1387,44 @@
         {
           "title": "Ensaio sobre a lucidez",
           "pages": 369,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "In Nomine Dei",
           "pages": 164,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "Os vestígios do dia",
           "pages": 307,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "Holly",
           "pages": 592,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "Outsider",
           "pages": 662,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "Com sangue",
           "pages": 537,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         }
       ]
     },
@@ -1988,82 +2032,114 @@
         {
           "title": "Sonho de uma noite de verão",
           "pages": 88,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "A megera domada",
           "pages": 137,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "A tempestade",
           "pages": 311,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "Ricardo III",
           "pages": 192,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "Muito Barulho por Nada",
           "pages": 168,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "Dona Flor e seus dois maridos",
           "pages": 671,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "Mar morto",
           "pages": 332,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "Tenda dos milagres",
           "pages": 459,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "A morte e a morte de Quincas Berro Dágua",
           "pages": 95,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "Terras do sem-fim",
           "pages": 386,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "Tereza Batista cansada de guerra",
           "pages": 633,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "O cavaleiro da esperança: Vida de Luís Carlos Prestes",
           "pages": 477,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "Tocaia grande",
           "pages": 653,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "À espera de um milagre",
           "pages": 489,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "O assassinato do comendador - Vol. 1",
           "pages": 473,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "O assassinato do comendador - Vol. 2",
           "pages": 505,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         }
       ]
     },
@@ -3056,26 +3132,34 @@
         {
           "title": "Romeu e Julieta",
           "pages": 248,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "Gabriela, cravo e canela",
           "pages": 588,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "Jubiabá",
           "pages": 360,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "A descoberta da América pelos turcos",
           "pages": 180,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         }
       ]
     }
   ],
   "view": "pending",
-  "updatedAt": "2026-08-19T23:26:25.322Z"
+  "updatedAt": "2026-08-20T00:46:36.538Z"
 }
