@@ -1065,7 +1065,7 @@
         {
           "title": "Intermezzo",
           "pages": 500,
-          "read": 117,
+          "read": 121,
           "startedOn": "2026-08-11",
           "finishedOn": ""
         },
@@ -1752,7 +1752,7 @@
         {
           "title": "A cor púrpura",
           "pages": 310,
-          "read": 83,
+          "read": 94,
           "startedOn": "2026-08-16",
           "finishedOn": ""
         },
@@ -2719,7 +2719,7 @@
         {
           "title": "Os irmãos Karamázov",
           "pages": 1501,
-          "read": 51,
+          "read": 64,
           "startedOn": "2026-08-18",
           "finishedOn": ""
         },
@@ -3161,5 +3161,5 @@
     }
   ],
   "view": "pending",
-  "updatedAt": "2026-08-20T02:43:47.530Z"
+  "updatedAt": "2026-08-20T18:47:47.348Z"
 }
