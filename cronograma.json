@@ -323,6 +323,16 @@
           "finishedOn": ""
         },
         {
+          "title": "Fogo & Sangue",
+          "pages": 1028,
+          "read": 0
+        },
+        {
+          "title": "O cavaleiro dos Sete Reinos",
+          "pages": 422,
+          "read": 0
+        },
+        {
           "title": "O crime do Cais do Valongo",
           "pages": 143,
           "read": 0,
@@ -330,11 +340,51 @@
           "finishedOn": ""
         },
         {
+          "title": "Mulheres Perigosas",
+          "pages": 736,
+          "read": 0
+        },
+        {
           "title": "A primeira história do mundo",
           "pages": 179,
           "read": 0,
           "startedOn": "",
           "finishedOn": ""
+        },
+        {
+          "title": "Benjamim",
+          "pages": 131,
+          "read": 0
+        },
+        {
+          "title": "Budapeste",
+          "pages": 159,
+          "read": 0
+        },
+        {
+          "title": "Leite derramado",
+          "pages": 161,
+          "read": 0
+        },
+        {
+          "title": "O irmão alemão",
+          "pages": 217,
+          "read": 0
+        },
+        {
+          "title": "Escolas de samba do Rio de Janeiro",
+          "pages": 646,
+          "read": 0
+        },
+        {
+          "title": "Uma ladeira para lugar nenhum",
+          "pages": 128,
+          "read": 0
+        },
+        {
+          "title": "O silêncio da chuva",
+          "pages": 306,
+          "read": 0
         }
       ]
     },
@@ -724,6 +774,26 @@
           "read": 0,
           "startedOn": "",
           "finishedOn": ""
+        },
+        {
+          "title": "O vermelho e o negro: Crônica de 1830",
+          "pages": 727,
+          "read": 0
+        },
+        {
+          "title": "A resistência",
+          "pages": 153,
+          "read": 0
+        },
+        {
+          "title": "O nome da rosa",
+          "pages": 701,
+          "read": 0
+        },
+        {
+          "title": "Número zero",
+          "pages": 178,
+          "read": 0
         }
       ]
     },
@@ -833,6 +903,11 @@
           "read": 0,
           "startedOn": "",
           "finishedOn": ""
+        },
+        {
+          "title": "O talentoso Ripley",
+          "pages": 354,
+          "read": 0
         },
         {
           "title": "Tripulação de esqueletos",
@@ -1078,6 +1153,21 @@
           "read": 0,
           "startedOn": "",
           "finishedOn": ""
+        },
+        {
+          "title": "O corcunda de Notre-Dame",
+          "pages": 744,
+          "read": 0
+        },
+        {
+          "title": "Victus: A queda de Barcelona",
+          "pages": 570,
+          "read": 0
+        },
+        {
+          "title": "The Mosquito Coast",
+          "pages": 374,
+          "read": 0
         }
       ]
     },
@@ -1458,6 +1548,21 @@
           "read": 0,
           "startedOn": "",
           "finishedOn": ""
+        },
+        {
+          "title": "Textos básicos de antropologia: Cem anos de tradição",
+          "pages": 418,
+          "read": 0
+        },
+        {
+          "title": "Churchill e três americanos em Londres",
+          "pages": 586,
+          "read": 0
+        },
+        {
+          "title": "La Biblia de barro",
+          "pages": 764,
+          "read": 0
         }
       ]
     },
@@ -1825,6 +1930,18 @@
           "finishedOn": ""
         },
         {
+          "title": "Quatro peças: A gaivota, Tio Vânia, Três irmãs e O jardim das cerejeiras",
+          "pages": 395,
+          "read": 0
+        },
+        {
+          "title": "Homens sem mulheres",
+          "pages": 235,
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
+        },
+        {
           "title": "Matadouro cinco",
           "pages": 229,
           "read": 0,
@@ -1939,13 +2056,6 @@
         {
           "title": "Norwegian Wood",
           "pages": 426,
-          "read": 0,
-          "startedOn": "",
-          "finishedOn": ""
-        },
-        {
-          "title": "Homens sem mulheres",
-          "pages": 235,
           "read": 0,
           "startedOn": "",
           "finishedOn": ""
@@ -2194,6 +2304,16 @@
           "read": 0,
           "startedOn": "",
           "finishedOn": ""
+        },
+        {
+          "title": "Esperando Godot",
+          "pages": 192,
+          "read": 0
+        },
+        {
+          "title": "The Pursuit of Power: Technology, Armed Force, and Society since A.D. 1000",
+          "pages": 416,
+          "read": 0
         }
       ]
     },
@@ -3210,10 +3330,35 @@
           "read": 0,
           "startedOn": "",
           "finishedOn": ""
+        },
+        {
+          "title": "Anos de chumbo e outros contos",
+          "pages": 168,
+          "read": 0
+        },
+        {
+          "title": "Essa gente",
+          "pages": 200,
+          "read": 0
+        },
+        {
+          "title": "Estorvo",
+          "pages": 160,
+          "read": 0
+        },
+        {
+          "title": "Calabar",
+          "pages": 112,
+          "read": 0
+        },
+        {
+          "title": "Gota d’água",
+          "pages": 176,
+          "read": 0
         }
       ]
     }
   ],
   "view": "pending",
-  "updatedAt": "2026-08-21T19:16:10.642Z"
+  "updatedAt": "2026-08-21T19:50:01.972Z"
 }
