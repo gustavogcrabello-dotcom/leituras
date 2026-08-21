@@ -1126,8 +1126,20 @@
           "finishedOn": ""
         },
         {
+          "title": "Ir até Havana",
+          "pages": 363,
+          "read": 0
+        },
+        {
           "title": "Primeiras estórias",
           "pages": 184,
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
+        },
+        {
+          "title": "Tutameia",
+          "pages": 240,
           "read": 0,
           "startedOn": "",
           "finishedOn": ""
@@ -1219,13 +1231,6 @@
         {
           "title": "Viagem a Portugal",
           "pages": 534,
-          "read": 0,
-          "startedOn": "",
-          "finishedOn": ""
-        },
-        {
-          "title": "Tutameia",
-          "pages": 240,
           "read": 0,
           "startedOn": "",
           "finishedOn": ""
@@ -3210,5 +3215,5 @@
     }
   ],
   "view": "pending",
-  "updatedAt": "2026-08-21T19:14:50.106Z"
+  "updatedAt": "2026-08-21T19:16:10.642Z"
 }
