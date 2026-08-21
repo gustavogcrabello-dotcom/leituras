@@ -1,5 +1,5 @@
 {
-  "start": "2026-08-20",
+  "start": "2026-08-21",
   "pagesPerDay": 80,
   "weekdays": [
     true,
@@ -714,12 +714,16 @@
         {
           "title": "O século dos imbecis",
           "pages": 252,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "Mansfield Park",
           "pages": 663,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         }
       ]
     },
@@ -1071,7 +1075,9 @@
         {
           "title": "Encantamento: sobre política de vida",
           "pages": 42,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         }
       ]
     },
@@ -1444,7 +1450,9 @@
         {
           "title": "Um conto de duas cidades",
           "pages": 497,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         }
       ]
     },
@@ -2164,17 +2172,23 @@
         {
           "title": "A guerra dos mundos",
           "pages": 329,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "A vida invisível de Eurídice Gusmão",
           "pages": 210,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "Fluxo e refluxo",
           "pages": 1021,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         }
       ]
     },
@@ -3196,5 +3210,5 @@
     }
   ],
   "view": "pending",
-  "updatedAt": "2026-08-20T20:10:20.638Z"
+  "updatedAt": "2026-08-21T19:14:50.106Z"
 }
