@@ -1,5 +1,5 @@
 {
-  "start": "2026-08-21",
+  "start": "2026-08-23",
   "pagesPerDay": 80,
   "weekdays": [
     true,
@@ -17,7 +17,7 @@
         {
           "title": "O problema dos 3 corpos",
           "pages": 507,
-          "read": 161,
+          "read": 171,
           "startedOn": "2026-08-11",
           "finishedOn": ""
         },
@@ -325,12 +325,16 @@
         {
           "title": "Fogo & Sangue",
           "pages": 1028,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "O cavaleiro dos Sete Reinos",
           "pages": 422,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "O crime do Cais do Valongo",
@@ -342,7 +346,9 @@
         {
           "title": "Mulheres Perigosas",
           "pages": 736,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "A primeira história do mundo",
@@ -354,37 +360,51 @@
         {
           "title": "Benjamim",
           "pages": 131,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "Budapeste",
           "pages": 159,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "Leite derramado",
           "pages": 161,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "O irmão alemão",
           "pages": 217,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "Escolas de samba do Rio de Janeiro",
           "pages": 646,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "Uma ladeira para lugar nenhum",
           "pages": 128,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "O silêncio da chuva",
           "pages": 306,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         }
       ]
     },
@@ -400,7 +420,7 @@
         {
           "title": "Eneida",
           "pages": 646,
-          "read": 38,
+          "read": 51,
           "startedOn": "2026-08-19",
           "finishedOn": ""
         },
@@ -778,22 +798,30 @@
         {
           "title": "O vermelho e o negro: Crônica de 1830",
           "pages": 727,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "A resistência",
           "pages": 153,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "O nome da rosa",
           "pages": 701,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "Número zero",
           "pages": 178,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         }
       ]
     },
@@ -802,7 +830,7 @@
         {
           "title": "Mr. Mercedes",
           "pages": 558,
-          "read": 302,
+          "read": 322,
           "startedOn": "2026-08-11",
           "finishedOn": ""
         },
@@ -907,7 +935,9 @@
         {
           "title": "O talentoso Ripley",
           "pages": 354,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "Tripulação de esqueletos",
@@ -1157,17 +1187,23 @@
         {
           "title": "O corcunda de Notre-Dame",
           "pages": 744,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "Victus: A queda de Barcelona",
           "pages": 570,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "The Mosquito Coast",
           "pages": 374,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         }
       ]
     },
@@ -1176,7 +1212,7 @@
         {
           "title": "Intermezzo",
           "pages": 500,
-          "read": 121,
+          "read": 147,
           "startedOn": "2026-08-11",
           "finishedOn": ""
         },
@@ -1218,7 +1254,9 @@
         {
           "title": "Ir até Havana",
           "pages": 363,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "Primeiras estórias",
@@ -1552,17 +1590,23 @@
         {
           "title": "Textos básicos de antropologia: Cem anos de tradição",
           "pages": 418,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "Churchill e três americanos em Londres",
           "pages": 586,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "La Biblia de barro",
           "pages": 764,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         }
       ]
     },
@@ -1571,14 +1615,14 @@
         {
           "title": "Odisseia",
           "pages": 1025,
-          "read": 118,
+          "read": 179,
           "startedOn": "2026-08-11",
           "finishedOn": ""
         },
         {
           "title": "1177 AC",
           "pages": 359,
-          "read": 71,
+          "read": 92,
           "startedOn": "2026-08-13",
           "finishedOn": ""
         },
@@ -1876,7 +1920,7 @@
         {
           "title": "Eu receberia as piores notícias…",
           "pages": 254,
-          "read": 134,
+          "read": 150,
           "startedOn": "2026-08-11",
           "finishedOn": ""
         },
@@ -1890,7 +1934,7 @@
         {
           "title": "A cor púrpura",
           "pages": 310,
-          "read": 94,
+          "read": 113,
           "startedOn": "2026-08-16",
           "finishedOn": ""
         },
@@ -1932,7 +1976,9 @@
         {
           "title": "Quatro peças: A gaivota, Tio Vânia, Três irmãs e O jardim das cerejeiras",
           "pages": 395,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "Homens sem mulheres",
@@ -2308,12 +2354,16 @@
         {
           "title": "Esperando Godot",
           "pages": 192,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "The Pursuit of Power: Technology, Armed Force, and Society since A.D. 1000",
           "pages": 416,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         }
       ]
     },
@@ -2893,7 +2943,7 @@
         {
           "title": "Os irmãos Karamázov",
           "pages": 1501,
-          "read": 64,
+          "read": 79,
           "startedOn": "2026-08-18",
           "finishedOn": ""
         },
@@ -3334,41 +3384,55 @@
         {
           "title": "Anos de chumbo e outros contos",
           "pages": 168,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "Essa gente",
           "pages": 200,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "Estorvo",
           "pages": 160,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "Calabar",
           "pages": 112,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "Gota d’água",
           "pages": 176,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "Os Lusíadas (Edição Didática) - Volume I",
           "pages": 504,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "Os Lusíadas (Edição Didática) - Volume II",
           "pages": 496,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         }
       ]
     }
   ],
   "view": "pending",
-  "updatedAt": "2026-08-21T21:25:12.798Z"
+  "updatedAt": "2026-08-23T03:44:07.753Z"
 }
