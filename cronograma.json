@@ -405,6 +405,21 @@
           "read": 0,
           "startedOn": "",
           "finishedOn": ""
+        },
+        {
+          "title": "Casa-grande & senzala",
+          "pages": 728,
+          "read": 0
+        },
+        {
+          "title": "Sobrados e mucambos",
+          "pages": 976,
+          "read": 0
+        },
+        {
+          "title": "Ordem e progresso",
+          "pages": 1120,
+          "read": 0
         }
       ]
     },
@@ -451,6 +466,16 @@
           "read": 0,
           "startedOn": "",
           "finishedOn": ""
+        },
+        {
+          "title": "AvóDezanove e o segredo do soviético",
+          "pages": 159,
+          "read": 0
+        },
+        {
+          "title": "Niketche",
+          "pages": 355,
+          "read": 0
         },
         {
           "title": "Precisamos de novos nomes",
@@ -909,6 +934,11 @@
           "finishedOn": ""
         },
         {
+          "title": "A rainha ginga",
+          "pages": 240,
+          "read": 0
+        },
+        {
           "title": "Fidelidade",
           "pages": 246,
           "read": 0,
@@ -1248,6 +1278,21 @@
         {
           "title": "Orbital",
           "pages": 178,
+          "read": 0
+        },
+        {
+          "title": "Os sertões",
+          "pages": 365,
+          "read": 0
+        },
+        {
+          "title": "Os Maias",
+          "pages": 566,
+          "read": 0
+        },
+        {
+          "title": "Terra sonâmbula",
+          "pages": 250,
           "read": 0
         }
       ]
@@ -3051,6 +3096,16 @@
           "title": "As Veias Abertas da América Latina",
           "pages": 392,
           "read": 0
+        },
+        {
+          "title": "Livro do desassossego",
+          "pages": 576,
+          "read": 0
+        },
+        {
+          "title": "Os cus de judas",
+          "pages": 200,
+          "read": 0
         }
       ]
     },
@@ -3617,10 +3672,25 @@
           "title": "Órfãos do Eldorado",
           "pages": 112,
           "read": 0
+        },
+        {
+          "title": "Raízes do Brasil",
+          "pages": 258,
+          "read": 0
+        },
+        {
+          "title": "Visão do paraíso",
+          "pages": 600,
+          "read": 0
+        },
+        {
+          "title": "Monções e capítulos de expansão paulista",
+          "pages": 624,
+          "read": 0
         }
       ]
     }
   ],
   "view": "pending",
-  "updatedAt": "2026-08-24T18:04:36.425Z"
+  "updatedAt": "2026-08-24T19:10:08.255Z"
 }
