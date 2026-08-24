@@ -1204,6 +1204,11 @@
           "read": 0,
           "startedOn": "",
           "finishedOn": ""
+        },
+        {
+          "title": "Anábase: A expedição persa",
+          "pages": 407,
+          "read": 0
         }
       ]
     },
@@ -3429,10 +3434,15 @@
           "read": 0,
           "startedOn": "",
           "finishedOn": ""
+        },
+        {
+          "title": "História social do jazz",
+          "pages": 532,
+          "read": 0
         }
       ]
     }
   ],
   "view": "pending",
-  "updatedAt": "2026-08-24T00:53:35.094Z"
+  "updatedAt": "2026-08-24T16:32:36.850Z"
 }
