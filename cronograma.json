@@ -822,6 +822,21 @@
           "read": 0,
           "startedOn": "",
           "finishedOn": ""
+        },
+        {
+          "title": "Triste fim de Policarpo Quaresma",
+          "pages": 396,
+          "read": 0
+        },
+        {
+          "title": "Clara dos Anjos",
+          "pages": 322,
+          "read": 0
+        },
+        {
+          "title": "Noturno do Chile",
+          "pages": 138,
+          "read": 0
         }
       ]
     },
@@ -924,6 +939,11 @@
           "read": 0,
           "startedOn": "",
           "finishedOn": ""
+        },
+        {
+          "title": "Caçando carneiros",
+          "pages": 378,
+          "read": 0
         },
         {
           "title": "Canção para ninar menino grande",
@@ -1209,6 +1229,16 @@
           "title": "Anábase: A expedição persa",
           "pages": 407,
           "read": 0
+        },
+        {
+          "title": "Jazz (Toni Morisson)",
+          "pages": 255,
+          "read": 0
+        },
+        {
+          "title": "Orbital",
+          "pages": 178,
+          "read": 0
         }
       ]
     },
@@ -1290,6 +1320,11 @@
           "read": 0,
           "startedOn": "",
           "finishedOn": ""
+        },
+        {
+          "title": "O Fim do Mundo e o impiedoso País das Maravilhas",
+          "pages": 642,
+          "read": 0
         },
         {
           "title": "A cidade e suas muralhas incertas",
@@ -2112,13 +2147,6 @@
           "finishedOn": ""
         },
         {
-          "title": "Ana Terra",
-          "pages": 152,
-          "read": 0,
-          "startedOn": "",
-          "finishedOn": ""
-        },
-        {
           "title": "A parte obscura de nós mesmos",
           "pages": 292,
           "read": 0,
@@ -2369,6 +2397,41 @@
           "read": 0,
           "startedOn": "",
           "finishedOn": ""
+        },
+        {
+          "title": "O continente - vol. 1",
+          "pages": 573,
+          "read": 0
+        },
+        {
+          "title": "O continente - vol. 2",
+          "pages": 601,
+          "read": 0
+        },
+        {
+          "title": "O retrato - vol. 1",
+          "pages": 505,
+          "read": 0
+        },
+        {
+          "title": "O retrato - vol. 2",
+          "pages": 519,
+          "read": 0
+        },
+        {
+          "title": "O arquipélago - vol. 1",
+          "pages": 533,
+          "read": 0
+        },
+        {
+          "title": "O arquipélago - vol. 2",
+          "pages": 528,
+          "read": 0
+        },
+        {
+          "title": "O arquipélago - vol. 3",
+          "pages": 690,
+          "read": 0
         }
       ]
     },
@@ -3439,10 +3502,20 @@
           "title": "História social do jazz",
           "pages": 532,
           "read": 0
+        },
+        {
+          "title": "Nações e nacionalismo desde 1780",
+          "pages": 278,
+          "read": 0
+        },
+        {
+          "title": "O 18 de brumário de Luís Bonaparte",
+          "pages": 176,
+          "read": 0
         }
       ]
     }
   ],
   "view": "pending",
-  "updatedAt": "2026-08-24T16:32:36.850Z"
+  "updatedAt": "2026-08-24T16:57:20.315Z"
 }
