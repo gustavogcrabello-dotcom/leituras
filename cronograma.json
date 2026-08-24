@@ -17,7 +17,7 @@
         {
           "title": "O problema dos 3 corpos",
           "pages": 507,
-          "read": 171,
+          "read": 213,
           "startedOn": "2026-08-11",
           "finishedOn": ""
         },
@@ -420,7 +420,7 @@
         {
           "title": "Eneida",
           "pages": 646,
-          "read": 51,
+          "read": 61,
           "startedOn": "2026-08-19",
           "finishedOn": ""
         },
@@ -830,7 +830,7 @@
         {
           "title": "Mr. Mercedes",
           "pages": 558,
-          "read": 322,
+          "read": 336,
           "startedOn": "2026-08-11",
           "finishedOn": ""
         },
@@ -1212,7 +1212,7 @@
         {
           "title": "Intermezzo",
           "pages": 500,
-          "read": 147,
+          "read": 153,
           "startedOn": "2026-08-11",
           "finishedOn": ""
         },
@@ -1615,14 +1615,14 @@
         {
           "title": "Odisseia",
           "pages": 1025,
-          "read": 179,
+          "read": 213,
           "startedOn": "2026-08-11",
           "finishedOn": ""
         },
         {
           "title": "1177 AC",
           "pages": 359,
-          "read": 92,
+          "read": 104,
           "startedOn": "2026-08-13",
           "finishedOn": ""
         },
@@ -1920,21 +1920,21 @@
         {
           "title": "Eu receberia as piores notícias…",
           "pages": 254,
-          "read": 150,
+          "read": 160,
           "startedOn": "2026-08-11",
           "finishedOn": ""
         },
         {
           "title": "Dracula",
           "pages": 368,
-          "read": 19,
+          "read": 21,
           "startedOn": "2026-08-13",
           "finishedOn": ""
         },
         {
           "title": "A cor púrpura",
           "pages": 310,
-          "read": 113,
+          "read": 124,
           "startedOn": "2026-08-16",
           "finishedOn": ""
         },
@@ -2943,7 +2943,7 @@
         {
           "title": "Os irmãos Karamázov",
           "pages": 1501,
-          "read": 79,
+          "read": 102,
           "startedOn": "2026-08-18",
           "finishedOn": ""
         },
@@ -3434,5 +3434,5 @@
     }
   ],
   "view": "pending",
-  "updatedAt": "2026-08-23T03:45:27.353Z"
+  "updatedAt": "2026-08-24T00:50:33.610Z"
 }
