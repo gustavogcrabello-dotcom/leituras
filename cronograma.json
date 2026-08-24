@@ -872,6 +872,16 @@
           "title": "Crônica da casa assassinada",
           "pages": 770,
           "read": 0
+        },
+        {
+          "title": "Lolita",
+          "pages": 445,
+          "read": 0
+        },
+        {
+          "title": "As cidades invisíveis",
+          "pages": 148,
+          "read": 0
         }
       ]
     },
@@ -1294,6 +1304,16 @@
           "title": "Terra sonâmbula",
           "pages": 250,
           "read": 0
+        },
+        {
+          "title": "O som e a fúria",
+          "pages": 412,
+          "read": 0
+        },
+        {
+          "title": "La pregunta de sus ojos",
+          "pages": 296,
+          "read": 0
         }
       ]
     },
@@ -1368,6 +1388,11 @@
           "read": 0,
           "startedOn": "",
           "finishedOn": ""
+        },
+        {
+          "title": "Kafka: Por uma literatura menor",
+          "pages": 174,
+          "read": 0
         },
         {
           "title": "Corações sujos",
@@ -1716,6 +1741,21 @@
         {
           "title": "Capão pecado",
           "pages": 176,
+          "read": 0
+        },
+        {
+          "title": "A morte em Veneza & Tonio Kröger",
+          "pages": 275,
+          "read": 0
+        },
+        {
+          "title": "Fausto",
+          "pages": 626,
+          "read": 0
+        },
+        {
+          "title": "Pele negra, máscaras brancas",
+          "pages": 336,
           "read": 0
         }
       ]
@@ -2529,6 +2569,21 @@
           "finishedOn": ""
         },
         {
+          "title": "A metamorfose",
+          "pages": 96,
+          "read": 0
+        },
+        {
+          "title": "O processo",
+          "pages": 336,
+          "read": 0
+        },
+        {
+          "title": "O castelo",
+          "pages": 368,
+          "read": 0
+        },
+        {
           "title": "Ilíada",
           "pages": 720,
           "read": 0,
@@ -3106,6 +3161,41 @@
           "title": "Os cus de judas",
           "pages": 200,
           "read": 0
+        },
+        {
+          "title": "O veredicto / Na colônia penal",
+          "pages": 88,
+          "read": 0
+        },
+        {
+          "title": "Contemplação / O foguista",
+          "pages": 104,
+          "read": 0
+        },
+        {
+          "title": "Um médico rural",
+          "pages": 88,
+          "read": 0
+        },
+        {
+          "title": "Narrativas do espólio",
+          "pages": 232,
+          "read": 0
+        },
+        {
+          "title": "Um artista da fome / A construção",
+          "pages": 120,
+          "read": 0
+        },
+        {
+          "title": "Carta ao pai",
+          "pages": 88,
+          "read": 0
+        },
+        {
+          "title": "O desaparecido ou Amerika",
+          "pages": 304,
+          "read": 0
         }
       ]
     },
@@ -3225,6 +3315,11 @@
           "read": 0,
           "startedOn": "",
           "finishedOn": ""
+        },
+        {
+          "title": "Dinheiro queimado",
+          "pages": 184,
+          "read": 0
         },
         {
           "title": "Perder a mãe",
@@ -3687,10 +3782,35 @@
           "title": "Monções e capítulos de expansão paulista",
           "pages": 624,
           "read": 0
+        },
+        {
+          "title": "O amante japonês",
+          "pages": 302,
+          "read": 0
+        },
+        {
+          "title": "O jogo da amarelinha",
+          "pages": 640,
+          "read": 0
+        },
+        {
+          "title": "Blanco Nocturno",
+          "pages": 304,
+          "read": 0
+        },
+        {
+          "title": "Respiração artificial",
+          "pages": 245,
+          "read": 0
+        },
+        {
+          "title": "O último leitor",
+          "pages": 161,
+          "read": 0
         }
       ]
     }
   ],
   "view": "pending",
-  "updatedAt": "2026-08-24T19:10:08.255Z"
+  "updatedAt": "2026-08-24T23:36:38.984Z"
 }
