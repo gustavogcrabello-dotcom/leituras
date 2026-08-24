@@ -837,6 +837,16 @@
           "title": "Noturno do Chile",
           "pages": 138,
           "read": 0
+        },
+        {
+          "title": "Memorial de Maria Moura",
+          "pages": 621,
+          "read": 0
+        },
+        {
+          "title": "Crônica da casa assassinada",
+          "pages": 770,
+          "read": 0
         }
       ]
     },
@@ -1647,6 +1657,21 @@
           "read": 0,
           "startedOn": "",
           "finishedOn": ""
+        },
+        {
+          "title": "Futebol ao Sol e à Sombra",
+          "pages": 299,
+          "read": 0
+        },
+        {
+          "title": "Cidade de Deus",
+          "pages": 400,
+          "read": 0
+        },
+        {
+          "title": "Capão pecado",
+          "pages": 176,
+          "read": 0
         }
       ]
     },
@@ -2996,6 +3021,36 @@
           "read": 0,
           "startedOn": "",
           "finishedOn": ""
+        },
+        {
+          "title": "Agosto",
+          "pages": 390,
+          "read": 0
+        },
+        {
+          "title": "Feliz ano novo",
+          "pages": 172,
+          "read": 0
+        },
+        {
+          "title": "Nove noites",
+          "pages": 152,
+          "read": 0
+        },
+        {
+          "title": "Feliz ano velho",
+          "pages": 272,
+          "read": 0
+        },
+        {
+          "title": "Ainda estou aqui",
+          "pages": 296,
+          "read": 0
+        },
+        {
+          "title": "As Veias Abertas da América Latina",
+          "pages": 392,
+          "read": 0
         }
       ]
     },
@@ -3042,6 +3097,16 @@
           "read": 0,
           "startedOn": "",
           "finishedOn": ""
+        },
+        {
+          "title": "Água viva",
+          "pages": 96,
+          "read": 0
+        },
+        {
+          "title": "Laços de família",
+          "pages": 144,
+          "read": 0
         },
         {
           "title": "Maldito invento dum baronete",
@@ -3512,10 +3577,50 @@
           "title": "O 18 de brumário de Luís Bonaparte",
           "pages": 176,
           "read": 0
+        },
+        {
+          "title": "Box Graciliano Ramos: Vidas secas, S. Bernardo, Angústia e Memórias do cárcere",
+          "pages": 1481,
+          "read": 0
+        },
+        {
+          "title": "Quarto de despejo",
+          "pages": 264,
+          "read": 0
+        },
+        {
+          "title": "O cortiço",
+          "pages": 320,
+          "read": 0
+        },
+        {
+          "title": "Memórias de um Sargento de Milícias",
+          "pages": 272,
+          "read": 0
+        },
+        {
+          "title": "Relato de um certo Oriente",
+          "pages": 152,
+          "read": 0
+        },
+        {
+          "title": "A noite da espera: 1",
+          "pages": 216,
+          "read": 0
+        },
+        {
+          "title": "Pontos de fuga: 2",
+          "pages": 312,
+          "read": 0
+        },
+        {
+          "title": "Órfãos do Eldorado",
+          "pages": 112,
+          "read": 0
         }
       ]
     }
   ],
   "view": "pending",
-  "updatedAt": "2026-08-24T16:57:20.315Z"
+  "updatedAt": "2026-08-24T17:17:10.234Z"
 }
