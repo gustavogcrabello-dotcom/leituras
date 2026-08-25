@@ -409,17 +409,23 @@
         {
           "title": "Casa-grande & senzala",
           "pages": 728,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "Sobrados e mucambos",
           "pages": 976,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "Ordem e progresso",
           "pages": 1120,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         }
       ]
     },
@@ -470,12 +476,16 @@
         {
           "title": "AvóDezanove e o segredo do soviético",
           "pages": 159,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "Niketche",
           "pages": 355,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "Precisamos de novos nomes",
@@ -851,37 +861,51 @@
         {
           "title": "Triste fim de Policarpo Quaresma",
           "pages": 396,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "Clara dos Anjos",
           "pages": 322,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "Noturno do Chile",
           "pages": 138,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "Memorial de Maria Moura",
           "pages": 621,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "Crônica da casa assassinada",
           "pages": 770,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "Lolita",
           "pages": 445,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "As cidades invisíveis",
           "pages": 148,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         }
       ]
     },
@@ -946,7 +970,9 @@
         {
           "title": "A rainha ginga",
           "pages": 240,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "Fidelidade",
@@ -993,7 +1019,9 @@
         {
           "title": "Caçando carneiros",
           "pages": 378,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "Canção para ninar menino grande",
@@ -1278,42 +1306,58 @@
         {
           "title": "Anábase: A expedição persa",
           "pages": 407,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "Jazz (Toni Morisson)",
           "pages": 255,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "Orbital",
           "pages": 178,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "Os sertões",
           "pages": 365,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "Os Maias",
           "pages": 566,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "Terra sonâmbula",
           "pages": 250,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "O som e a fúria",
           "pages": 412,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "La pregunta de sus ojos",
           "pages": 296,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         }
       ]
     },
@@ -1392,7 +1436,9 @@
         {
           "title": "Kafka: Por uma literatura menor",
           "pages": 174,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "Corações sujos",
@@ -1404,7 +1450,9 @@
         {
           "title": "O Fim do Mundo e o impiedoso País das Maravilhas",
           "pages": 642,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "A cidade e suas muralhas incertas",
@@ -1731,32 +1779,44 @@
         {
           "title": "Futebol ao Sol e à Sombra",
           "pages": 299,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "Cidade de Deus",
           "pages": 400,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "Capão pecado",
           "pages": 176,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "A morte em Veneza & Tonio Kröger",
           "pages": 275,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "Fausto",
           "pages": 626,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "Pele negra, máscaras brancas",
           "pages": 336,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         }
       ]
     },
@@ -2511,37 +2571,51 @@
         {
           "title": "O continente - vol. 1",
           "pages": 573,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "O continente - vol. 2",
           "pages": 601,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "O retrato - vol. 1",
           "pages": 505,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "O retrato - vol. 2",
           "pages": 519,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "O arquipélago - vol. 1",
           "pages": 533,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "O arquipélago - vol. 2",
           "pages": 528,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "O arquipélago - vol. 3",
           "pages": 690,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         }
       ]
     },
@@ -2571,17 +2645,23 @@
         {
           "title": "A metamorfose",
           "pages": 96,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "O processo",
           "pages": 336,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "O castelo",
           "pages": 368,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "Ilíada",
@@ -3125,77 +3205,107 @@
         {
           "title": "Agosto",
           "pages": 390,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "Feliz ano novo",
           "pages": 172,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "Nove noites",
           "pages": 152,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "Feliz ano velho",
           "pages": 272,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "Ainda estou aqui",
           "pages": 296,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "As Veias Abertas da América Latina",
           "pages": 392,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "Livro do desassossego",
           "pages": 576,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "Os cus de judas",
           "pages": 200,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "O veredicto / Na colônia penal",
           "pages": 88,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "Contemplação / O foguista",
           "pages": 104,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "Um médico rural",
           "pages": 88,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "Narrativas do espólio",
           "pages": 232,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "Um artista da fome / A construção",
           "pages": 120,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "Carta ao pai",
           "pages": 88,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "O desaparecido ou Amerika",
           "pages": 304,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         }
       ]
     },
@@ -3246,12 +3356,16 @@
         {
           "title": "Água viva",
           "pages": 96,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "Laços de família",
           "pages": 144,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "Maldito invento dum baronete",
@@ -3319,7 +3433,9 @@
         {
           "title": "Dinheiro queimado",
           "pages": 184,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "Perder a mãe",
@@ -3716,101 +3832,139 @@
         {
           "title": "História social do jazz",
           "pages": 532,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "Nações e nacionalismo desde 1780",
           "pages": 278,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "O 18 de brumário de Luís Bonaparte",
           "pages": 176,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "Box Graciliano Ramos: Vidas secas, S. Bernardo, Angústia e Memórias do cárcere",
           "pages": 1481,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "Quarto de despejo",
           "pages": 264,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "O cortiço",
           "pages": 320,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "Memórias de um Sargento de Milícias",
           "pages": 272,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "Relato de um certo Oriente",
           "pages": 152,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "A noite da espera: 1",
           "pages": 216,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "Pontos de fuga: 2",
           "pages": 312,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "Órfãos do Eldorado",
           "pages": 112,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "Raízes do Brasil",
           "pages": 258,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "Visão do paraíso",
           "pages": 600,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "Monções e capítulos de expansão paulista",
           "pages": 624,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "O amante japonês",
           "pages": 302,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "O jogo da amarelinha",
           "pages": 640,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "Blanco Nocturno",
           "pages": 304,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "Respiração artificial",
           "pages": 245,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "O último leitor",
           "pages": 161,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         }
       ]
     }
   ],
   "view": "pending",
-  "updatedAt": "2026-08-24T23:36:38.984Z"
+  "updatedAt": "2026-08-25T01:05:43.010Z"
 }
