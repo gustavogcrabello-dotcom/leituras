@@ -419,8 +419,8 @@
           "read": 0
         },
         {
-          "title": "As Veias Abertas da América Latina",
-          "pages": 392,
+          "title": "Blanco Nocturno",
+          "pages": 304,
           "read": 0
         }
       ]
@@ -2119,6 +2119,13 @@
           "read": 0,
           "startedOn": "",
           "finishedOn": ""
+        },
+        {
+          "title": "A guerra dos mundos",
+          "pages": 329,
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         }
       ]
     },
@@ -2510,13 +2517,6 @@
           "finishedOn": ""
         },
         {
-          "title": "A guerra dos mundos",
-          "pages": 329,
-          "read": 0,
-          "startedOn": "",
-          "finishedOn": ""
-        },
-        {
           "title": "A vida invisível de Eurídice Gusmão",
           "pages": 210,
           "read": 0,
@@ -2592,6 +2592,11 @@
           "read": 0,
           "startedOn": "",
           "finishedOn": ""
+        },
+        {
+          "title": "As Veias Abertas da América Latina",
+          "pages": 392,
+          "read": 0
         }
       ]
     },
@@ -3875,13 +3880,6 @@
           "finishedOn": ""
         },
         {
-          "title": "Blanco Nocturno",
-          "pages": 304,
-          "read": 0,
-          "startedOn": "",
-          "finishedOn": ""
-        },
-        {
           "title": "Respiração artificial",
           "pages": 245,
           "read": 0,
@@ -3899,5 +3897,5 @@
     }
   ],
   "view": "pending",
-  "updatedAt": "2026-08-26T21:30:54.838Z"
+  "updatedAt": "2026-08-26T21:34:44.392Z"
 }
