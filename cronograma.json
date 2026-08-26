@@ -288,41 +288,6 @@
           "finishedOn": ""
         },
         {
-          "title": "A guerra dos tronos",
-          "pages": 1184,
-          "read": 0,
-          "startedOn": "",
-          "finishedOn": ""
-        },
-        {
-          "title": "A fúria dos reis",
-          "pages": 1316,
-          "read": 0,
-          "startedOn": "",
-          "finishedOn": ""
-        },
-        {
-          "title": "A tormenta de espadas",
-          "pages": 1687,
-          "read": 0,
-          "startedOn": "",
-          "finishedOn": ""
-        },
-        {
-          "title": "O festim dos corvos",
-          "pages": 1227,
-          "read": 0,
-          "startedOn": "",
-          "finishedOn": ""
-        },
-        {
-          "title": "A dança dos dragões",
-          "pages": 1666,
-          "read": 0,
-          "startedOn": "",
-          "finishedOn": ""
-        },
-        {
           "title": "Fogo & Sangue",
           "pages": 1028,
           "read": 0,
@@ -764,13 +729,6 @@
         {
           "title": "O amor nos tempos do cólera",
           "pages": 434,
-          "read": 0,
-          "startedOn": "",
-          "finishedOn": ""
-        },
-        {
-          "title": "Coleção Ditadura",
-          "pages": 4832,
           "read": 0,
           "startedOn": "",
           "finishedOn": ""
@@ -1224,13 +1182,6 @@
         {
           "title": "Razão e sensibilidade",
           "pages": 550,
-          "read": 0,
-          "startedOn": "",
-          "finishedOn": ""
-        },
-        {
-          "title": "Machado de Assis - Contos completos",
-          "pages": 6179,
           "read": 0,
           "startedOn": "",
           "finishedOn": ""
@@ -1745,13 +1696,6 @@
           "finishedOn": ""
         },
         {
-          "title": "Torre negra: A série completa",
-          "pages": 5548,
-          "read": 0,
-          "startedOn": "",
-          "finishedOn": ""
-        },
-        {
           "title": "Ensaio sobre a lucidez",
           "pages": 369,
           "read": 0,
@@ -2099,76 +2043,6 @@
         {
           "title": "Terceiro Reich em Guerra",
           "pages": 1517,
-          "read": 0,
-          "startedOn": "",
-          "finishedOn": ""
-        },
-        {
-          "title": "Outlander: A viajante do tempo",
-          "pages": 1068,
-          "read": 0,
-          "startedOn": "",
-          "finishedOn": ""
-        },
-        {
-          "title": "A libélula no âmbar",
-          "pages": 1238,
-          "read": 0,
-          "startedOn": "",
-          "finishedOn": ""
-        },
-        {
-          "title": "O resgate no mar",
-          "pages": 1431,
-          "read": 0,
-          "startedOn": "",
-          "finishedOn": ""
-        },
-        {
-          "title": "Os tambores do outono",
-          "pages": 1403,
-          "read": 0,
-          "startedOn": "",
-          "finishedOn": ""
-        },
-        {
-          "title": "A Cruz de fogo",
-          "pages": 1677,
-          "read": 0,
-          "startedOn": "",
-          "finishedOn": ""
-        },
-        {
-          "title": "Um Sopro de neve e cinzas",
-          "pages": 1897,
-          "read": 0,
-          "startedOn": "",
-          "finishedOn": ""
-        },
-        {
-          "title": "Ecos do futuro",
-          "pages": 1482,
-          "read": 0,
-          "startedOn": "",
-          "finishedOn": ""
-        },
-        {
-          "title": "Escrito com o sangue do meu coração",
-          "pages": 1476,
-          "read": 0,
-          "startedOn": "",
-          "finishedOn": ""
-        },
-        {
-          "title": "Diga às abelhas que não estou mais aqui",
-          "pages": 1706,
-          "read": 0,
-          "startedOn": "",
-          "finishedOn": ""
-        },
-        {
-          "title": "O círculo das sete pedras",
-          "pages": 820,
           "read": 0,
           "startedOn": "",
           "finishedOn": ""
@@ -4036,5 +3910,5 @@
     }
   ],
   "view": "pending",
-  "updatedAt": "2026-08-26T20:59:08.371Z"
+  "updatedAt": "2026-08-26T21:08:12.268Z"
 }
