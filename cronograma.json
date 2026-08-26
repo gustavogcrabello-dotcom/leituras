@@ -422,6 +422,11 @@
           "title": "Blanco Nocturno",
           "pages": 304,
           "read": 0
+        },
+        {
+          "title": "Microfísica do poder",
+          "pages": 432,
+          "read": 0
         }
       ]
     },
@@ -903,6 +908,11 @@
           "read": 0,
           "startedOn": "",
           "finishedOn": ""
+        },
+        {
+          "title": "Visões da liberdade: Uma história das últimas décadas da escravidão na Corte",
+          "pages": 439,
+          "read": 0
         }
       ]
     },
@@ -1377,6 +1387,11 @@
           "read": 0,
           "startedOn": "",
           "finishedOn": ""
+        },
+        {
+          "title": "Negros da terra: Índios e bandeirantes nas origens de São Paulo",
+          "pages": 445,
+          "read": 0
         }
       ]
     },
@@ -1837,6 +1852,11 @@
           "read": 0,
           "startedOn": "",
           "finishedOn": ""
+        },
+        {
+          "title": "A heresia dos índios: Catolicismo e rebeldia no Brasil colonial",
+          "pages": 350,
+          "read": 0
         }
       ]
     },
@@ -1979,6 +1999,11 @@
           "read": 0,
           "startedOn": "",
           "finishedOn": ""
+        },
+        {
+          "title": "Fédon: ou Sobre a alma",
+          "pages": 334,
+          "read": 0
         },
         {
           "title": "Tolstoi - Contos completos",
@@ -2596,6 +2621,16 @@
         {
           "title": "As Veias Abertas da América Latina",
           "pages": 392,
+          "read": 0
+        },
+        {
+          "title": "O Processo Civilizador 1: Uma História dos Costumes",
+          "pages": 398,
+          "read": 0
+        },
+        {
+          "title": "O Processo Civilizador 2: Formação do Estado e Civilização",
+          "pages": 446,
           "read": 0
         }
       ]
@@ -3255,6 +3290,11 @@
           "read": 0,
           "startedOn": "",
           "finishedOn": ""
+        },
+        {
+          "title": "Jamais fomos modernos",
+          "pages": 192,
+          "read": 0
         }
       ]
     },
@@ -3308,6 +3348,11 @@
           "read": 0,
           "startedOn": "",
           "finishedOn": ""
+        },
+        {
+          "title": "SPQR",
+          "pages": 560,
+          "read": 0
         },
         {
           "title": "Maldito invento dum baronete",
@@ -3892,10 +3937,15 @@
           "read": 0,
           "startedOn": "",
           "finishedOn": ""
+        },
+        {
+          "title": "Os bestializados: O Rio de Janeiro e a República que não foi",
+          "pages": 192,
+          "read": 0
         }
       ]
     }
   ],
   "view": "pending",
-  "updatedAt": "2026-08-26T22:13:11.170Z"
+  "updatedAt": "2026-08-26T23:50:00.504Z"
 }
