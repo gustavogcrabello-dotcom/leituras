@@ -1,5 +1,5 @@
 {
-  "start": "2026-08-27",
+  "start": "2026-08-28",
   "pagesPerDay": 80,
   "weekdays": [
     true,
@@ -17,7 +17,7 @@
         {
           "title": "O problema dos 3 corpos",
           "pages": 507,
-          "read": 221,
+          "read": 232,
           "startedOn": "2026-08-11",
           "finishedOn": ""
         },
@@ -416,17 +416,23 @@
         {
           "title": "Livro do desassossego",
           "pages": 576,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "Blanco Nocturno",
           "pages": 304,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "Microfísica do poder",
           "pages": 432,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         }
       ]
     },
@@ -442,7 +448,7 @@
         {
           "title": "Eneida",
           "pages": 646,
-          "read": 67,
+          "read": 81,
           "startedOn": "2026-08-19",
           "finishedOn": ""
         },
@@ -477,17 +483,23 @@
         {
           "title": "Os egípcios (Asimov)",
           "pages": 337,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "Os Gregos (Asimov)",
           "pages": 411,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "O império romano (Asimov)",
           "pages": 338,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "AvóDezanove e o segredo do soviético",
@@ -912,7 +924,9 @@
         {
           "title": "Visões da liberdade: Uma história das últimas décadas da escravidão na Corte",
           "pages": 439,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         }
       ]
     },
@@ -921,7 +935,7 @@
         {
           "title": "Mr. Mercedes",
           "pages": 558,
-          "read": 341,
+          "read": 351,
           "startedOn": "2026-08-11",
           "finishedOn": ""
         },
@@ -942,17 +956,23 @@
         {
           "title": "Os mitos egípcios: Um guia aos antigos deuses e lendas",
           "pages": 271,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "Os mitos chineses: Um guia para os deuses e lendas",
           "pages": 249,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "Os mitos japoneses: Um guia para deuses, heróis e espíritos",
           "pages": 323,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "Billy Summers",
@@ -1391,7 +1411,9 @@
         {
           "title": "Negros da terra: Índios e bandeirantes nas origens de São Paulo",
           "pages": 445,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         }
       ]
     },
@@ -1400,7 +1422,7 @@
         {
           "title": "Intermezzo",
           "pages": 500,
-          "read": 155,
+          "read": 166,
           "startedOn": "2026-08-11",
           "finishedOn": ""
         },
@@ -1463,12 +1485,16 @@
         {
           "title": "The Oxford History of Ancient Egypt",
           "pages": 552,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "The Complete Gods and Goddesses of Ancient Egypt",
           "pages": 606,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "A morte de Ivan Ilitch",
@@ -1557,7 +1583,9 @@
         {
           "title": "Timeu e Critias Ou A Atlântida",
           "pages": 192,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "A bolsa e a vida",
@@ -1856,7 +1884,9 @@
         {
           "title": "A heresia dos índios: Catolicismo e rebeldia no Brasil colonial",
           "pages": 350,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         }
       ]
     },
@@ -1865,21 +1895,21 @@
         {
           "title": "Odisseia",
           "pages": 1025,
-          "read": 272,
+          "read": 331,
           "startedOn": "2026-08-11",
           "finishedOn": ""
         },
         {
           "title": "1177 AC",
           "pages": 359,
-          "read": 106,
+          "read": 111,
           "startedOn": "2026-08-13",
           "finishedOn": ""
         },
         {
           "title": "Os irmãos Karamázov",
           "pages": 1501,
-          "read": 114,
+          "read": 139,
           "startedOn": "2026-08-18",
           "finishedOn": ""
         },
@@ -1949,7 +1979,9 @@
         {
           "title": "Conquistadores",
           "pages": 542,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "Os descobridores",
@@ -2003,7 +2035,9 @@
         {
           "title": "Fédon: ou Sobre a alma",
           "pages": 334,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "Tolstoi - Contos completos",
@@ -2159,21 +2193,21 @@
         {
           "title": "Eu receberia as piores notícias…",
           "pages": 254,
-          "read": 167,
+          "read": 180,
           "startedOn": "2026-08-11",
           "finishedOn": ""
         },
         {
           "title": "Dracula",
           "pages": 368,
-          "read": 26,
+          "read": 29,
           "startedOn": "2026-08-13",
           "finishedOn": ""
         },
         {
           "title": "A cor púrpura",
           "pages": 310,
-          "read": 129,
+          "read": 135,
           "startedOn": "2026-08-16",
           "finishedOn": ""
         },
@@ -2621,17 +2655,23 @@
         {
           "title": "As Veias Abertas da América Latina",
           "pages": 392,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "O Processo Civilizador 1: Uma História dos Costumes",
           "pages": 398,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "O Processo Civilizador 2: Formação do Estado e Civilização",
           "pages": 446,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         }
       ]
     },
@@ -2696,7 +2736,9 @@
         {
           "title": "Civilizações pré-colombianas",
           "pages": 160,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "A kizomba de Vila Isabel",
@@ -2806,7 +2848,9 @@
         {
           "title": "O sagrado e o profano",
           "pages": 192,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "O asno de ouro",
@@ -3294,7 +3338,9 @@
         {
           "title": "Jamais fomos modernos",
           "pages": 192,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         }
       ]
     },
@@ -3303,7 +3349,7 @@
         {
           "title": "Adeus, Columbus e cinco contos",
           "pages": 272,
-          "read": 118,
+          "read": 136,
           "startedOn": "2026-08-11",
           "finishedOn": ""
         },
@@ -3352,7 +3398,9 @@
         {
           "title": "SPQR",
           "pages": 560,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "Maldito invento dum baronete",
@@ -3420,12 +3468,16 @@
         {
           "title": "Mito e religião na Grécia antiga",
           "pages": 96,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "O Dossel Sagrado",
           "pages": 200,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "Dinheiro queimado",
@@ -3941,11 +3993,13 @@
         {
           "title": "Os bestializados: O Rio de Janeiro e a República que não foi",
           "pages": 192,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         }
       ]
     }
   ],
   "view": "pending",
-  "updatedAt": "2026-08-27T04:27:16.749Z"
+  "updatedAt": "2026-08-28T23:15:03.459Z"
 }
