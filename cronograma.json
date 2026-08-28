@@ -1,5 +1,5 @@
 {
-  "start": "2026-08-28",
+  "start": "2026-08-29",
   "pagesPerDay": 80,
   "weekdays": [
     true,
@@ -4001,5 +4001,5 @@
     }
   ],
   "view": "pending",
-  "updatedAt": "2026-08-28T23:15:03.459Z"
+  "updatedAt": "2026-08-28T23:16:29.000Z"
 }
