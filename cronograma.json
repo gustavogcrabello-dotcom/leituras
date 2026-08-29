@@ -2687,7 +2687,7 @@
         {
           "title": "O hotel dos sonhos",
           "pages": 378,
-          "read": 25,
+          "read": 40,
           "startedOn": "2026-08-16",
           "finishedOn": ""
         },
@@ -3349,7 +3349,7 @@
         {
           "title": "Adeus, Columbus e cinco contos",
           "pages": 272,
-          "read": 136,
+          "read": 156,
           "startedOn": "2026-08-11",
           "finishedOn": ""
         },
@@ -4001,5 +4001,5 @@
     }
   ],
   "view": "pending",
-  "updatedAt": "2026-08-28T23:16:29.000Z"
+  "updatedAt": "2026-08-29T00:41:35.298Z"
 }
