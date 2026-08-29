@@ -2706,6 +2706,13 @@
           "finishedOn": ""
         },
         {
+          "title": "Civilizações pré-colombianas",
+          "pages": 160,
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
+        },
+        {
           "title": "O processo",
           "pages": 336,
           "read": 0,
@@ -2728,13 +2735,6 @@
         },
         {
           "title": "Doramar ou a odisseia",
-          "pages": 160,
-          "read": 0,
-          "startedOn": "",
-          "finishedOn": ""
-        },
-        {
-          "title": "Civilizações pré-colombianas",
           "pages": 160,
           "read": 0,
           "startedOn": "",
@@ -3354,6 +3354,13 @@
           "finishedOn": ""
         },
         {
+          "title": "Água viva",
+          "pages": 96,
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
+        },
+        {
           "title": "Neve na manhã de São Paulo",
           "pages": 368,
           "read": 0,
@@ -3377,13 +3384,6 @@
         {
           "title": "Tóquio redux",
           "pages": 464,
-          "read": 0,
-          "startedOn": "",
-          "finishedOn": ""
-        },
-        {
-          "title": "Água viva",
-          "pages": 96,
           "read": 0,
           "startedOn": "",
           "finishedOn": ""
@@ -4001,5 +4001,5 @@
     }
   ],
   "view": "pending",
-  "updatedAt": "2026-08-29T03:08:51.230Z"
+  "updatedAt": "2026-08-29T03:10:00.401Z"
 }
