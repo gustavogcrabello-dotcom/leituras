@@ -2972,6 +2972,11 @@
           "finishedOn": ""
         },
         {
+          "title": "Antigo Oriente: História, Sociedade e Economia",
+          "pages": 832,
+          "read": 0
+        },
+        {
           "title": "Pequena história da música popular",
           "pages": 352,
           "read": 0,
@@ -3996,10 +4001,15 @@
           "read": 0,
           "startedOn": "",
           "finishedOn": ""
+        },
+        {
+          "title": "Ética a Nicômaco",
+          "pages": 256,
+          "read": 0
         }
       ]
     }
   ],
   "view": "pending",
-  "updatedAt": "2026-08-29T20:28:36.114Z"
+  "updatedAt": "2026-08-29T20:33:57.879Z"
 }
