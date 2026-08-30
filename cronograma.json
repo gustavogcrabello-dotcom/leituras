@@ -1,5 +1,5 @@
 {
-  "start": "2026-08-30",
+  "start": "2026-08-31",
   "pagesPerDay": 80,
   "weekdays": [
     true,
@@ -3361,7 +3361,7 @@
           "finishedOn": ""
         },
         {
-          "title": "Memórias do mediterrâneo",
+          "title": "Memórias do Mediterrâneo",
           "pages": 395,
           "read": 19,
           "startedOn": "2026-08-29",
@@ -4020,5 +4020,5 @@
     }
   ],
   "view": "pending",
-  "updatedAt": "2026-08-30T23:45:21.333Z"
+  "updatedAt": "2026-08-30T23:46:52.022Z"
 }
