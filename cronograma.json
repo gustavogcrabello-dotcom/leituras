@@ -2974,7 +2974,9 @@
         {
           "title": "Antigo Oriente: História, Sociedade e Economia",
           "pages": 832,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "Pequena história da música popular",
@@ -3359,6 +3361,13 @@
           "finishedOn": ""
         },
         {
+          "title": "Memórias do mediterrâneo",
+          "pages": 395,
+          "read": 19,
+          "startedOn": "2026-08-29",
+          "finishedOn": ""
+        },
+        {
           "title": "Água viva",
           "pages": 96,
           "read": 0,
@@ -3716,13 +3725,6 @@
           "finishedOn": ""
         },
         {
-          "title": "Memórias do mediterrâneo",
-          "pages": 395,
-          "read": 0,
-          "startedOn": "",
-          "finishedOn": ""
-        },
-        {
           "title": "Vértice",
           "pages": 327,
           "read": 0,
@@ -4005,11 +4007,13 @@
         {
           "title": "Ética a Nicômaco",
           "pages": 256,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         }
       ]
     }
   ],
   "view": "pending",
-  "updatedAt": "2026-08-29T20:33:57.879Z"
+  "updatedAt": "2026-08-30T16:19:58.590Z"
 }
