@@ -17,7 +17,7 @@
         {
           "title": "O problema dos 3 corpos",
           "pages": 507,
-          "read": 256,
+          "read": 280,
           "startedOn": "2026-08-11",
           "finishedOn": ""
         },
@@ -448,7 +448,7 @@
         {
           "title": "Eneida",
           "pages": 646,
-          "read": 81,
+          "read": 96,
           "startedOn": "2026-08-19",
           "finishedOn": ""
         },
@@ -935,7 +935,7 @@
         {
           "title": "Mr. Mercedes",
           "pages": 558,
-          "read": 351,
+          "read": 355,
           "startedOn": "2026-08-11",
           "finishedOn": ""
         },
@@ -961,15 +961,15 @@
           "finishedOn": ""
         },
         {
-          "title": "Os mitos chineses: Um guia para os deuses e lendas",
-          "pages": 249,
+          "title": "Os mitos japoneses: Um guia para deuses, heróis e espíritos",
+          "pages": 323,
           "read": 0,
           "startedOn": "",
           "finishedOn": ""
         },
         {
-          "title": "Os mitos japoneses: Um guia para deuses, heróis e espíritos",
-          "pages": 323,
+          "title": "Os mitos chineses: Um guia para os deuses e lendas",
+          "pages": 249,
           "read": 0,
           "startedOn": "",
           "finishedOn": ""
@@ -1005,6 +1005,13 @@
         {
           "title": "Um defeito de cor",
           "pages": 1285,
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
+        },
+        {
+          "title": "Jazz (Toni Morisson)",
+          "pages": 255,
           "read": 0,
           "startedOn": "",
           "finishedOn": ""
@@ -1341,13 +1348,6 @@
         {
           "title": "Anábase: A expedição persa",
           "pages": 407,
-          "read": 0,
-          "startedOn": "",
-          "finishedOn": ""
-        },
-        {
-          "title": "Jazz (Toni Morisson)",
-          "pages": 255,
           "read": 0,
           "startedOn": "",
           "finishedOn": ""
@@ -1895,14 +1895,14 @@
         {
           "title": "Odisseia",
           "pages": 1025,
-          "read": 331,
+          "read": 356,
           "startedOn": "2026-08-11",
           "finishedOn": ""
         },
         {
           "title": "1177 AC",
           "pages": 359,
-          "read": 111,
+          "read": 121,
           "startedOn": "2026-08-13",
           "finishedOn": ""
         },
@@ -1923,6 +1923,13 @@
         {
           "title": "Os detetives selvagens",
           "pages": 855,
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
+        },
+        {
+          "title": "Fédon: ou Sobre a alma",
+          "pages": 334,
           "read": 0,
           "startedOn": "",
           "finishedOn": ""
@@ -2028,13 +2035,6 @@
         {
           "title": "Emma",
           "pages": 711,
-          "read": 0,
-          "startedOn": "",
-          "finishedOn": ""
-        },
-        {
-          "title": "Fédon: ou Sobre a alma",
-          "pages": 334,
           "read": 0,
           "startedOn": "",
           "finishedOn": ""
@@ -2193,7 +2193,7 @@
         {
           "title": "Eu receberia as piores notícias…",
           "pages": 254,
-          "read": 180,
+          "read": 194,
           "startedOn": "2026-08-11",
           "finishedOn": ""
         },
@@ -2207,7 +2207,7 @@
         {
           "title": "A cor púrpura",
           "pages": 310,
-          "read": 135,
+          "read": 145,
           "startedOn": "2026-08-16",
           "finishedOn": ""
         },
@@ -3363,7 +3363,7 @@
         {
           "title": "Memórias do Mediterrâneo",
           "pages": 395,
-          "read": 19,
+          "read": 21,
           "startedOn": "2026-08-29",
           "finishedOn": ""
         },
@@ -4022,5 +4022,5 @@
     }
   ],
   "view": "pending",
-  "updatedAt": "2026-08-31T02:05:22.606Z"
+  "updatedAt": "2026-09-01T02:46:32.805Z"
 }
