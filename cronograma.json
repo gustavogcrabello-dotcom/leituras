@@ -1,5 +1,5 @@
 {
-  "start": "2026-09-01",
+  "start": "2026-09-02",
   "pagesPerDay": 80,
   "weekdays": [
     true,
@@ -17,7 +17,7 @@
         {
           "title": "O problema dos 3 corpos",
           "pages": 507,
-          "read": 280,
+          "read": 288,
           "startedOn": "2026-08-11",
           "finishedOn": ""
         },
@@ -448,7 +448,7 @@
         {
           "title": "Eneida",
           "pages": 646,
-          "read": 96,
+          "read": 105,
           "startedOn": "2026-08-19",
           "finishedOn": ""
         },
@@ -935,7 +935,7 @@
         {
           "title": "Mr. Mercedes",
           "pages": 558,
-          "read": 355,
+          "read": 369,
           "startedOn": "2026-08-11",
           "finishedOn": ""
         },
@@ -994,6 +994,11 @@
           "read": 0,
           "startedOn": "",
           "finishedOn": ""
+        },
+        {
+          "title": "Faroestes",
+          "pages": 126,
+          "read": 0
         },
         {
           "title": "Homens ao sol",
@@ -1422,7 +1427,7 @@
         {
           "title": "Intermezzo",
           "pages": 500,
-          "read": 166,
+          "read": 189,
           "startedOn": "2026-08-11",
           "finishedOn": ""
         },
@@ -1895,7 +1900,7 @@
         {
           "title": "Odisseia",
           "pages": 1025,
-          "read": 356,
+          "read": 399,
           "startedOn": "2026-08-11",
           "finishedOn": ""
         },
@@ -1909,7 +1914,7 @@
         {
           "title": "Os irmãos Karamázov",
           "pages": 1501,
-          "read": 139,
+          "read": 155,
           "startedOn": "2026-08-18",
           "finishedOn": ""
         },
@@ -2200,16 +2205,21 @@
         {
           "title": "Dracula",
           "pages": 368,
-          "read": 34,
+          "read": 39,
           "startedOn": "2026-08-13",
           "finishedOn": ""
         },
         {
           "title": "A cor púrpura",
           "pages": 310,
-          "read": 145,
+          "read": 163,
           "startedOn": "2026-08-16",
           "finishedOn": ""
+        },
+        {
+          "title": "Carmilla",
+          "pages": 224,
+          "read": 0
         },
         {
           "title": "A máquina de fazer espanhóis",
@@ -4022,5 +4032,5 @@
     }
   ],
   "view": "pending",
-  "updatedAt": "2026-09-01T03:19:58.341Z"
+  "updatedAt": "2026-09-01T23:07:48.797Z"
 }
