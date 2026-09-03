@@ -1921,6 +1921,11 @@
           "finishedOn": ""
         },
         {
+          "title": "Essencial Franz Kafka",
+          "pages": 289,
+          "read": 0
+        },
+        {
           "title": "O evangelho segundo Jesus Cristo",
           "pages": 473,
           "read": 0,
@@ -2708,7 +2713,9 @@
         {
           "title": "Nas Ruínas do Neoliberalismo: a Ascensão da Política Antidemocrática no Ocidente",
           "pages": 256,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "Querida konbini",
@@ -2720,13 +2727,6 @@
         {
           "title": "O processo",
           "pages": 336,
-          "read": 0,
-          "startedOn": "",
-          "finishedOn": ""
-        },
-        {
-          "title": "A metamorfose",
-          "pages": 96,
           "read": 0,
           "startedOn": "",
           "finishedOn": ""
@@ -3313,13 +3313,6 @@
           "finishedOn": ""
         },
         {
-          "title": "O veredicto / Na colônia penal",
-          "pages": 88,
-          "read": 0,
-          "startedOn": "",
-          "finishedOn": ""
-        },
-        {
           "title": "Contemplação / O foguista",
           "pages": 104,
           "read": 0,
@@ -3336,13 +3329,6 @@
         {
           "title": "Narrativas do espólio",
           "pages": 232,
-          "read": 0,
-          "startedOn": "",
-          "finishedOn": ""
-        },
-        {
-          "title": "Um artista da fome / A construção",
-          "pages": 120,
           "read": 0,
           "startedOn": "",
           "finishedOn": ""
@@ -4041,5 +4027,5 @@
     }
   ],
   "view": "pending",
-  "updatedAt": "2026-09-03T16:52:10.493Z"
+  "updatedAt": "2026-09-03T17:58:35.066Z"
 }
