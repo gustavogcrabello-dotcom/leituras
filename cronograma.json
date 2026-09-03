@@ -17,7 +17,7 @@
         {
           "title": "O problema dos 3 corpos",
           "pages": 507,
-          "read": 288,
+          "read": 306,
           "startedOn": "2026-08-11",
           "finishedOn": ""
         },
@@ -448,7 +448,7 @@
         {
           "title": "Eneida",
           "pages": 646,
-          "read": 105,
+          "read": 127,
           "startedOn": "2026-08-19",
           "finishedOn": ""
         },
@@ -935,7 +935,7 @@
         {
           "title": "Mr. Mercedes",
           "pages": 558,
-          "read": 369,
+          "read": 378,
           "startedOn": "2026-08-11",
           "finishedOn": ""
         },
@@ -998,7 +998,9 @@
         {
           "title": "Faroestes",
           "pages": 126,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "Homens ao sol",
@@ -1427,7 +1429,7 @@
         {
           "title": "Intermezzo",
           "pages": 500,
-          "read": 189,
+          "read": 209,
           "startedOn": "2026-08-11",
           "finishedOn": ""
         },
@@ -1900,21 +1902,21 @@
         {
           "title": "Odisseia",
           "pages": 1025,
-          "read": 399,
+          "read": 479,
           "startedOn": "2026-08-11",
           "finishedOn": ""
         },
         {
           "title": "1177 AC",
           "pages": 359,
-          "read": 121,
+          "read": 122,
           "startedOn": "2026-08-13",
           "finishedOn": ""
         },
         {
           "title": "Os irmãos Karamázov",
           "pages": 1501,
-          "read": 155,
+          "read": 169,
           "startedOn": "2026-08-18",
           "finishedOn": ""
         },
@@ -2198,7 +2200,7 @@
         {
           "title": "Eu receberia as piores notícias…",
           "pages": 254,
-          "read": 194,
+          "read": 207,
           "startedOn": "2026-08-11",
           "finishedOn": ""
         },
@@ -2212,14 +2214,16 @@
         {
           "title": "A cor púrpura",
           "pages": 310,
-          "read": 163,
+          "read": 178,
           "startedOn": "2026-08-16",
           "finishedOn": ""
         },
         {
           "title": "Carmilla",
           "pages": 224,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "A máquina de fazer espanhóis",
@@ -3373,7 +3377,7 @@
         {
           "title": "Memórias do Mediterrâneo",
           "pages": 395,
-          "read": 21,
+          "read": 26,
           "startedOn": "2026-08-29",
           "finishedOn": ""
         },
@@ -4032,5 +4036,5 @@
     }
   ],
   "view": "pending",
-  "updatedAt": "2026-09-01T23:07:48.797Z"
+  "updatedAt": "2026-09-03T00:42:08.014Z"
 }
