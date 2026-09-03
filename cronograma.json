@@ -17,7 +17,7 @@
         {
           "title": "O problema dos 3 corpos",
           "pages": 507,
-          "read": 306,
+          "read": 317,
           "startedOn": "2026-08-11",
           "finishedOn": ""
         },
@@ -935,7 +935,7 @@
         {
           "title": "Mr. Mercedes",
           "pages": 558,
-          "read": 378,
+          "read": 380,
           "startedOn": "2026-08-11",
           "finishedOn": ""
         },
@@ -1429,7 +1429,7 @@
         {
           "title": "Intermezzo",
           "pages": 500,
-          "read": 209,
+          "read": 220,
           "startedOn": "2026-08-11",
           "finishedOn": ""
         },
@@ -1909,7 +1909,7 @@
         {
           "title": "1177 AC",
           "pages": 359,
-          "read": 122,
+          "read": 129,
           "startedOn": "2026-08-13",
           "finishedOn": ""
         },
@@ -2200,7 +2200,7 @@
         {
           "title": "Eu receberia as piores notícias…",
           "pages": 254,
-          "read": 207,
+          "read": 208,
           "startedOn": "2026-08-11",
           "finishedOn": ""
         },
@@ -2214,7 +2214,7 @@
         {
           "title": "A cor púrpura",
           "pages": 310,
-          "read": 178,
+          "read": 186,
           "startedOn": "2026-08-16",
           "finishedOn": ""
         },
@@ -3377,7 +3377,7 @@
         {
           "title": "Memórias do Mediterrâneo",
           "pages": 395,
-          "read": 26,
+          "read": 34,
           "startedOn": "2026-08-29",
           "finishedOn": ""
         },
@@ -4036,5 +4036,5 @@
     }
   ],
   "view": "pending",
-  "updatedAt": "2026-09-03T00:42:22.050Z"
+  "updatedAt": "2026-09-03T16:24:31.600Z"
 }
