@@ -17,7 +17,7 @@
         {
           "title": "O problema dos 3 corpos",
           "pages": 507,
-          "read": 344,
+          "read": 359,
           "startedOn": "2026-08-11",
           "finishedOn": ""
         },
@@ -448,7 +448,7 @@
         {
           "title": "Eneida",
           "pages": 646,
-          "read": 127,
+          "read": 139,
           "startedOn": "2026-08-19",
           "finishedOn": ""
         },
@@ -4029,5 +4029,5 @@
     }
   ],
   "view": "pending",
-  "updatedAt": "2026-09-04T14:07:31.737Z"
+  "updatedAt": "2026-09-04T15:18:58.233Z"
 }
