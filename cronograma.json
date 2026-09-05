@@ -1490,6 +1490,11 @@
           "finishedOn": ""
         },
         {
+          "title": "A visita cruel do tempo",
+          "pages": 395,
+          "read": 0
+        },
+        {
           "title": "The Oxford History of Ancient Egypt",
           "pages": 552,
           "read": 0,
@@ -4029,5 +4034,5 @@
     }
   ],
   "view": "pending",
-  "updatedAt": "2026-09-04T20:08:02.194Z"
+  "updatedAt": "2026-09-05T01:36:37.852Z"
 }
