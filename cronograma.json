@@ -2881,6 +2881,16 @@
           "finishedOn": ""
         },
         {
+          "title": "Obras escolhidas I - Magia e Técnica, Arte e Política ",
+          "pages": 272,
+          "read": 0
+        },
+        {
+          "title": "Obras escolhidas II - Magia e Técnica, Arte e PolíticaRua de Mão Única / Infância em Berlim",
+          "pages": 285,
+          "read": 0
+        },
+        {
           "title": "O asno de ouro",
           "pages": 480,
           "read": 0,
@@ -4036,5 +4046,5 @@
     }
   ],
   "view": "pending",
-  "updatedAt": "2026-09-05T17:49:49.553Z"
+  "updatedAt": "2026-09-05T17:53:53.646Z"
 }
