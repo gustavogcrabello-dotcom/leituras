@@ -183,6 +183,11 @@
           "finishedOn": ""
         },
         {
+          "title": "A noite dos proletários",
+          "pages": 440,
+          "read": 0
+        },
+        {
           "title": "Getúlio I",
           "pages": 928,
           "read": 0,
@@ -4050,5 +4055,5 @@
     }
   ],
   "view": "pending",
-  "updatedAt": "2026-09-05T18:24:05.392Z"
+  "updatedAt": "2026-09-06T01:46:09.017Z"
 }
