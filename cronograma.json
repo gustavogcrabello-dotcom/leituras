@@ -1059,6 +1059,11 @@
           "finishedOn": ""
         },
         {
+          "title": "Pompeia: A vida de uma cidade romana",
+          "pages": 450,
+          "read": 0
+        },
+        {
           "title": "Fidelidade",
           "pages": 246,
           "read": 0,
@@ -2187,6 +2192,11 @@
           "finishedOn": ""
         },
         {
+          "title": "Imperador de Roma: Uma história da Roma antiga",
+          "pages": 685,
+          "read": 0
+        },
+        {
           "title": "Respiração artificial",
           "pages": 245,
           "read": 0,
@@ -2504,6 +2514,11 @@
           "read": 0,
           "startedOn": "",
           "finishedOn": ""
+        },
+        {
+          "title": "Doze Césares: Imagens de poder do mundo Antigo ao Moderno",
+          "pages": 858,
+          "read": 0
         },
         {
           "title": "David Copperfield",
@@ -4085,5 +4100,5 @@
     }
   ],
   "view": "pending",
-  "updatedAt": "2026-09-07T21:15:04.137Z"
+  "updatedAt": "2026-09-07T21:27:42.145Z"
 }
