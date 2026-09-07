@@ -1454,6 +1454,11 @@
           "read": 0,
           "startedOn": "",
           "finishedOn": ""
+        },
+        {
+          "title": "A estepe: (História de uma viagem)",
+          "pages": 161,
+          "read": 0
         }
       ]
     },
@@ -4072,5 +4077,5 @@
     }
   ],
   "view": "pending",
-  "updatedAt": "2026-09-07T00:28:16.308Z"
+  "updatedAt": "2026-09-07T00:31:03.385Z"
 }
