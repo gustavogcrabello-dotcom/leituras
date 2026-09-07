@@ -225,6 +225,16 @@
           "finishedOn": ""
         },
         {
+          "title": "Poesia completa de Ricardo Reis",
+          "pages": 256,
+          "read": 0
+        },
+        {
+          "title": "Poesia completa de Alberto Caeiro",
+          "pages": 282,
+          "read": 0
+        },
+        {
           "title": "Tieta do agreste",
           "pages": 858,
           "read": 0,
@@ -740,6 +750,11 @@
           "finishedOn": ""
         },
         {
+          "title": "Fullgás: Poesia reunida",
+          "pages": 228,
+          "read": 0
+        },
+        {
           "title": "Coração das trevas",
           "pages": 224,
           "read": 0,
@@ -1061,7 +1076,9 @@
         {
           "title": "Pompeia: A vida de uma cidade romana",
           "pages": 450,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "Fidelidade",
@@ -1824,6 +1841,13 @@
           "finishedOn": ""
         },
         {
+          "title": "A vida invisível de Eurídice Gusmão",
+          "pages": 210,
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
+        },
+        {
           "title": "Homens imprudentemente poéticos",
           "pages": 168,
           "read": 0,
@@ -2194,7 +2218,9 @@
         {
           "title": "Imperador de Roma: Uma história da Roma antiga",
           "pages": 685,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "Respiração artificial",
@@ -2518,7 +2544,9 @@
         {
           "title": "Doze Césares: Imagens de poder do mundo Antigo ao Moderno",
           "pages": 858,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "David Copperfield",
@@ -2670,13 +2698,6 @@
         {
           "title": "O assassinato do comendador - Vol. 2",
           "pages": 505,
-          "read": 0,
-          "startedOn": "",
-          "finishedOn": ""
-        },
-        {
-          "title": "A vida invisível de Eurídice Gusmão",
-          "pages": 210,
           "read": 0,
           "startedOn": "",
           "finishedOn": ""
@@ -3365,6 +3386,11 @@
           "finishedOn": ""
         },
         {
+          "title": "Antologia Poetica",
+          "pages": 280,
+          "read": 0
+        },
+        {
           "title": "Outros escritos",
           "pages": 608,
           "read": 0,
@@ -3817,6 +3843,11 @@
           "finishedOn": ""
         },
         {
+          "title": "Poesia completa de Álvaro de Campos",
+          "pages": 496,
+          "read": 0
+        },
+        {
           "title": "Vértice",
           "pages": 327,
           "read": 0,
@@ -4100,5 +4131,5 @@
     }
   ],
   "view": "pending",
-  "updatedAt": "2026-09-07T21:31:15.317Z"
+  "updatedAt": "2026-09-07T23:41:03.589Z"
 }
