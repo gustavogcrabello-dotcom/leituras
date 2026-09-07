@@ -323,6 +323,13 @@
           "finishedOn": ""
         },
         {
+          "title": "Agosto",
+          "pages": 390,
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
+        },
+        {
           "title": "Fogo & Sangue",
           "pages": 1028,
           "read": 0,
@@ -754,6 +761,11 @@
           "finishedOn": ""
         },
         {
+          "title": "Trilogia obscena",
+          "pages": 283,
+          "read": 0
+        },
+        {
           "title": "Brasil: uma biografia",
           "pages": 1388,
           "read": 0,
@@ -868,6 +880,13 @@
         {
           "title": "A resistência",
           "pages": 153,
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
+        },
+        {
+          "title": "A guerra dos mundos",
+          "pages": 329,
           "read": 0,
           "startedOn": "",
           "finishedOn": ""
@@ -1388,6 +1407,13 @@
           "finishedOn": ""
         },
         {
+          "title": "O último leitor",
+          "pages": 161,
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
+        },
+        {
           "title": "Terra sonâmbula",
           "pages": 250,
           "read": 0,
@@ -1574,6 +1600,11 @@
           "finishedOn": ""
         },
         {
+          "title": "Os 120 dias de Sodoma: Ou a Escola da Libertinagem",
+          "pages": 547,
+          "read": 0
+        },
+        {
           "title": "Milicianos",
           "pages": 348,
           "read": 0,
@@ -1656,6 +1687,11 @@
           "read": 0,
           "startedOn": "",
           "finishedOn": ""
+        },
+        {
+          "title": "Na companhia das estrelas",
+          "pages": 352,
+          "read": 0
         },
         {
           "title": "Religiões negras no Brasil",
@@ -1884,13 +1920,6 @@
         {
           "title": "Capão pecado",
           "pages": 176,
-          "read": 0,
-          "startedOn": "",
-          "finishedOn": ""
-        },
-        {
-          "title": "Fausto",
-          "pages": 626,
           "read": 0,
           "startedOn": "",
           "finishedOn": ""
@@ -2145,6 +2174,13 @@
           "finishedOn": ""
         },
         {
+          "title": "Respiração artificial",
+          "pages": 245,
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
+        },
+        {
           "title": "Nightflyers",
           "pages": 160,
           "read": 0,
@@ -2208,8 +2244,8 @@
           "finishedOn": ""
         },
         {
-          "title": "A guerra dos mundos",
-          "pages": 329,
+          "title": "Fausto",
+          "pages": 626,
           "read": 0,
           "startedOn": "",
           "finishedOn": ""
@@ -2627,6 +2663,13 @@
         {
           "title": "Esperando Godot",
           "pages": 192,
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
+        },
+        {
+          "title": "Feliz ano novo",
+          "pages": 172,
           "read": 0,
           "startedOn": "",
           "finishedOn": ""
@@ -3296,20 +3339,6 @@
         {
           "title": "Outros escritos",
           "pages": 608,
-          "read": 0,
-          "startedOn": "",
-          "finishedOn": ""
-        },
-        {
-          "title": "Agosto",
-          "pages": 390,
-          "read": 0,
-          "startedOn": "",
-          "finishedOn": ""
-        },
-        {
-          "title": "Feliz ano novo",
-          "pages": 172,
           "read": 0,
           "startedOn": "",
           "finishedOn": ""
@@ -4019,20 +4048,6 @@
           "finishedOn": ""
         },
         {
-          "title": "Respiração artificial",
-          "pages": 245,
-          "read": 0,
-          "startedOn": "",
-          "finishedOn": ""
-        },
-        {
-          "title": "O último leitor",
-          "pages": 161,
-          "read": 0,
-          "startedOn": "",
-          "finishedOn": ""
-        },
-        {
           "title": "Os bestializados: O Rio de Janeiro e a República que não foi",
           "pages": 192,
           "read": 0,
@@ -4057,5 +4072,5 @@
     }
   ],
   "view": "pending",
-  "updatedAt": "2026-09-07T00:11:43.765Z"
+  "updatedAt": "2026-09-07T00:28:16.308Z"
 }
