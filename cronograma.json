@@ -1,5 +1,5 @@
 {
-  "start": "2026-09-07",
+  "start": "2026-09-08",
   "pagesPerDay": 80,
   "weekdays": [
     true,
@@ -227,12 +227,16 @@
         {
           "title": "Poesia completa de Ricardo Reis",
           "pages": 256,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "Poesia completa de Alberto Caeiro",
           "pages": 282,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "Tieta do agreste",
@@ -752,7 +756,9 @@
         {
           "title": "Fullgás: Poesia reunida",
           "pages": 228,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "Coração das trevas",
@@ -978,9 +984,9 @@
         {
           "title": "Mr. Mercedes",
           "pages": 558,
-          "read": 469,
+          "read": 558,
           "startedOn": "2026-08-11",
-          "finishedOn": ""
+          "finishedOn": "2026-09-08"
         },
         {
           "title": "Achados e perdidos",
@@ -3388,7 +3394,9 @@
         {
           "title": "Antologia Poetica",
           "pages": 280,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "Outros escritos",
@@ -3845,7 +3853,9 @@
         {
           "title": "Poesia completa de Álvaro de Campos",
           "pages": 496,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "Vértice",
@@ -4131,5 +4141,5 @@
     }
   ],
   "view": "pending",
-  "updatedAt": "2026-09-07T23:41:03.589Z"
+  "updatedAt": "2026-09-08T17:04:14.289Z"
 }
