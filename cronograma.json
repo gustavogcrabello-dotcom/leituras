@@ -1993,7 +1993,7 @@
         {
           "title": "Odisseia",
           "pages": 1025,
-          "read": 661,
+          "read": 717,
           "startedOn": "2026-08-11",
           "finishedOn": ""
         },
@@ -4141,5 +4141,5 @@
     }
   ],
   "view": "pending",
-  "updatedAt": "2026-09-08T20:16:06.533Z"
+  "updatedAt": "2026-09-08T20:26:32.712Z"
 }
