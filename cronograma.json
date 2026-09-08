@@ -2000,14 +2000,14 @@
         {
           "title": "1177 AC",
           "pages": 359,
-          "read": 164,
+          "read": 165,
           "startedOn": "2026-08-13",
           "finishedOn": ""
         },
         {
           "title": "Os irmãos Karamázov",
           "pages": 1501,
-          "read": 215,
+          "read": 227,
           "startedOn": "2026-08-18",
           "finishedOn": ""
         },
@@ -4141,5 +4141,5 @@
     }
   ],
   "view": "pending",
-  "updatedAt": "2026-09-08T22:06:56.568Z"
+  "updatedAt": "2026-09-08T22:37:34.462Z"
 }
