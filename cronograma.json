@@ -17,7 +17,7 @@
         {
           "title": "O problema dos 3 corpos",
           "pages": 507,
-          "read": 394,
+          "read": 411,
           "startedOn": "2026-08-11",
           "finishedOn": ""
         },
@@ -991,8 +991,8 @@
         {
           "title": "Achados e perdidos",
           "pages": 497,
-          "read": 0,
-          "startedOn": "",
+          "read": 6,
+          "startedOn": "2026-09-08",
           "finishedOn": ""
         },
         {
@@ -1499,7 +1499,7 @@
         {
           "title": "Intermezzo",
           "pages": 500,
-          "read": 265,
+          "read": 278,
           "startedOn": "2026-08-11",
           "finishedOn": ""
         },
@@ -2007,7 +2007,7 @@
         {
           "title": "Os irmãos Karamázov",
           "pages": 1501,
-          "read": 200,
+          "read": 215,
           "startedOn": "2026-08-18",
           "finishedOn": ""
         },
@@ -2326,7 +2326,7 @@
         {
           "title": "A cor púrpura",
           "pages": 310,
-          "read": 214,
+          "read": 223,
           "startedOn": "2026-08-16",
           "finishedOn": ""
         },
@@ -4141,5 +4141,5 @@
     }
   ],
   "view": "pending",
-  "updatedAt": "2026-09-08T17:04:14.289Z"
+  "updatedAt": "2026-09-08T17:11:22.903Z"
 }
