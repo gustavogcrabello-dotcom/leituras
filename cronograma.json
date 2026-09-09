@@ -483,8 +483,8 @@
         {
           "title": "Torto arado",
           "pages": 264,
-          "read": 0,
-          "startedOn": "",
+          "read": 13,
+          "startedOn": "2026-09-09",
           "finishedOn": ""
         },
         {
@@ -2317,18 +2317,18 @@
           "finishedOn": "2026-09-04"
         },
         {
-          "title": "Dracula",
-          "pages": 368,
-          "read": 51,
-          "startedOn": "2026-08-13",
-          "finishedOn": ""
-        },
-        {
           "title": "A cor púrpura",
           "pages": 310,
           "read": 310,
           "startedOn": "2026-08-16",
           "finishedOn": "2026-09-09"
+        },
+        {
+          "title": "Dracula",
+          "pages": 368,
+          "read": 51,
+          "startedOn": "2026-08-13",
+          "finishedOn": ""
         },
         {
           "title": "Carmilla",
@@ -4141,5 +4141,5 @@
     }
   ],
   "view": "pending",
-  "updatedAt": "2026-09-09T04:22:17.195Z"
+  "updatedAt": "2026-09-09T04:29:39.207Z"
 }
