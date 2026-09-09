@@ -24,8 +24,8 @@
         {
           "title": "Kafka à beira-mar",
           "pages": 701,
-          "read": 0,
-          "startedOn": "",
+          "read": 6,
+          "startedOn": "2026-09-08",
           "finishedOn": ""
         },
         {
@@ -481,13 +481,6 @@
           "finishedOn": ""
         },
         {
-          "title": "Lavínia",
-          "pages": 332,
-          "read": 0,
-          "startedOn": "",
-          "finishedOn": ""
-        },
-        {
           "title": "Torto arado",
           "pages": 264,
           "read": 0,
@@ -504,6 +497,13 @@
         {
           "title": "Coração sem medo",
           "pages": 336,
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
+        },
+        {
+          "title": "Lavínia",
+          "pages": 332,
           "read": 0,
           "startedOn": "",
           "finishedOn": ""
@@ -1506,8 +1506,8 @@
         {
           "title": "A floresta sombria",
           "pages": 753,
-          "read": 0,
-          "startedOn": "",
+          "read": 3,
+          "startedOn": "2026-09-08",
           "finishedOn": ""
         },
         {
@@ -4141,5 +4141,5 @@
     }
   ],
   "view": "pending",
-  "updatedAt": "2026-09-09T01:25:16.501Z"
+  "updatedAt": "2026-09-09T01:45:00.917Z"
 }
