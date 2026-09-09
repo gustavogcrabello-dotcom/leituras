@@ -2326,9 +2326,9 @@
         {
           "title": "A cor púrpura",
           "pages": 310,
-          "read": 256,
+          "read": 310,
           "startedOn": "2026-08-16",
-          "finishedOn": ""
+          "finishedOn": "2026-09-09"
         },
         {
           "title": "Carmilla",
@@ -4141,5 +4141,5 @@
     }
   ],
   "view": "pending",
-  "updatedAt": "2026-09-09T01:47:33.014Z"
+  "updatedAt": "2026-09-09T04:22:17.195Z"
 }
