@@ -996,15 +996,15 @@
           "finishedOn": ""
         },
         {
-          "title": "Último turno",
-          "pages": 482,
-          "read": 0,
-          "startedOn": "",
+          "title": "Os mitos egípcios: Um guia aos antigos deuses e lendas",
+          "pages": 271,
+          "read": 7,
+          "startedOn": "2026-09-09",
           "finishedOn": ""
         },
         {
-          "title": "Os mitos egípcios: Um guia aos antigos deuses e lendas",
-          "pages": 271,
+          "title": "Último turno",
+          "pages": 482,
           "read": 0,
           "startedOn": "",
           "finishedOn": ""
@@ -4141,5 +4141,5 @@
     }
   ],
   "view": "pending",
-  "updatedAt": "2026-09-09T19:12:36.426Z"
+  "updatedAt": "2026-09-09T19:18:04.537Z"
 }
