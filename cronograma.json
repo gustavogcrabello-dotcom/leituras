@@ -24,7 +24,7 @@
         {
           "title": "Kafka à beira-mar",
           "pages": 701,
-          "read": 6,
+          "read": 11,
           "startedOn": "2026-09-08",
           "finishedOn": ""
         },
@@ -483,7 +483,7 @@
         {
           "title": "Torto arado",
           "pages": 264,
-          "read": 13,
+          "read": 17,
           "startedOn": "2026-09-09",
           "finishedOn": ""
         },
@@ -1506,7 +1506,7 @@
         {
           "title": "A floresta sombria",
           "pages": 753,
-          "read": 3,
+          "read": 6,
           "startedOn": "2026-09-08",
           "finishedOn": ""
         },
@@ -1993,7 +1993,7 @@
         {
           "title": "Odisseia",
           "pages": 1025,
-          "read": 717,
+          "read": 758,
           "startedOn": "2026-08-11",
           "finishedOn": ""
         },
@@ -4141,5 +4141,5 @@
     }
   ],
   "view": "pending",
-  "updatedAt": "2026-09-09T04:29:39.207Z"
+  "updatedAt": "2026-09-09T17:40:05.646Z"
 }
