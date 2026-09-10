@@ -476,7 +476,7 @@
         {
           "title": "Eneida",
           "pages": 646,
-          "read": 207,
+          "read": 252,
           "startedOn": "2026-08-19",
           "finishedOn": ""
         },
@@ -1504,7 +1504,7 @@
         {
           "title": "A floresta sombria",
           "pages": 753,
-          "read": 26,
+          "read": 32,
           "startedOn": "2026-09-08",
           "finishedOn": ""
         },
@@ -4156,5 +4156,5 @@
     }
   ],
   "view": "pending",
-  "updatedAt": "2026-09-10T20:54:51.942Z"
+  "updatedAt": "2026-09-10T21:49:17.107Z"
 }
