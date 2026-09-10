@@ -2326,7 +2326,7 @@
         {
           "title": "Dracula",
           "pages": 368,
-          "read": 51,
+          "read": 59,
           "startedOn": "2026-08-13",
           "finishedOn": ""
         },
@@ -4141,5 +4141,5 @@
     }
   ],
   "view": "pending",
-  "updatedAt": "2026-09-09T22:30:12.846Z"
+  "updatedAt": "2026-09-10T03:15:56.512Z"
 }
