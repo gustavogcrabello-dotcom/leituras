@@ -24,7 +24,7 @@
         {
           "title": "Kafka à beira-mar",
           "pages": 701,
-          "read": 16,
+          "read": 19,
           "startedOn": "2026-09-08",
           "finishedOn": ""
         },
@@ -2808,6 +2808,11 @@
           "read": 0,
           "startedOn": "",
           "finishedOn": ""
+        },
+        {
+          "title": "Diablo guardián",
+          "pages": 502,
+          "read": 0
         }
       ]
     },
@@ -4151,5 +4156,5 @@
     }
   ],
   "view": "pending",
-  "updatedAt": "2026-09-10T20:05:53.046Z"
+  "updatedAt": "2026-09-10T20:54:51.942Z"
 }
