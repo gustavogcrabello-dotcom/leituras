@@ -962,13 +962,6 @@
           "finishedOn": ""
         },
         {
-          "title": "As cidades invisíveis",
-          "pages": 148,
-          "read": 0,
-          "startedOn": "",
-          "finishedOn": ""
-        },
-        {
           "title": "Visões da liberdade: Uma história das últimas décadas da escravidão na Corte",
           "pages": 439,
           "read": 0,
@@ -1171,6 +1164,13 @@
         {
           "title": "A epopeia de Gilgamesh",
           "pages": 163,
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
+        },
+        {
+          "title": "As cidades invisíveis",
+          "pages": 148,
           "read": 0,
           "startedOn": "",
           "finishedOn": ""
@@ -2593,13 +2593,6 @@
           "finishedOn": ""
         },
         {
-          "title": "Júlio César",
-          "pages": 201,
-          "read": 0,
-          "startedOn": "",
-          "finishedOn": ""
-        },
-        {
           "title": "Exit Party",
           "pages": 320,
           "read": 0,
@@ -3416,6 +3409,13 @@
           "finishedOn": ""
         },
         {
+          "title": "Júlio César",
+          "pages": 201,
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
+        },
+        {
           "title": "Nove noites",
           "pages": 152,
           "read": 0,
@@ -4151,5 +4151,5 @@
     }
   ],
   "view": "pending",
-  "updatedAt": "2026-09-10T19:54:02.571Z"
+  "updatedAt": "2026-09-10T19:58:05.994Z"
 }
