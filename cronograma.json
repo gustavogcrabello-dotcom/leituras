@@ -516,6 +516,11 @@
           "finishedOn": ""
         },
         {
+          "title": "Contos fantásticos do século XIX",
+          "pages": 682,
+          "read": 0
+        },
+        {
           "title": "Os Gregos (Asimov)",
           "pages": 411,
           "read": 0,
@@ -861,13 +866,6 @@
         {
           "title": "The Singer's Gun",
           "pages": 271,
-          "read": 0,
-          "startedOn": "",
-          "finishedOn": ""
-        },
-        {
-          "title": "A Narrativa",
-          "pages": 222,
           "read": 0,
           "startedOn": "",
           "finishedOn": ""
@@ -1283,6 +1281,13 @@
           "finishedOn": ""
         },
         {
+          "title": "A Narrativa",
+          "pages": 222,
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
+        },
+        {
           "title": "Orgulho e preconceito",
           "pages": 603,
           "read": 0,
@@ -1439,13 +1444,6 @@
         {
           "title": "O último leitor",
           "pages": 161,
-          "read": 0,
-          "startedOn": "",
-          "finishedOn": ""
-        },
-        {
-          "title": "Terra sonâmbula",
-          "pages": 250,
           "read": 0,
           "startedOn": "",
           "finishedOn": ""
@@ -1779,6 +1777,13 @@
         {
           "title": "Todos os nomes",
           "pages": 281,
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
+        },
+        {
+          "title": "A tempestade",
+          "pages": 311,
           "read": 0,
           "startedOn": "",
           "finishedOn": ""
@@ -2285,6 +2290,13 @@
           "finishedOn": ""
         },
         {
+          "title": "Terra sonâmbula",
+          "pages": 250,
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
+        },
+        {
           "title": "Os miseráveis",
           "pages": 2076,
           "read": 0,
@@ -2329,6 +2341,11 @@
           "read": 59,
           "startedOn": "2026-08-13",
           "finishedOn": ""
+        },
+        {
+          "title": "Por que ler os clássicos",
+          "pages": 317,
+          "read": 0
         },
         {
           "title": "Carmilla",
@@ -2606,13 +2623,6 @@
         {
           "title": "A megera domada",
           "pages": 137,
-          "read": 0,
-          "startedOn": "",
-          "finishedOn": ""
-        },
-        {
-          "title": "A tempestade",
-          "pages": 311,
           "read": 0,
           "startedOn": "",
           "finishedOn": ""
@@ -4141,5 +4151,5 @@
     }
   ],
   "view": "pending",
-  "updatedAt": "2026-09-10T18:43:18.377Z"
+  "updatedAt": "2026-09-10T19:54:02.571Z"
 }
