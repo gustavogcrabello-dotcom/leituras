@@ -1499,7 +1499,7 @@
         {
           "title": "Intermezzo",
           "pages": 500,
-          "read": 301,
+          "read": 317,
           "startedOn": "2026-08-11",
           "finishedOn": ""
         },
@@ -4162,5 +4162,5 @@
     }
   ],
   "view": "pending",
-  "updatedAt": "2026-09-11T20:10:30.280Z"
+  "updatedAt": "2026-09-11T20:37:56.310Z"
 }
