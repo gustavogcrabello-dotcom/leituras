@@ -483,7 +483,7 @@
         {
           "title": "Torto arado",
           "pages": 264,
-          "read": 17,
+          "read": 21,
           "startedOn": "2026-09-09",
           "finishedOn": ""
         },
@@ -991,7 +991,7 @@
         {
           "title": "Os mitos egípcios: Um guia aos antigos deuses e lendas",
           "pages": 271,
-          "read": 18,
+          "read": 31,
           "startedOn": "2026-09-09",
           "finishedOn": ""
         },
@@ -4162,5 +4162,5 @@
     }
   ],
   "view": "pending",
-  "updatedAt": "2026-09-11T03:35:07.438Z"
+  "updatedAt": "2026-09-11T04:30:06.634Z"
 }
