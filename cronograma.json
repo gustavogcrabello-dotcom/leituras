@@ -518,7 +518,9 @@
         {
           "title": "Contos fantásticos do século XIX",
           "pages": 682,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "Os Gregos (Asimov)",
@@ -2005,7 +2007,7 @@
         {
           "title": "1177 AC",
           "pages": 359,
-          "read": 183,
+          "read": 197,
           "startedOn": "2026-08-13",
           "finishedOn": ""
         },
@@ -2345,7 +2347,9 @@
         {
           "title": "Por que ler os clássicos",
           "pages": 317,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "Carmilla",
@@ -2812,7 +2816,9 @@
         {
           "title": "Diablo guardián",
           "pages": 502,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         }
       ]
     },
@@ -4156,5 +4162,5 @@
     }
   ],
   "view": "pending",
-  "updatedAt": "2026-09-10T23:07:22.678Z"
+  "updatedAt": "2026-09-11T03:35:07.438Z"
 }
