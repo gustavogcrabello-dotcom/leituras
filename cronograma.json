@@ -24,7 +24,7 @@
         {
           "title": "Kafka à beira-mar",
           "pages": 701,
-          "read": 19,
+          "read": 28,
           "startedOn": "2026-09-08",
           "finishedOn": ""
         },
@@ -984,7 +984,7 @@
         {
           "title": "Achados e perdidos",
           "pages": 497,
-          "read": 47,
+          "read": 54,
           "startedOn": "2026-09-08",
           "finishedOn": ""
         },
@@ -1499,14 +1499,14 @@
         {
           "title": "Intermezzo",
           "pages": 500,
-          "read": 317,
+          "read": 336,
           "startedOn": "2026-08-11",
           "finishedOn": ""
         },
         {
           "title": "A floresta sombria",
           "pages": 753,
-          "read": 62,
+          "read": 86,
           "startedOn": "2026-09-08",
           "finishedOn": ""
         },
@@ -2014,7 +2014,7 @@
         {
           "title": "Os irmãos Karamázov",
           "pages": 1501,
-          "read": 240,
+          "read": 258,
           "startedOn": "2026-08-18",
           "finishedOn": ""
         },
@@ -3510,7 +3510,7 @@
         {
           "title": "Memórias do Mediterrâneo",
           "pages": 395,
-          "read": 72,
+          "read": 76,
           "startedOn": "2026-08-29",
           "finishedOn": ""
         },
@@ -4162,5 +4162,5 @@
     }
   ],
   "view": "pending",
-  "updatedAt": "2026-09-11T23:40:34.258Z"
+  "updatedAt": "2026-09-12T18:53:16.107Z"
 }
