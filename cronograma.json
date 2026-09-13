@@ -2422,13 +2422,6 @@
           "finishedOn": ""
         },
         {
-          "title": "Oração para desaparecer",
-          "pages": 224,
-          "read": 0,
-          "startedOn": "",
-          "finishedOn": ""
-        },
-        {
           "title": "Minha querida Sputnik",
           "pages": 226,
           "read": 0,
@@ -2855,6 +2848,13 @@
         {
           "title": "O processo",
           "pages": 336,
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
+        },
+        {
+          "title": "Oração para desaparecer",
+          "pages": 208,
           "read": 0,
           "startedOn": "",
           "finishedOn": ""
@@ -4162,5 +4162,5 @@
     }
   ],
   "view": "pending",
-  "updatedAt": "2026-09-13T14:42:16.342Z"
+  "updatedAt": "2026-09-13T19:06:06.348Z"
 }
