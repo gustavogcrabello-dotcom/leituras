@@ -1003,6 +1003,13 @@
           "finishedOn": ""
         },
         {
+          "title": "Erva brava",
+          "pages": 116,
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
+        },
+        {
           "title": "Os mitos japoneses: Um guia para deuses, heróis e espíritos",
           "pages": 323,
           "read": 0,
@@ -1031,8 +1038,8 @@
           "finishedOn": ""
         },
         {
-          "title": "Erva brava",
-          "pages": 116,
+          "title": "Um defeito de cor",
+          "pages": 1285,
           "read": 0,
           "startedOn": "",
           "finishedOn": ""
@@ -1052,11 +1059,9 @@
           "finishedOn": ""
         },
         {
-          "title": "Um defeito de cor",
-          "pages": 1285,
-          "read": 0,
-          "startedOn": "",
-          "finishedOn": ""
+          "title": "Poética (Aristóteles)",
+          "pages": 192,
+          "read": 0
         },
         {
           "title": "Jazz (Toni Morisson)",
@@ -4162,5 +4167,5 @@
     }
   ],
   "view": "pending",
-  "updatedAt": "2026-09-14T18:38:34.700Z"
+  "updatedAt": "2026-09-14T18:44:14.137Z"
 }
