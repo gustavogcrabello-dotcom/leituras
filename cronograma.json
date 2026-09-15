@@ -141,6 +141,27 @@
           "finishedOn": ""
         },
         {
+          "title": "Civilização material I",
+          "pages": 542,
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
+        },
+        {
+          "title": "Civilização material II",
+          "pages": 542,
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
+        },
+        {
+          "title": "Civilização material III",
+          "pages": 632,
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
+        },
+        {
           "title": "O agente secreto (roteiro)",
           "pages": 328,
           "read": 0,
@@ -302,25 +323,9 @@
           "finishedOn": ""
         },
         {
-          "title": "Civilização material I",
-          "pages": 542,
-          "read": 0,
-          "startedOn": "",
-          "finishedOn": ""
-        },
-        {
-          "title": "Civilização material II",
-          "pages": 542,
-          "read": 0,
-          "startedOn": "",
-          "finishedOn": ""
-        },
-        {
-          "title": "Civilização material III",
-          "pages": 632,
-          "read": 0,
-          "startedOn": "",
-          "finishedOn": ""
+          "title": "A ilha: Um repórter brasileiro no país de Fidel Castro",
+          "pages": 267,
+          "read": 0
         },
         {
           "title": "Bullshit jobs",
@@ -1525,11 +1530,9 @@
           "finishedOn": ""
         },
         {
-          "title": "Notícias de um sequestro",
-          "pages": 328,
-          "read": 0,
-          "startedOn": "",
-          "finishedOn": ""
+          "title": "Os últimos soldados da Guerra Fria",
+          "pages": 312,
+          "read": 0
         },
         {
           "title": "Perdido em Marte",
@@ -1562,6 +1565,13 @@
         {
           "title": "Tutameia",
           "pages": 240,
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
+        },
+        {
+          "title": "Notícias de um sequestro",
+          "pages": 328,
           "read": 0,
           "startedOn": "",
           "finishedOn": ""
@@ -2241,6 +2251,11 @@
           "read": 0,
           "startedOn": "",
           "finishedOn": ""
+        },
+        {
+          "title": "Olga",
+          "pages": 480,
+          "read": 0
         },
         {
           "title": "Respiração artificial",
@@ -4169,5 +4184,5 @@
     }
   ],
   "view": "pending",
-  "updatedAt": "2026-09-15T00:55:40.951Z"
+  "updatedAt": "2026-09-15T18:03:28.843Z"
 }
