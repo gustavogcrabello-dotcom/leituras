@@ -1,5 +1,5 @@
 {
-  "start": "2026-09-14",
+  "start": "2026-09-15",
   "pagesPerDay": 80,
   "weekdays": [
     true,
@@ -1061,7 +1061,9 @@
         {
           "title": "Poética (Aristóteles)",
           "pages": 192,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "Jazz (Toni Morisson)",
@@ -4167,5 +4169,5 @@
     }
   ],
   "view": "pending",
-  "updatedAt": "2026-09-14T18:46:53.985Z"
+  "updatedAt": "2026-09-15T00:55:40.951Z"
 }
