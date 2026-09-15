@@ -1,5 +1,5 @@
 {
-  "start": "2026-09-15",
+  "start": "2026-09-16",
   "pagesPerDay": 80,
   "weekdays": [
     true,
@@ -325,7 +325,9 @@
         {
           "title": "A ilha: Um repórter brasileiro no país de Fidel Castro",
           "pages": 267,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "Bullshit jobs",
@@ -715,6 +717,11 @@
           "read": 0,
           "startedOn": "",
           "finishedOn": ""
+        },
+        {
+          "title": "Cleopatra e Frankenstein",
+          "pages": 490,
+          "read": 0
         },
         {
           "title": "Frankenstein",
@@ -1532,7 +1539,9 @@
         {
           "title": "Os últimos soldados da Guerra Fria",
           "pages": 312,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "Perdido em Marte",
@@ -2255,7 +2264,9 @@
         {
           "title": "Olga",
           "pages": 480,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "Respiração artificial",
@@ -4184,5 +4195,5 @@
     }
   ],
   "view": "pending",
-  "updatedAt": "2026-09-15T18:07:07.840Z"
+  "updatedAt": "2026-09-15T18:12:36.164Z"
 }
