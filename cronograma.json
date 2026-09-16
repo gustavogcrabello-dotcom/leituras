@@ -24,7 +24,7 @@
         {
           "title": "Kafka à beira-mar",
           "pages": 701,
-          "read": 37,
+          "read": 47,
           "startedOn": "2026-09-08",
           "finishedOn": ""
         },
@@ -483,14 +483,14 @@
         {
           "title": "Eneida",
           "pages": 646,
-          "read": 258,
+          "read": 265,
           "startedOn": "2026-08-19",
           "finishedOn": ""
         },
         {
           "title": "Torto arado",
           "pages": 264,
-          "read": 36,
+          "read": 41,
           "startedOn": "2026-09-09",
           "finishedOn": ""
         },
@@ -721,7 +721,9 @@
         {
           "title": "Cleopatra e Frankenstein",
           "pages": 490,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "Frankenstein",
@@ -996,14 +998,14 @@
         {
           "title": "Achados e perdidos",
           "pages": 497,
-          "read": 81,
+          "read": 97,
           "startedOn": "2026-09-08",
           "finishedOn": ""
         },
         {
           "title": "Os mitos egípcios: Um guia aos antigos deuses e lendas",
           "pages": 271,
-          "read": 36,
+          "read": 39,
           "startedOn": "2026-09-09",
           "finishedOn": ""
         },
@@ -1525,7 +1527,7 @@
         {
           "title": "A floresta sombria",
           "pages": 753,
-          "read": 101,
+          "read": 139,
           "startedOn": "2026-09-08",
           "finishedOn": ""
         },
@@ -4195,5 +4197,5 @@
     }
   ],
   "view": "pending",
-  "updatedAt": "2026-09-15T18:17:29.992Z"
+  "updatedAt": "2026-09-16T06:13:16.293Z"
 }
