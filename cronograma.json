@@ -1532,6 +1532,13 @@
           "finishedOn": ""
         },
         {
+          "title": "Perdido em Marte",
+          "pages": 437,
+          "read": 14,
+          "startedOn": "2026-09-18",
+          "finishedOn": ""
+        },
+        {
           "title": "O fim da morte",
           "pages": 953,
           "read": 0,
@@ -1539,22 +1546,15 @@
           "finishedOn": ""
         },
         {
-          "title": "Os últimos soldados da Guerra Fria",
-          "pages": 312,
-          "read": 0,
-          "startedOn": "",
-          "finishedOn": ""
-        },
-        {
-          "title": "Perdido em Marte",
-          "pages": 437,
-          "read": 0,
-          "startedOn": "",
-          "finishedOn": ""
-        },
-        {
           "title": "Devoradores de estrelas",
           "pages": 662,
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
+        },
+        {
+          "title": "Os últimos soldados da Guerra Fria",
+          "pages": 312,
           "read": 0,
           "startedOn": "",
           "finishedOn": ""
@@ -4197,5 +4197,5 @@
     }
   ],
   "view": "pending",
-  "updatedAt": "2026-09-18T05:22:43.019Z"
+  "updatedAt": "2026-09-18T05:31:56.759Z"
 }
