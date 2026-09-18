@@ -1,5 +1,5 @@
 {
-  "start": "2026-09-17",
+  "start": "2026-09-18",
   "pagesPerDay": 80,
   "weekdays": [
     true,
@@ -1520,9 +1520,9 @@
         {
           "title": "Intermezzo",
           "pages": 500,
-          "read": 410,
+          "read": 500,
           "startedOn": "2026-08-11",
-          "finishedOn": ""
+          "finishedOn": "2026-09-18"
         },
         {
           "title": "A floresta sombria",
@@ -4197,5 +4197,5 @@
     }
   ],
   "view": "pending",
-  "updatedAt": "2026-09-17T01:58:24.234Z"
+  "updatedAt": "2026-09-18T05:22:43.019Z"
 }
