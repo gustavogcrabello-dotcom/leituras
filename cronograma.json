@@ -1,5 +1,5 @@
 {
-  "start": "2026-09-18",
+  "start": "2026-09-19",
   "pagesPerDay": 80,
   "weekdays": [
     true,
@@ -2035,7 +2035,7 @@
         {
           "title": "1177 AC",
           "pages": 359,
-          "read": 215,
+          "read": 240,
           "startedOn": "2026-08-13",
           "finishedOn": ""
         },
@@ -4197,5 +4197,5 @@
     }
   ],
   "view": "pending",
-  "updatedAt": "2026-09-18T05:31:56.759Z"
+  "updatedAt": "2026-09-19T03:18:26.214Z"
 }
