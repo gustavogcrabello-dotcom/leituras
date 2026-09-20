@@ -1,5 +1,5 @@
 {
-  "start": "2026-09-19",
+  "start": "2026-09-20",
   "pagesPerDay": 80,
   "weekdays": [
     true,
@@ -2035,9 +2035,9 @@
         {
           "title": "1177 AC",
           "pages": 359,
-          "read": 240,
+          "read": 359,
           "startedOn": "2026-08-13",
-          "finishedOn": ""
+          "finishedOn": "2026-09-19"
         },
         {
           "title": "Os irmãos Karamázov",
@@ -3538,7 +3538,7 @@
         {
           "title": "Adeus, Columbus e cinco contos",
           "pages": 272,
-          "read": 156,
+          "read": 194,
           "startedOn": "2026-08-11",
           "finishedOn": ""
         },
@@ -4197,5 +4197,5 @@
     }
   ],
   "view": "pending",
-  "updatedAt": "2026-09-19T03:18:26.214Z"
+  "updatedAt": "2026-09-20T02:14:43.845Z"
 }
