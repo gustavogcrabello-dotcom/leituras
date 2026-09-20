@@ -2049,8 +2049,8 @@
         {
           "title": "Essencial Franz Kafka",
           "pages": 289,
-          "read": 0,
-          "startedOn": "",
+          "read": 23,
+          "startedOn": "2026-09-19",
           "finishedOn": ""
         },
         {
@@ -4197,5 +4197,5 @@
     }
   ],
   "view": "pending",
-  "updatedAt": "2026-09-20T02:14:43.845Z"
+  "updatedAt": "2026-09-20T02:25:53.094Z"
 }
