@@ -1,5 +1,5 @@
 {
-  "start": "2026-09-20",
+  "start": "2026-09-24",
   "pagesPerDay": 80,
   "weekdays": [
     true,
@@ -24,7 +24,7 @@
         {
           "title": "Kafka à beira-mar",
           "pages": 701,
-          "read": 47,
+          "read": 50,
           "startedOn": "2026-09-08",
           "finishedOn": ""
         },
@@ -483,14 +483,14 @@
         {
           "title": "Eneida",
           "pages": 646,
-          "read": 265,
+          "read": 271,
           "startedOn": "2026-08-19",
           "finishedOn": ""
         },
         {
           "title": "Torto arado",
           "pages": 264,
-          "read": 41,
+          "read": 47,
           "startedOn": "2026-09-09",
           "finishedOn": ""
         },
@@ -998,7 +998,7 @@
         {
           "title": "Achados e perdidos",
           "pages": 497,
-          "read": 97,
+          "read": 130,
           "startedOn": "2026-09-08",
           "finishedOn": ""
         },
@@ -1527,14 +1527,14 @@
         {
           "title": "A floresta sombria",
           "pages": 753,
-          "read": 139,
+          "read": 177,
           "startedOn": "2026-09-08",
           "finishedOn": ""
         },
         {
           "title": "Perdido em Marte",
           "pages": 437,
-          "read": 14,
+          "read": 35,
           "startedOn": "2026-09-18",
           "finishedOn": ""
         },
@@ -2042,14 +2042,14 @@
         {
           "title": "Os irmãos Karamázov",
           "pages": 1501,
-          "read": 258,
+          "read": 270,
           "startedOn": "2026-08-18",
           "finishedOn": ""
         },
         {
           "title": "Essencial Franz Kafka",
           "pages": 289,
-          "read": 23,
+          "read": 40,
           "startedOn": "2026-09-19",
           "finishedOn": ""
         },
@@ -3538,7 +3538,7 @@
         {
           "title": "Adeus, Columbus e cinco contos",
           "pages": 272,
-          "read": 194,
+          "read": 258,
           "startedOn": "2026-08-11",
           "finishedOn": ""
         },
@@ -4197,5 +4197,5 @@
     }
   ],
   "view": "pending",
-  "updatedAt": "2026-09-20T02:25:53.094Z"
+  "updatedAt": "2026-09-23T21:13:17.482Z"
 }
