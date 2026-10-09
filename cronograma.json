@@ -754,6 +754,11 @@
           "finishedOn": ""
         },
         {
+          "title": "Stardust",
+          "pages": 151,
+          "read": 0
+        },
+        {
           "title": "Bahia de Todos-os-Santos",
           "pages": 478,
           "read": 0,
@@ -1269,6 +1274,11 @@
           "finishedOn": ""
         },
         {
+          "title": "Vermelha imperatriz",
+          "pages": 573,
+          "read": 0
+        },
+        {
           "title": "Arrancados da terra",
           "pages": 554,
           "read": 0,
@@ -1586,6 +1596,11 @@
           "read": 0,
           "startedOn": "",
           "finishedOn": ""
+        },
+        {
+          "title": "After 1177 B.C.: The Survival of Civilizations",
+          "pages": 338,
+          "read": 0
         },
         {
           "title": "The Oxford History of Ancient Egypt",
@@ -3702,6 +3717,11 @@
           "finishedOn": ""
         },
         {
+          "title": "Os humanos antes da humanidade: Uma perspectiva evolucionista",
+          "pages": 294,
+          "read": 0
+        },
+        {
           "title": "Freud, Obras completas V",
           "pages": 478,
           "read": 0,
@@ -4195,5 +4215,5 @@
     }
   ],
   "view": "pending",
-  "updatedAt": "2026-10-09T18:04:49.569Z"
+  "updatedAt": "2026-10-09T18:12:35.609Z"
 }
