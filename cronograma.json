@@ -976,13 +976,6 @@
           "read": 0,
           "startedOn": "",
           "finishedOn": ""
-        },
-        {
-          "title": "Visões da liberdade: Uma história das últimas décadas da escravidão na Corte",
-          "pages": 439,
-          "read": 0,
-          "startedOn": "",
-          "finishedOn": ""
         }
       ]
     },
@@ -2020,6 +2013,11 @@
           "read": 0,
           "startedOn": "",
           "finishedOn": ""
+        },
+        {
+          "title": "Visões da liberdade: Uma história das últimas décadas da escravidão na Corte",
+          "pages": 439,
+          "read": 0
         }
       ]
     },
@@ -4197,5 +4195,5 @@
     }
   ],
   "view": "pending",
-  "updatedAt": "2026-10-09T16:07:56.445Z"
+  "updatedAt": "2026-10-09T18:04:49.569Z"
 }
