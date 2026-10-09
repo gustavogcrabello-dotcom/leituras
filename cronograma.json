@@ -1527,9 +1527,9 @@
         {
           "title": "A floresta sombria",
           "pages": 753,
-          "read": 621,
+          "read": 753,
           "startedOn": "2026-09-08",
-          "finishedOn": ""
+          "finishedOn": "2026-10-09"
         },
         {
           "title": "Perdido em Marte",
@@ -1541,8 +1541,8 @@
         {
           "title": "O fim da morte",
           "pages": 953,
-          "read": 0,
-          "startedOn": "",
+          "read": 7,
+          "startedOn": "2026-10-09",
           "finishedOn": ""
         },
         {
@@ -4197,5 +4197,5 @@
     }
   ],
   "view": "pending",
-  "updatedAt": "2026-10-08T23:55:46.494Z"
+  "updatedAt": "2026-10-09T13:15:45.041Z"
 }
