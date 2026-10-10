@@ -756,7 +756,9 @@
         {
           "title": "Stardust",
           "pages": 151,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "Bahia de Todos-os-Santos",
@@ -996,7 +998,7 @@
         {
           "title": "Achados e perdidos",
           "pages": 497,
-          "read": 210,
+          "read": 243,
           "startedOn": "2026-09-08",
           "finishedOn": ""
         },
@@ -1276,7 +1278,9 @@
         {
           "title": "Vermelha imperatriz",
           "pages": 573,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "Arrancados da terra",
@@ -1600,7 +1604,9 @@
         {
           "title": "After 1177 B.C.: The Survival of Civilizations",
           "pages": 338,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "The Oxford History of Ancient Egypt",
@@ -2032,7 +2038,9 @@
         {
           "title": "Visões da liberdade: Uma história das últimas décadas da escravidão na Corte",
           "pages": 439,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         }
       ]
     },
@@ -2062,7 +2070,7 @@
         {
           "title": "Essencial Franz Kafka",
           "pages": 289,
-          "read": 104,
+          "read": 107,
           "startedOn": "2026-09-19",
           "finishedOn": ""
         },
@@ -2875,7 +2883,7 @@
         {
           "title": "Querida konbini",
           "pages": 152,
-          "read": 9,
+          "read": 20,
           "startedOn": "2026-10-09",
           "finishedOn": ""
         },
@@ -3719,7 +3727,9 @@
         {
           "title": "Os humanos antes da humanidade: Uma perspectiva evolucionista",
           "pages": 294,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "Freud, Obras completas V",
@@ -4215,5 +4225,5 @@
     }
   ],
   "view": "pending",
-  "updatedAt": "2026-10-09T20:17:25.725Z"
+  "updatedAt": "2026-10-10T16:54:06.023Z"
 }
