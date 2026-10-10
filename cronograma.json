@@ -1555,7 +1555,7 @@
         {
           "title": "Perdido em Marte",
           "pages": 437,
-          "read": 64,
+          "read": 70,
           "startedOn": "2026-09-18",
           "finishedOn": ""
         },
@@ -4253,5 +4253,5 @@
     }
   ],
   "view": "pending",
-  "updatedAt": "2026-10-10T22:56:34.208Z"
+  "updatedAt": "2026-10-10T23:59:38.609Z"
 }
