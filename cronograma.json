@@ -162,6 +162,13 @@
           "finishedOn": ""
         },
         {
+          "title": "O livro de areia",
+          "pages": 116,
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
+        },
+        {
           "title": "O agente secreto (roteiro)",
           "pages": 328,
           "read": 0,
@@ -630,6 +637,13 @@
         {
           "title": "O remorso de Baltazar Serapião",
           "pages": 185,
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
+        },
+        {
+          "title": "O homem invisível",
+          "pages": 202,
           "read": 0,
           "startedOn": "",
           "finishedOn": ""
@@ -1553,6 +1567,11 @@
           "finishedOn": ""
         },
         {
+          "title": "Sangue Sábio",
+          "pages": 203,
+          "read": 0
+        },
+        {
           "title": "Devoradores de estrelas",
           "pages": 662,
           "read": 0,
@@ -2075,6 +2094,11 @@
           "finishedOn": ""
         },
         {
+          "title": "Xilocosmos",
+          "pages": 126,
+          "read": 0
+        },
+        {
           "title": "O evangelho segundo Jesus Cristo",
           "pages": 473,
           "read": 0,
@@ -2408,6 +2432,16 @@
           "finishedOn": ""
         },
         {
+          "title": "Cosmos",
+          "pages": 558,
+          "read": 0
+        },
+        {
+          "title": "Pálido ponto azul: Uma visão do futuro da humanidade no espaço",
+          "pages": 482,
+          "read": 0
+        },
+        {
           "title": "Carmilla",
           "pages": 224,
           "read": 0,
@@ -2534,13 +2568,6 @@
           "finishedOn": ""
         },
         {
-          "title": "O homem invisível",
-          "pages": 202,
-          "read": 0,
-          "startedOn": "",
-          "finishedOn": ""
-        },
-        {
           "title": "A máquina do tempo",
           "pages": 114,
           "read": 0,
@@ -2634,13 +2661,6 @@
         {
           "title": "Ficções (Borges)",
           "pages": 177,
-          "read": 0,
-          "startedOn": "",
-          "finishedOn": ""
-        },
-        {
-          "title": "O livro de areia",
-          "pages": 116,
           "read": 0,
           "startedOn": "",
           "finishedOn": ""
@@ -2837,13 +2857,6 @@
         {
           "title": "O arquipélago - vol. 3",
           "pages": 690,
-          "read": 0,
-          "startedOn": "",
-          "finishedOn": ""
-        },
-        {
-          "title": "As Veias Abertas da América Latina",
-          "pages": 392,
           "read": 0,
           "startedOn": "",
           "finishedOn": ""
@@ -3462,6 +3475,13 @@
           "finishedOn": ""
         },
         {
+          "title": "Órfãos do Eldorado",
+          "pages": 112,
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
+        },
+        {
           "title": "Antologia Poetica",
           "pages": 280,
           "read": 0,
@@ -4054,6 +4074,13 @@
           "finishedOn": ""
         },
         {
+          "title": "As Veias Abertas da América Latina",
+          "pages": 392,
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
+        },
+        {
           "title": "Essa gente",
           "pages": 200,
           "read": 0,
@@ -4159,13 +4186,6 @@
           "finishedOn": ""
         },
         {
-          "title": "Órfãos do Eldorado",
-          "pages": 112,
-          "read": 0,
-          "startedOn": "",
-          "finishedOn": ""
-        },
-        {
           "title": "Raízes do Brasil",
           "pages": 258,
           "read": 0,
@@ -4225,5 +4245,5 @@
     }
   ],
   "view": "pending",
-  "updatedAt": "2026-10-10T16:54:06.023Z"
+  "updatedAt": "2026-10-10T17:36:19.228Z"
 }
