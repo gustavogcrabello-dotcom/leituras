@@ -1012,7 +1012,7 @@
         {
           "title": "Achados e perdidos",
           "pages": 497,
-          "read": 243,
+          "read": 253,
           "startedOn": "2026-09-08",
           "finishedOn": ""
         },
@@ -4253,5 +4253,5 @@
     }
   ],
   "view": "pending",
-  "updatedAt": "2026-10-10T20:10:03.230Z"
+  "updatedAt": "2026-10-10T20:33:05.961Z"
 }
