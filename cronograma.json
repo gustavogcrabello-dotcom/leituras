@@ -1019,7 +1019,7 @@
         {
           "title": "Os mitos egípcios: Um guia aos antigos deuses e lendas",
           "pages": 271,
-          "read": 39,
+          "read": 49,
           "startedOn": "2026-09-09",
           "finishedOn": ""
         },
@@ -4253,5 +4253,5 @@
     }
   ],
   "view": "pending",
-  "updatedAt": "2026-10-10T23:59:38.609Z"
+  "updatedAt": "2026-10-11T00:16:01.242Z"
 }
