@@ -3021,27 +3021,6 @@
           "finishedOn": ""
         },
         {
-          "title": "Prometeu prisioneiro",
-          "pages": 184,
-          "read": 0,
-          "startedOn": "",
-          "finishedOn": ""
-        },
-        {
-          "title": "Sete contra Tebas",
-          "pages": 152,
-          "read": 0,
-          "startedOn": "",
-          "finishedOn": ""
-        },
-        {
-          "title": "Trilogia tebana",
-          "pages": 500,
-          "read": 0,
-          "startedOn": "",
-          "finishedOn": ""
-        },
-        {
           "title": "O Rio antes do Rio",
           "pages": 432,
           "read": 0,
@@ -3051,20 +3030,6 @@
         {
           "title": "As barbas do Imperador",
           "pages": 664,
-          "read": 0,
-          "startedOn": "",
-          "finishedOn": ""
-        },
-        {
-          "title": "Medeia",
-          "pages": 192,
-          "read": 0,
-          "startedOn": "",
-          "finishedOn": ""
-        },
-        {
-          "title": "As troianas",
-          "pages": 184,
           "read": 0,
           "startedOn": "",
           "finishedOn": ""
@@ -4253,5 +4218,5 @@
     }
   ],
   "view": "pending",
-  "updatedAt": "2026-10-11T05:21:40.595Z"
+  "updatedAt": "2026-10-11T05:37:17.840Z"
 }
