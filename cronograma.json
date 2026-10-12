@@ -288,6 +288,11 @@
           "finishedOn": ""
         },
         {
+          "title": "A greve do sexo (Lisístrata)",
+          "pages": 92,
+          "read": 0
+        },
+        {
           "title": "A sombra do vento",
           "pages": 629,
           "read": 0,
@@ -2124,6 +2129,11 @@
           "finishedOn": ""
         },
         {
+          "title": "Prometeu acorrentado",
+          "pages": 86,
+          "read": 0
+        },
+        {
           "title": "A amiga genial",
           "pages": 336,
           "read": 0,
@@ -2909,6 +2919,22 @@
           "finishedOn": ""
         },
         {
+          "title": "Édipo rei",
+          "pages": 110,
+          "read": 0
+        },
+        {
+          "title": "Édipo em Colono",
+          "pages": 125,
+          "read": 0
+        },
+        {
+          "title": "Antígona",
+          "pages": 85,
+          "read": 0,
+          "startedOn": ""
+        },
+        {
           "title": "Nas Ruínas do Neoliberalismo: a Ascensão da Política Antidemocrática no Ocidente",
           "pages": 256,
           "read": 0,
@@ -3544,6 +3570,76 @@
           "read": 0,
           "startedOn": "",
           "finishedOn": ""
+        },
+        {
+          "title": "Medéia",
+          "pages": 98,
+          "read": 0
+        },
+        {
+          "title": "Alceste",
+          "pages": 99,
+          "read": 0
+        },
+        {
+          "title": "As fenícias",
+          "pages": 137,
+          "read": 0
+        },
+        {
+          "title": "Hipólito",
+          "pages": 119,
+          "read": 0
+        },
+        {
+          "title": "Coéforas",
+          "pages": 80,
+          "read": 0
+        },
+        {
+          "title": "Eumênides",
+          "pages": 83,
+          "read": 0
+        },
+        {
+          "title": "Os persas",
+          "pages": 77,
+          "read": 0
+        },
+        {
+          "title": "As bacantes",
+          "pages": 97,
+          "read": 0
+        },
+        {
+          "title": "Hécuba",
+          "pages": 95,
+          "read": 0
+        },
+        {
+          "title": "Ájax",
+          "pages": 107,
+          "read": 0
+        },
+        {
+          "title": "Agamêmnon",
+          "pages": 99,
+          "read": 0
+        },
+        {
+          "title": "Ifigênia em Áulis",
+          "pages": 119,
+          "read": 0
+        },
+        {
+          "title": "As troianas",
+          "pages": 101,
+          "read": 0
+        },
+        {
+          "title": "Electra",
+          "pages": 103,
+          "read": 0
         }
       ]
     },
@@ -4218,5 +4314,5 @@
     }
   ],
   "view": "pending",
-  "updatedAt": "2026-10-11T05:37:17.840Z"
+  "updatedAt": "2026-10-12T01:48:37.643Z"
 }
