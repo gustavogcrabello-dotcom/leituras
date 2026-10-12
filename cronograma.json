@@ -780,6 +780,11 @@
           "finishedOn": ""
         },
         {
+          "title": "Os persas",
+          "pages": 77,
+          "read": 0
+        },
+        {
           "title": "Bahia de Todos-os-Santos",
           "pages": 478,
           "read": 0,
@@ -1740,6 +1745,16 @@
           "finishedOn": ""
         },
         {
+          "title": "Medéia",
+          "pages": 98,
+          "read": 0
+        },
+        {
+          "title": "Hipólito",
+          "pages": 119,
+          "read": 0
+        },
+        {
           "title": "Timeu e Critias Ou A Atlântida",
           "pages": 192,
           "read": 0,
@@ -2307,6 +2322,11 @@
           "read": 0,
           "startedOn": "",
           "finishedOn": ""
+        },
+        {
+          "title": "Alceste",
+          "pages": 99,
+          "read": 0
         },
         {
           "title": "Evangelhos apócrifos: Gregos e latinos",
@@ -3019,6 +3039,16 @@
           "finishedOn": ""
         },
         {
+          "title": "As bacantes",
+          "pages": 97,
+          "read": 0
+        },
+        {
+          "title": "As fenícias",
+          "pages": 137,
+          "read": 0
+        },
+        {
           "title": "História das ruas do Rio",
           "pages": 520,
           "read": 0,
@@ -3572,48 +3602,8 @@
           "finishedOn": ""
         },
         {
-          "title": "Medéia",
-          "pages": 98,
-          "read": 0
-        },
-        {
-          "title": "Alceste",
-          "pages": 99,
-          "read": 0
-        },
-        {
-          "title": "As fenícias",
-          "pages": 137,
-          "read": 0
-        },
-        {
-          "title": "Hipólito",
+          "title": "Ifigênia em Áulis",
           "pages": 119,
-          "read": 0
-        },
-        {
-          "title": "Coéforas",
-          "pages": 80,
-          "read": 0
-        },
-        {
-          "title": "Eumênides",
-          "pages": 83,
-          "read": 0
-        },
-        {
-          "title": "Os persas",
-          "pages": 77,
-          "read": 0
-        },
-        {
-          "title": "As bacantes",
-          "pages": 97,
-          "read": 0
-        },
-        {
-          "title": "Hécuba",
-          "pages": 95,
           "read": 0
         },
         {
@@ -3622,23 +3612,33 @@
           "read": 0
         },
         {
-          "title": "Agamêmnon",
-          "pages": 99,
-          "read": 0
-        },
-        {
-          "title": "Ifigênia em Áulis",
-          "pages": 119,
-          "read": 0
-        },
-        {
           "title": "As troianas",
           "pages": 101,
           "read": 0
         },
         {
+          "title": "Hécuba",
+          "pages": 95,
+          "read": 0
+        },
+        {
+          "title": "Agamêmnon",
+          "pages": 99,
+          "read": 0
+        },
+        {
+          "title": "Coéforas",
+          "pages": 80,
+          "read": 0
+        },
+        {
           "title": "Electra",
           "pages": 103,
+          "read": 0
+        },
+        {
+          "title": "Eumênides",
+          "pages": 83,
           "read": 0
         }
       ]
@@ -4314,5 +4314,5 @@
     }
   ],
   "view": "pending",
-  "updatedAt": "2026-10-12T01:48:37.643Z"
+  "updatedAt": "2026-10-12T02:01:45.369Z"
 }
