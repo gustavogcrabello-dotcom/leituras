@@ -3504,20 +3504,6 @@
           "finishedOn": ""
         },
         {
-          "title": "Órfãos do Eldorado",
-          "pages": 112,
-          "read": 0,
-          "startedOn": "",
-          "finishedOn": ""
-        },
-        {
-          "title": "Antologia Poetica",
-          "pages": 280,
-          "read": 0,
-          "startedOn": "",
-          "finishedOn": ""
-        },
-        {
           "title": "Outros escritos",
           "pages": 608,
           "read": 0,
@@ -3525,8 +3511,8 @@
           "finishedOn": ""
         },
         {
-          "title": "Júlio César",
-          "pages": 201,
+          "title": "Órfãos do Eldorado",
+          "pages": 112,
           "read": 0,
           "startedOn": "",
           "finishedOn": ""
@@ -3534,27 +3520,6 @@
         {
           "title": "Nove noites",
           "pages": 152,
-          "read": 0,
-          "startedOn": "",
-          "finishedOn": ""
-        },
-        {
-          "title": "Feliz ano velho",
-          "pages": 272,
-          "read": 0,
-          "startedOn": "",
-          "finishedOn": ""
-        },
-        {
-          "title": "Ainda estou aqui",
-          "pages": 296,
-          "read": 0,
-          "startedOn": "",
-          "finishedOn": ""
-        },
-        {
-          "title": "Os cus de judas",
-          "pages": 200,
           "read": 0,
           "startedOn": "",
           "finishedOn": ""
@@ -3590,13 +3555,6 @@
         {
           "title": "O desaparecido ou Amerika",
           "pages": 304,
-          "read": 0,
-          "startedOn": "",
-          "finishedOn": ""
-        },
-        {
-          "title": "Jamais fomos modernos",
-          "pages": 192,
           "read": 0,
           "startedOn": "",
           "finishedOn": ""
@@ -3640,6 +3598,48 @@
           "title": "Eumênides",
           "pages": 83,
           "read": 0
+        },
+        {
+          "title": "Antologia Poetica",
+          "pages": 280,
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
+        },
+        {
+          "title": "Júlio César",
+          "pages": 201,
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
+        },
+        {
+          "title": "Feliz ano velho",
+          "pages": 272,
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
+        },
+        {
+          "title": "Ainda estou aqui",
+          "pages": 296,
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
+        },
+        {
+          "title": "Os cus de judas",
+          "pages": 200,
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
+        },
+        {
+          "title": "Jamais fomos modernos",
+          "pages": 192,
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         }
       ]
     },
@@ -4314,5 +4314,5 @@
     }
   ],
   "view": "pending",
-  "updatedAt": "2026-10-12T02:01:45.369Z"
+  "updatedAt": "2026-10-12T03:05:45.241Z"
 }
