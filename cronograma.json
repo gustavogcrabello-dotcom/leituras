@@ -3616,15 +3616,15 @@
           "finishedOn": ""
         },
         {
-          "title": "Electra",
-          "pages": 103,
+          "title": "Eumênides",
+          "pages": 83,
           "read": 0,
           "startedOn": "",
           "finishedOn": ""
         },
         {
-          "title": "Eumênides",
-          "pages": 83,
+          "title": "Electra",
+          "pages": 103,
           "read": 0,
           "startedOn": "",
           "finishedOn": ""
@@ -4351,5 +4351,5 @@
     }
   ],
   "view": "pending",
-  "updatedAt": "2026-10-13T00:54:10.762Z"
+  "updatedAt": "2026-10-13T00:58:34.368Z"
 }
