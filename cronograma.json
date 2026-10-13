@@ -3203,13 +3203,6 @@
           "finishedOn": ""
         },
         {
-          "title": "La cuidad ausente",
-          "pages": 96,
-          "read": 0,
-          "startedOn": "",
-          "finishedOn": ""
-        },
-        {
           "title": "Revoltas escravas no Brasil",
           "pages": 672,
           "read": 0,
@@ -3553,6 +3546,13 @@
           "finishedOn": ""
         },
         {
+          "title": "O 18 de brumário de Luís Bonaparte",
+          "pages": 176,
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
+        },
+        {
           "title": "Narrativas do espólio",
           "pages": 232,
           "read": 0,
@@ -3783,6 +3783,13 @@
         {
           "title": "Lula vol II",
           "pages": 352,
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
+        },
+        {
+          "title": "La cuidad ausente",
+          "pages": 96,
           "read": 0,
           "startedOn": "",
           "finishedOn": ""
@@ -4236,13 +4243,6 @@
           "finishedOn": ""
         },
         {
-          "title": "O 18 de brumário de Luís Bonaparte",
-          "pages": 176,
-          "read": 0,
-          "startedOn": "",
-          "finishedOn": ""
-        },
-        {
           "title": "Quarto de despejo",
           "pages": 264,
           "read": 0,
@@ -4351,5 +4351,5 @@
     }
   ],
   "view": "pending",
-  "updatedAt": "2026-10-13T04:00:20.544Z"
+  "updatedAt": "2026-10-13T04:03:07.119Z"
 }
