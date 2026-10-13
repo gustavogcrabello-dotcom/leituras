@@ -2946,22 +2946,22 @@
         {
           "title": "Édipo em Colono",
           "pages": 125,
-          "read": 82,
+          "read": 125,
           "startedOn": "2026-10-12",
+          "finishedOn": "2026-10-13"
+        },
+        {
+          "title": "Antígona",
+          "pages": 85,
+          "read": 10,
+          "startedOn": "2026-10-13",
           "finishedOn": ""
         },
         {
           "title": "Querida konbini",
           "pages": 152,
-          "read": 20,
+          "read": 32,
           "startedOn": "2026-10-09",
-          "finishedOn": ""
-        },
-        {
-          "title": "Antígona",
-          "pages": 85,
-          "read": 0,
-          "startedOn": "",
           "finishedOn": ""
         },
         {
@@ -4351,5 +4351,5 @@
     }
   ],
   "view": "pending",
-  "updatedAt": "2026-10-13T00:58:34.368Z"
+  "updatedAt": "2026-10-13T04:00:20.544Z"
 }
