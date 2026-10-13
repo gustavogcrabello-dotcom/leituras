@@ -400,6 +400,13 @@
           "finishedOn": ""
         },
         {
+          "title": "A bolsa e a vida",
+          "pages": 116,
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
+        },
+        {
           "title": "Benjamim",
           "pages": 131,
           "read": 0,
@@ -1595,6 +1602,13 @@
           "finishedOn": ""
         },
         {
+          "title": "Kafka: Por uma literatura menor",
+          "pages": 174,
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
+        },
+        {
           "title": "Os últimos soldados da Guerra Fria",
           "pages": 312,
           "read": 0,
@@ -1660,13 +1674,6 @@
         {
           "title": "A morte de Ivan Ilitch",
           "pages": 112,
-          "read": 0,
-          "startedOn": "",
-          "finishedOn": ""
-        },
-        {
-          "title": "Kafka: Por uma literatura menor",
-          "pages": 174,
           "read": 0,
           "startedOn": "",
           "finishedOn": ""
@@ -1765,13 +1772,6 @@
         {
           "title": "Timeu e Critias Ou A Atlântida",
           "pages": 192,
-          "read": 0,
-          "startedOn": "",
-          "finishedOn": ""
-        },
-        {
-          "title": "A bolsa e a vida",
-          "pages": 116,
           "read": 0,
           "startedOn": "",
           "finishedOn": ""
@@ -2131,6 +2131,13 @@
           "finishedOn": ""
         },
         {
+          "title": "SPQR",
+          "pages": 759,
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
+        },
+        {
           "title": "O evangelho segundo Jesus Cristo",
           "pages": 473,
           "read": 0,
@@ -2369,13 +2376,6 @@
           "finishedOn": ""
         },
         {
-          "title": "Nightflyers",
-          "pages": 160,
-          "read": 0,
-          "startedOn": "",
-          "finishedOn": ""
-        },
-        {
           "title": "Cem anos de solidão",
           "pages": 445,
           "read": 0,
@@ -2434,13 +2434,6 @@
         {
           "title": "Box Graciliano Ramos: Vidas secas, S. Bernardo, Angústia e Memórias do cárcere",
           "pages": 1481,
-          "read": 0,
-          "startedOn": "",
-          "finishedOn": ""
-        },
-        {
-          "title": "Fausto",
-          "pages": 626,
           "read": 0,
           "startedOn": "",
           "finishedOn": ""
@@ -3644,6 +3637,13 @@
           "finishedOn": ""
         },
         {
+          "title": "Nightflyers",
+          "pages": 160,
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
+        },
+        {
           "title": "Júlio César",
           "pages": 201,
           "read": 0,
@@ -3734,13 +3734,6 @@
         {
           "title": "Laços de família",
           "pages": 144,
-          "read": 0,
-          "startedOn": "",
-          "finishedOn": ""
-        },
-        {
-          "title": "SPQR",
-          "pages": 560,
           "read": 0,
           "startedOn": "",
           "finishedOn": ""
@@ -4346,10 +4339,17 @@
           "read": 0,
           "startedOn": "",
           "finishedOn": ""
+        },
+        {
+          "title": "Fausto",
+          "pages": 626,
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         }
       ]
     }
   ],
   "view": "pending",
-  "updatedAt": "2026-10-12T23:53:54.705Z"
+  "updatedAt": "2026-10-13T00:50:08.292Z"
 }
