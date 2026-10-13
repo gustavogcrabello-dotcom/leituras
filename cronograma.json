@@ -537,8 +537,8 @@
           "finishedOn": ""
         },
         {
-          "title": "Os egípcios (Asimov)",
-          "pages": 337,
+          "title": "Reparação",
+          "pages": 478,
           "read": 0,
           "startedOn": "",
           "finishedOn": ""
@@ -546,6 +546,41 @@
         {
           "title": "Contos fantásticos do século XIX",
           "pages": 682,
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
+        },
+        {
+          "title": "A mão esquerda da escuridão",
+          "pages": 324,
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
+        },
+        {
+          "title": "Os despossuídos",
+          "pages": 419,
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
+        },
+        {
+          "title": "Floresta é o nome do mundo",
+          "pages": 157,
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
+        },
+        {
+          "title": "Precisamos de novos nomes",
+          "pages": 255,
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
+        },
+        {
+          "title": "Os egípcios (Asimov)",
+          "pages": 337,
           "read": 0,
           "startedOn": "",
           "finishedOn": ""
@@ -574,41 +609,6 @@
         {
           "title": "Niketche",
           "pages": 355,
-          "read": 0,
-          "startedOn": "",
-          "finishedOn": ""
-        },
-        {
-          "title": "Precisamos de novos nomes",
-          "pages": 255,
-          "read": 0,
-          "startedOn": "",
-          "finishedOn": ""
-        },
-        {
-          "title": "Reparação",
-          "pages": 478,
-          "read": 0,
-          "startedOn": "",
-          "finishedOn": ""
-        },
-        {
-          "title": "A mão esquerda da escuridão",
-          "pages": 324,
-          "read": 0,
-          "startedOn": "",
-          "finishedOn": ""
-        },
-        {
-          "title": "Os despossuídos",
-          "pages": 419,
-          "read": 0,
-          "startedOn": "",
-          "finishedOn": ""
-        },
-        {
-          "title": "Floresta é o nome do mundo",
-          "pages": 157,
           "read": 0,
           "startedOn": "",
           "finishedOn": ""
@@ -4351,5 +4351,5 @@
     }
   ],
   "view": "pending",
-  "updatedAt": "2026-10-13T00:50:58.582Z"
+  "updatedAt": "2026-10-13T00:54:10.762Z"
 }
