@@ -1588,6 +1588,12 @@
           "finishedOn": ""
         },
         {
+          "title": "Mr. Salary",
+          "pages": 32,
+          "read": 4,
+          "startedOn": "2026-10-16"
+        },
+        {
           "title": "Sangue Sábio",
           "pages": 203,
           "read": 0,
@@ -4351,5 +4357,5 @@
     }
   ],
   "view": "pending",
-  "updatedAt": "2026-10-15T20:03:12.723Z"
+  "updatedAt": "2026-10-16T17:05:08.999Z"
 }
