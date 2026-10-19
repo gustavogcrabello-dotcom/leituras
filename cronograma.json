@@ -1,5 +1,5 @@
 {
-  "start": "2026-10-17",
+  "start": "2026-10-19",
   "pagesPerDay": 80,
   "weekdays": [
     true,
@@ -504,7 +504,7 @@
         {
           "title": "Eneida",
           "pages": 646,
-          "read": 304,
+          "read": 317,
           "startedOn": "2026-08-19",
           "finishedOn": ""
         },
@@ -1033,7 +1033,7 @@
         {
           "title": "Achados e perdidos",
           "pages": 497,
-          "read": 297,
+          "read": 316,
           "startedOn": "2026-09-08",
           "finishedOn": ""
         },
@@ -1574,6 +1574,13 @@
           "finishedOn": "2026-10-09"
         },
         {
+          "title": "Mr. Salary",
+          "pages": 32,
+          "read": 32,
+          "startedOn": "2026-10-16",
+          "finishedOn": "2026-10-18"
+        },
+        {
           "title": "Perdido em Marte",
           "pages": 437,
           "read": 70,
@@ -1583,15 +1590,9 @@
         {
           "title": "O fim da morte",
           "pages": 953,
-          "read": 79,
+          "read": 113,
           "startedOn": "2026-10-09",
           "finishedOn": ""
-        },
-        {
-          "title": "Mr. Salary",
-          "pages": 32,
-          "read": 4,
-          "startedOn": "2026-10-16"
         },
         {
           "title": "Sangue Sábio",
@@ -4357,5 +4358,5 @@
     }
   ],
   "view": "pending",
-  "updatedAt": "2026-10-16T17:06:26.036Z"
+  "updatedAt": "2026-10-19T00:54:36.692Z"
 }
