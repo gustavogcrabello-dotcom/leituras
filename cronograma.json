@@ -1,5 +1,5 @@
 {
-  "start": "2026-10-19",
+  "start": "2026-10-20",
   "pagesPerDay": 80,
   "weekdays": [
     true,
@@ -1590,7 +1590,7 @@
         {
           "title": "O fim da morte",
           "pages": 953,
-          "read": 113,
+          "read": 145,
           "startedOn": "2026-10-09",
           "finishedOn": ""
         },
@@ -4358,5 +4358,5 @@
     }
   ],
   "view": "pending",
-  "updatedAt": "2026-10-19T00:54:36.692Z"
+  "updatedAt": "2026-10-20T05:43:03.889Z"
 }
