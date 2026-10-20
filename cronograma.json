@@ -442,6 +442,13 @@
           "finishedOn": ""
         },
         {
+          "title": "Alceste",
+          "pages": 99,
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
+        },
+        {
           "title": "Uma ladeira para lugar nenhum",
           "pages": 128,
           "read": 0,
@@ -2348,13 +2355,6 @@
         {
           "title": "Biblia VI",
           "pages": 700,
-          "read": 0,
-          "startedOn": "",
-          "finishedOn": ""
-        },
-        {
-          "title": "Alceste",
-          "pages": 99,
           "read": 0,
           "startedOn": "",
           "finishedOn": ""
@@ -4356,5 +4356,5 @@
     }
   ],
   "view": "pending",
-  "updatedAt": "2026-10-20T07:21:50.300Z"
+  "updatedAt": "2026-10-20T07:23:35.758Z"
 }
