@@ -176,6 +176,13 @@
           "finishedOn": ""
         },
         {
+          "title": "Ficções (Borges)",
+          "pages": 177,
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
+        },
+        {
           "title": "O agente secreto (roteiro)",
           "pages": 328,
           "read": 0,
@@ -283,13 +290,6 @@
         {
           "title": "Lima Barreto - Triste visionário",
           "pages": 1202,
-          "read": 0,
-          "startedOn": "",
-          "finishedOn": ""
-        },
-        {
-          "title": "A greve do sexo (Lisístrata)",
-          "pages": 92,
           "read": 0,
           "startedOn": "",
           "finishedOn": ""
@@ -2097,6 +2097,11 @@
           "read": 0,
           "startedOn": "",
           "finishedOn": ""
+        },
+        {
+          "title": "A greve do sexo (Lisístrata)",
+          "pages": 92,
+          "read": 0
         }
       ]
     },
@@ -2709,13 +2714,6 @@
           "finishedOn": ""
         },
         {
-          "title": "Ficções (Borges)",
-          "pages": 177,
-          "read": 0,
-          "startedOn": "",
-          "finishedOn": ""
-        },
-        {
           "title": "Exit Party",
           "pages": 320,
           "read": 0,
@@ -2795,6 +2793,13 @@
         {
           "title": "Tereza Batista cansada de guerra",
           "pages": 633,
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
+        },
+        {
+          "title": "Carta ao pai",
+          "pages": 88,
           "read": 0,
           "startedOn": "",
           "finishedOn": ""
@@ -3562,13 +3567,6 @@
         {
           "title": "Narrativas do espólio",
           "pages": 232,
-          "read": 0,
-          "startedOn": "",
-          "finishedOn": ""
-        },
-        {
-          "title": "Carta ao pai",
-          "pages": 88,
           "read": 0,
           "startedOn": "",
           "finishedOn": ""
@@ -4358,5 +4356,5 @@
     }
   ],
   "view": "pending",
-  "updatedAt": "2026-10-20T05:58:32.965Z"
+  "updatedAt": "2026-10-20T06:02:15.230Z"
 }
