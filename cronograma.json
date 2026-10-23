@@ -1368,6 +1368,13 @@
           "finishedOn": ""
         },
         {
+          "title": "Homens imprudentemente poéticos",
+          "pages": 168,
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
+        },
+        {
           "title": "A Narrativa",
           "pages": 222,
           "read": 0,
@@ -1531,13 +1538,6 @@
         {
           "title": "O último leitor",
           "pages": 161,
-          "read": 0,
-          "startedOn": "",
-          "finishedOn": ""
-        },
-        {
-          "title": "O som e a fúria",
-          "pages": 412,
           "read": 0,
           "startedOn": "",
           "finishedOn": ""
@@ -1986,13 +1986,6 @@
           "finishedOn": ""
         },
         {
-          "title": "Homens imprudentemente poéticos",
-          "pages": 168,
-          "read": 0,
-          "startedOn": "",
-          "finishedOn": ""
-        },
-        {
           "title": "A redoma de vidro",
           "pages": 266,
           "read": 0,
@@ -2051,6 +2044,13 @@
         {
           "title": "Com sangue",
           "pages": 537,
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
+        },
+        {
+          "title": "Essa gente",
+          "pages": 200,
           "read": 0,
           "startedOn": "",
           "finishedOn": ""
@@ -4229,13 +4229,6 @@
           "finishedOn": ""
         },
         {
-          "title": "Essa gente",
-          "pages": 200,
-          "read": 0,
-          "startedOn": "",
-          "finishedOn": ""
-        },
-        {
           "title": "Estorvo",
           "pages": 160,
           "read": 0,
@@ -4276,6 +4269,11 @@
           "read": 0,
           "startedOn": "",
           "finishedOn": ""
+        },
+        {
+          "title": "O som e a fúria",
+          "pages": 412,
+          "read": 0
         },
         {
           "title": "Nações e nacionalismo desde 1780",
@@ -4398,5 +4396,5 @@
     }
   ],
   "view": "pending",
-  "updatedAt": "2026-10-23T03:47:12.850Z"
+  "updatedAt": "2026-10-23T03:50:58.151Z"
 }
