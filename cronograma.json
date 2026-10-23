@@ -1,5 +1,5 @@
 {
-  "start": "2026-10-22",
+  "start": "2026-10-23",
   "pagesPerDay": 80,
   "weekdays": [
     true,
@@ -496,6 +496,11 @@
           "read": 0,
           "startedOn": "",
           "finishedOn": ""
+        },
+        {
+          "title": "A muralha",
+          "pages": 384,
+          "read": 0
         }
       ]
     },
@@ -859,6 +864,11 @@
           "finishedOn": ""
         },
         {
+          "title": "A sereia e o desconfiado: Ensaios críticos",
+          "pages": 305,
+          "read": 0
+        },
+        {
           "title": "Brasil: uma biografia",
           "pages": 1388,
           "read": 0,
@@ -1101,6 +1111,18 @@
           "finishedOn": ""
         },
         {
+          "title": "A leste do Éden",
+          "pages": 864,
+          "read": 0
+        },
+        {
+          "title": "Pompeia: A vida de uma cidade romana",
+          "pages": 450,
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
+        },
+        {
           "title": "Faroestes",
           "pages": 126,
           "read": 0,
@@ -1131,13 +1153,6 @@
         {
           "title": "A rainha ginga",
           "pages": 240,
-          "read": 0,
-          "startedOn": "",
-          "finishedOn": ""
-        },
-        {
-          "title": "Pompeia: A vida de uma cidade romana",
-          "pages": 450,
           "read": 0,
           "startedOn": "",
           "finishedOn": ""
@@ -1917,6 +1932,11 @@
           "finishedOn": ""
         },
         {
+          "title": "Carrie",
+          "pages": 269,
+          "read": 0
+        },
+        {
           "title": "It: a coisa",
           "pages": 1645,
           "read": 0,
@@ -2374,6 +2394,11 @@
           "read": 0,
           "startedOn": "",
           "finishedOn": ""
+        },
+        {
+          "title": "O pássaro e a sombra",
+          "pages": 528,
+          "read": 0
         },
         {
           "title": "Olga",
@@ -2938,6 +2963,11 @@
           "read": 0,
           "startedOn": "",
           "finishedOn": ""
+        },
+        {
+          "title": "Mad Maria",
+          "pages": 445,
+          "read": 0
         }
       ]
     },
@@ -3651,6 +3681,11 @@
           "finishedOn": ""
         },
         {
+          "title": "A máquina do golpe: 1964: Como foi desmontada a democracia no Brasil",
+          "pages": 394,
+          "read": 0
+        },
+        {
           "title": "Júlio César",
           "pages": 201,
           "read": 0,
@@ -4353,10 +4388,15 @@
           "read": 0,
           "startedOn": "",
           "finishedOn": ""
+        },
+        {
+          "title": "O cão sem plumas",
+          "pages": 204,
+          "read": 0
         }
       ]
     }
   ],
   "view": "pending",
-  "updatedAt": "2026-10-22T07:07:26.573Z"
+  "updatedAt": "2026-10-23T03:47:12.850Z"
 }
