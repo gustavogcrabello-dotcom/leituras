@@ -500,7 +500,9 @@
         {
           "title": "A muralha",
           "pages": 384,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         }
       ]
     },
@@ -866,7 +868,9 @@
         {
           "title": "A sereia e o desconfiado: Ensaios críticos",
           "pages": 305,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "Brasil: uma biografia",
@@ -1064,7 +1068,7 @@
         {
           "title": "Último turno",
           "pages": 482,
-          "read": 4,
+          "read": 14,
           "startedOn": "2026-10-22",
           "finishedOn": ""
         },
@@ -1113,7 +1117,9 @@
         {
           "title": "A leste do Éden",
           "pages": 864,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "Pompeia: A vida de uma cidade romana",
@@ -1934,7 +1940,9 @@
         {
           "title": "Carrie",
           "pages": 269,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "It: a coisa",
@@ -2398,7 +2406,9 @@
         {
           "title": "O pássaro e a sombra",
           "pages": 528,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "Olga",
@@ -2967,7 +2977,9 @@
         {
           "title": "Mad Maria",
           "pages": 445,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         }
       ]
     },
@@ -3683,7 +3695,9 @@
         {
           "title": "A máquina do golpe: 1964: Como foi desmontada a democracia no Brasil",
           "pages": 394,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "Júlio César",
@@ -4273,7 +4287,9 @@
         {
           "title": "O som e a fúria",
           "pages": 412,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "Nações e nacionalismo desde 1780",
@@ -4390,11 +4406,13 @@
         {
           "title": "O cão sem plumas",
           "pages": 204,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         }
       ]
     }
   ],
   "view": "pending",
-  "updatedAt": "2026-10-23T05:48:48.579Z"
+  "updatedAt": "2026-10-23T20:50:11.361Z"
 }
