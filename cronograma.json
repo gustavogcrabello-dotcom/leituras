@@ -31,7 +31,7 @@
         {
           "title": "Kafka à beira-mar",
           "pages": 701,
-          "read": 79,
+          "read": 90,
           "startedOn": "2026-09-08",
           "finishedOn": ""
         },
@@ -1618,7 +1618,7 @@
         {
           "title": "O fim da morte",
           "pages": 953,
-          "read": 168,
+          "read": 198,
           "startedOn": "2026-10-09",
           "finishedOn": ""
         },
@@ -4414,5 +4414,5 @@
     }
   ],
   "view": "pending",
-  "updatedAt": "2026-10-23T20:50:53.299Z"
+  "updatedAt": "2026-10-24T00:58:21.255Z"
 }
