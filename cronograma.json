@@ -64,8 +64,22 @@
           "finishedOn": ""
         },
         {
+          "title": "O ano da morte de Ricardo Reis",
+          "pages": 476,
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
+        },
+        {
           "title": "Novembro de 63",
           "pages": 1059,
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
+        },
+        {
+          "title": "O evangelho segundo Jesus Cristo",
+          "pages": 473,
           "read": 0,
           "startedOn": "",
           "finishedOn": ""
@@ -290,6 +304,13 @@
         {
           "title": "Lima Barreto - Triste visionário",
           "pages": 1202,
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
+        },
+        {
+          "title": "O mercador de Veneza",
+          "pages": 98,
           "read": 0,
           "startedOn": "",
           "finishedOn": ""
@@ -1185,13 +1206,6 @@
           "finishedOn": ""
         },
         {
-          "title": "O mercador de Veneza",
-          "pages": 98,
-          "read": 0,
-          "startedOn": "",
-          "finishedOn": ""
-        },
-        {
           "title": "Argonáuticas",
           "pages": 567,
           "read": 0,
@@ -1481,13 +1495,6 @@
         {
           "title": "As luzes de setembro",
           "pages": 226,
-          "read": 0,
-          "startedOn": "",
-          "finishedOn": ""
-        },
-        {
-          "title": "Encantamento: sobre política de vida",
-          "pages": 42,
           "read": 0,
           "startedOn": "",
           "finishedOn": ""
@@ -2187,13 +2194,6 @@
           "finishedOn": ""
         },
         {
-          "title": "O evangelho segundo Jesus Cristo",
-          "pages": 473,
-          "read": 0,
-          "startedOn": "",
-          "finishedOn": ""
-        },
-        {
           "title": "Os detetives selvagens",
           "pages": 855,
           "read": 0,
@@ -2397,6 +2397,13 @@
           "finishedOn": ""
         },
         {
+          "title": "Raízes do Brasil",
+          "pages": 258,
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
+        },
+        {
           "title": "Imperador de Roma: Uma história da Roma antiga",
           "pages": 685,
           "read": 0,
@@ -2557,13 +2564,6 @@
         {
           "title": "Caos calmo",
           "pages": 485,
-          "read": 0,
-          "startedOn": "",
-          "finishedOn": ""
-        },
-        {
-          "title": "O ano da morte de Ricardo Reis",
-          "pages": 476,
           "read": 0,
           "startedOn": "",
           "finishedOn": ""
@@ -2835,8 +2835,20 @@
           "finishedOn": ""
         },
         {
+          "title": "Encantamento: sobre política de vida",
+          "pages": 42,
+          "read": 0
+        },
+        {
           "title": "Carta ao pai",
           "pages": 88,
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
+        },
+        {
+          "title": "Contemplação / O foguista",
+          "pages": 104,
           "read": 0,
           "startedOn": "",
           "finishedOn": ""
@@ -3588,13 +3600,6 @@
           "finishedOn": ""
         },
         {
-          "title": "Contemplação / O foguista",
-          "pages": 104,
-          "read": 0,
-          "startedOn": "",
-          "finishedOn": ""
-        },
-        {
           "title": "Um médico rural",
           "pages": 88,
           "read": 0,
@@ -4341,13 +4346,6 @@
           "finishedOn": ""
         },
         {
-          "title": "Raízes do Brasil",
-          "pages": 258,
-          "read": 0,
-          "startedOn": "",
-          "finishedOn": ""
-        },
-        {
           "title": "Visão do paraíso",
           "pages": 600,
           "read": 0,
@@ -4414,5 +4412,5 @@
     }
   ],
   "view": "pending",
-  "updatedAt": "2026-11-05T22:11:57.869Z"
+  "updatedAt": "2026-11-05T22:19:59.396Z"
 }
