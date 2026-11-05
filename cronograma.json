@@ -36,6 +36,13 @@
           "finishedOn": "2026-11-05"
         },
         {
+          "title": "Belo mundo, onde você está",
+          "pages": 370,
+          "read": 370,
+          "startedOn": "2026-09-01",
+          "finishedOn": "2026-11-05"
+        },
+        {
           "title": "O agente secreto (roteiro)",
           "pages": 328,
           "read": 328,
@@ -115,13 +122,6 @@
         {
           "title": "Pessoas normais",
           "pages": 295,
-          "read": 0,
-          "startedOn": "",
-          "finishedOn": ""
-        },
-        {
-          "title": "Belo mundo, onde você está",
-          "pages": 370,
           "read": 0,
           "startedOn": "",
           "finishedOn": ""
@@ -4414,5 +4414,5 @@
     }
   ],
   "view": "pending",
-  "updatedAt": "2026-11-05T22:08:42.028Z"
+  "updatedAt": "2026-11-05T22:11:57.869Z"
 }
