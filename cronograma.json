@@ -1,5 +1,5 @@
 {
-  "start": "2026-11-06",
+  "start": "2026-11-10",
   "pagesPerDay": 80,
   "weekdays": [
     true,
@@ -551,6 +551,13 @@
           "finishedOn": ""
         },
         {
+          "title": "Fullgás: Poesia reunida",
+          "pages": 228,
+          "read": 24,
+          "startedOn": "2026-11-05",
+          "finishedOn": ""
+        },
+        {
           "title": "Salvar o fogo",
           "pages": 341,
           "read": 0,
@@ -847,13 +854,6 @@
         {
           "title": "Pachinko",
           "pages": 639,
-          "read": 0,
-          "startedOn": "",
-          "finishedOn": ""
-        },
-        {
-          "title": "Fullgás: Poesia reunida",
-          "pages": 228,
           "read": 0,
           "startedOn": "",
           "finishedOn": ""
@@ -2837,7 +2837,9 @@
         {
           "title": "Encantamento: sobre política de vida",
           "pages": 42,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "Carta ao pai",
@@ -4412,5 +4414,5 @@
     }
   ],
   "view": "pending",
-  "updatedAt": "2026-11-05T22:19:59.396Z"
+  "updatedAt": "2026-11-09T18:07:38.925Z"
 }
