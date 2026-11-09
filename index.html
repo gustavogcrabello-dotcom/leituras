@@ -27,10 +27,10 @@ h1{font-family:var(--serif);font-weight:600;font-size:clamp(30px,5vw,46px);line-
 .lead{max-width:64ch;margin:0;color:var(--ink-soft)}
 .spines{display:flex;gap:3px;margin-top:18px}
 .spines i{height:6px;flex:1;border-radius:1px}
-.grid{display:grid;grid-template-columns:376px 1fr;gap:26px;align-items:start;margin-top:16px}
-@media(max-width:980px){.grid{grid-template-columns:1fr}}
+.grid{display:grid;grid-template-columns:438px 1fr;gap:24px;align-items:start;margin-top:16px}
+@media(max-width:1100px){.grid{grid-template-columns:1fr}}
 .panel{position:sticky;top:20px;max-height:calc(100vh - 40px);overflow-y:auto}
-@media(max-width:980px){.panel{position:static;max-height:none}}
+@media(max-width:1100px){.panel{position:static;max-height:none}}
 .card{background:var(--card);border:1px solid var(--rule);border-radius:3px;padding:18px}
 .card + .card{margin-top:16px}
 h2{font-size:11px;letter-spacing:.14em;text-transform:uppercase;font-weight:600;color:var(--ink-soft);margin:0 0 14px}
@@ -60,22 +60,35 @@ input[type=number]{font-family:var(--mono)}
 .trk-hd .bar{width:16px;height:4px;border-radius:1px}
 .trk-hd strong{font-size:11px;letter-spacing:.12em;text-transform:uppercase;font-weight:600;color:var(--ink-soft)}
 .trk-hd .meta{margin-left:auto;font-family:var(--mono);font-size:11px;color:var(--ink-soft)}
-.colhd{display:grid;grid-template-columns:15px 1fr 46px 46px 84px;gap:4px;font-size:9.5px;letter-spacing:.1em;text-transform:uppercase;color:var(--ink-soft);margin-bottom:3px}
+.colhd{display:grid;grid-template-columns:14px 1fr 54px 54px 104px;gap:4px;margin-left:8px;font-size:9.5px;letter-spacing:.1em;text-transform:uppercase;color:var(--ink-soft);margin-bottom:3px}
 .colhd span:nth-child(n+3){text-align:center}
-.book{display:grid;grid-template-columns:15px 1fr 46px 46px 84px;gap:4px;margin-bottom:4px;align-items:center;border-top:2px solid transparent;border-bottom:2px solid transparent}
+.book{display:grid;grid-template-columns:14px 1fr 54px 54px 104px;gap:4px;align-items:center}
 .grip{cursor:grab;color:var(--rule);font-size:12px;line-height:1;text-align:center;user-select:none}
 .grip:hover{color:var(--ink-soft)}
 .book.dragging{opacity:.35}
 .book.over-top{border-top-color:var(--accent)}
 .book.over-bottom{border-bottom-color:var(--accent)}
 .trk.drop-here{background:rgba(44,74,124,.07);border-radius:2px}
-.book .ctrls .btn.tiny{padding:3px 4px}
-.book-dates{display:grid;grid-template-columns:1fr 1fr;gap:8px;margin:-1px 0 8px;padding:8px 9px;background:#EDEFE9;border:1px solid var(--rule);border-radius:2px}
+.book .ctrls .btn.tiny{padding:3px 3px;min-width:18px}
+.row{border-left:3px solid transparent;padding:2px 0 2px 5px;margin-bottom:3px;border-radius:2px}
+.row[data-st="done"]{border-left-color:#A8AFA4;background:rgba(120,130,118,.10)}
+.row[data-st="done"] input[type=text]{color:var(--ink-soft)}
+.row[data-st="reading"]{border-left-color:var(--accent);background:rgba(44,74,124,.09)}
+.row[data-st="todo"]{border-left-color:#DCDED6}
+.row.dragging{opacity:.35}
+.row.over-top{box-shadow:0 -2px 0 0 var(--accent)}
+.row.over-bottom{box-shadow:0 2px 0 0 var(--accent)}
+.movebar{display:flex;align-items:center;gap:3px;flex-wrap:wrap;margin:4px 0 6px;padding:6px 8px;background:#EDEFE9;border:1px solid var(--rule);border-radius:2px}
+.movebar span{font-size:9.5px;letter-spacing:.1em;text-transform:uppercase;color:var(--ink-soft);margin-right:3px}
+.movebar button{width:24px;height:22px;border:1px solid var(--rule);background:#fff;border-radius:2px;cursor:pointer;font-size:11px;font-weight:600;font-family:var(--sans);color:#fff;line-height:1}
+.movebar button:disabled{opacity:.25;cursor:default}
+.toast{position:fixed;left:50%;bottom:24px;transform:translateX(-50%);background:var(--ink);color:var(--paper);padding:9px 16px;border-radius:3px;font-size:13px;z-index:99;box-shadow:0 3px 14px rgba(0,0,0,.22)}
+.book-dates{display:grid;grid-template-columns:1fr 1fr;gap:8px;margin:4px 0 6px;padding:8px 9px;background:#EDEFE9;border:1px solid var(--rule);border-radius:2px}
 .book-dates label{font-size:9.5px;letter-spacing:.1em;text-transform:uppercase;margin-bottom:3px}
 .book-dates input{padding:4px 6px;font-size:12px}
 .btn.tiny.on{border-color:var(--accent);color:var(--accent);font-weight:600}
 .book input[type=text]{font-size:13px;padding:5px 7px}
-.book input[type=number]{font-size:12.5px;padding:5px 3px;text-align:right}
+.book input[type=number]{font-size:12.5px;padding:5px 4px;text-align:right}
 .book input.done{background:#EDEFE9;color:var(--ink-soft)}
 .book .ctrls{display:flex;gap:2px;justify-content:flex-end}
 .stats{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:1px;background:var(--rule);border:1px solid var(--rule)}
@@ -3420,6 +3433,20 @@ let state={
 if(!state.view) state.view="pending";
 let visibleDays=21;
 const openRows=new Set();
+const closedRows=new Set();
+const hiddenDone=new Set();
+let moveRow=null, toastTimer=null;
+function bookState(b){
+  const p=Number(b.pages)||0, r=Number(b.read)||0;
+  if(p>0&&r>=p) return "done";
+  return r>0?"reading":"todo";
+}
+function toast(msg){
+  document.querySelectorAll(".toast").forEach(t=>t.remove());
+  const d=document.createElement("div");
+  d.className="toast"; d.textContent=msg; document.body.appendChild(d);
+  clearTimeout(toastTimer); toastTimer=setTimeout(()=>d.remove(),3200);
+}
 
 function parseISO(s){const [y,m,d]=s.split("-").map(Number);return new Date(y,m-1,d)}
 function fmt(d){return String(d.getDate()).padStart(2,"0")+"/"+String(d.getMonth()+1).padStart(2,"0")+"/"+d.getFullYear()}
@@ -3558,34 +3585,45 @@ function renderPanel(){
   document.getElementById("tracks").innerHTML=state.tracks.map((t,ti)=>{
     const tot=t.books.reduce((a,b)=>a+(Number(b.pages)||0),0);
     const lido=t.books.reduce((a,b)=>a+Math.min(Number(b.read)||0,Number(b.pages)||0),0);
+    const nDone=t.books.filter(b=>bookState(b)==="done").length;
+    const oculto=hiddenDone.has(ti);
     return `<div class="trk" data-track="${ti}">
       <div class="trk-hd">
         <span class="bar" style="background:${tcolor(ti)}"></span>
         <strong>Trilha ${ti+1}</strong>
         <span class="meta">${nInt(lido)}/${nInt(tot)} p.</span>
+        ${nDone?`<button class="btn tiny${oculto?" on":""}" data-hide="${ti}" type="button"
+           title="${oculto?"Mostrar":"Ocultar"} os ${nDone} títulos já lidos">${oculto?"+":"−"}${nDone} lidos</button>`:""}
         <button class="btn tiny" data-deltrack="${ti}" type="button" aria-label="Remover trilha ${ti+1}">×</button>
       </div>
       <div class="colhd"><span></span><span>Título</span><span>lido</span><span>total</span><span></span></div>
       ${t.books.map((b,bi)=>{
-        const done=(Number(b.read)||0)>=(Number(b.pages)||0);
-        const hasD=!!(b.startedOn||b.finishedOn);
-        const open=hasD||openRows.has(ti+":"+bi);
+        const st=bookState(b);
+        if(st==="done"&&oculto) return "";
+        const key=ti+":"+bi;
+        const open=openRows.has(key)||(st==="reading"&&!closedRows.has(key));
         const last=bi===t.books.length-1;
-        return `<div class="book" data-pos="${ti}:${bi}" draggable="true">
+        return `<div class="row" data-st="${st}" data-pos="${key}" draggable="true">
+          <div class="book">
           <span class="grip" title="Arraste para reordenar — inclusive para outra trilha">⣿</span>
           <input type="text" data-t="${ti}" data-b="${bi}" data-f="title" value="${esc(b.title)}" aria-label="Título">
-          <input type="number" min="0" data-t="${ti}" data-b="${bi}" data-f="read" value="${Number(b.read)||0}" class="${done?"done":""}" aria-label="Páginas lidas">
+          <input type="number" min="0" data-t="${ti}" data-b="${bi}" data-f="read" value="${Number(b.read)||0}" class="${st==="done"?"done":""}" aria-label="Páginas lidas">
           <input type="number" min="1" data-t="${ti}" data-b="${bi}" data-f="pages" value="${b.pages}" aria-label="Total de páginas">
           <span class="ctrls">
-            <button class="btn tiny${hasD?" on":""}" data-cal="${ti}:${bi}" type="button" aria-label="Datas de leitura" aria-expanded="${open}">⌄</button>
-            <button class="btn tiny" data-up="${ti}:${bi}" type="button" aria-label="Subir" ${bi===0?"disabled":""}>↑</button>
-            <button class="btn tiny" data-down="${ti}:${bi}" type="button" aria-label="Descer" ${last?"disabled":""}>↓</button>
-            <button class="btn tiny" data-del="${ti}:${bi}" type="button" aria-label="Remover">×</button>
+            <button class="btn tiny${open?" on":""}" data-cal="${key}" type="button" aria-label="Datas de leitura" aria-expanded="${open}">⌄</button>
+            <button class="btn tiny${moveRow===key?" on":""}" data-move="${key}" type="button" aria-label="Enviar para outra trilha">→</button>
+            <button class="btn tiny" data-up="${key}" type="button" aria-label="Subir" ${bi===0?"disabled":""}>↑</button>
+            <button class="btn tiny" data-down="${key}" type="button" aria-label="Descer" ${last?"disabled":""}>↓</button>
+            <button class="btn tiny" data-del="${key}" type="button" aria-label="Remover">×</button>
           </span></div>
           ${open?`<div class="book-dates">
             <div><label>comecei em</label><input type="date" data-t="${ti}" data-b="${bi}" data-f="startedOn" value="${b.startedOn||""}"></div>
             <div><label>terminei em</label><input type="date" data-t="${ti}" data-b="${bi}" data-f="finishedOn" value="${b.finishedOn||""}"></div>
-          </div>`:""}`;
+          </div>`:""}
+          ${moveRow===key?`<div class="movebar"><span>mandar para o fim da</span>${
+            state.tracks.map((_,k)=>`<button type="button" data-moveto="${key}:${k}" style="background:${tcolor(k)}"
+              ${k===ti?"disabled":""} title="Trilha ${k+1}">${k+1}</button>`).join("")}</div>`:""}
+        </div>`;
       }).join("")}
       <button class="btn tiny" data-add="${ti}" type="button">+ livro</button>
     </div>`;
@@ -3597,13 +3635,12 @@ function renderStats(sim){
   const corridos=Math.round((last-first)/DAY)+1;
   const total=sim.books.reduce((a,b)=>a+b.pages,0);
   const lido=sim.books.reduce((a,b)=>a+b.read0,0);
-  const ends=sim.tracks.filter(t=>t.books.some(b=>b.end)).map(t=>Math.max(...t.books.filter(b=>b.end).map(b=>b.end)));
-  const firstEnd=new Date(Math.min(...ends));
+  const nDone=sim.books.filter(b=>b.done).length;
   document.getElementById("stats").innerHTML=`
     <div class="stat"><div class="k">Última página</div><div class="v">${fmtLong(last)}</div></div>
     <div class="stat"><div class="k">Daqui até lá</div><div class="v">${n1(corridos/30.44)} <small>meses · ${nInt(sim.days.length)} dias de leitura</small></div></div>
     <div class="stat"><div class="k">Falta ler</div><div class="v">${nInt(total-lido)} <small>de ${nInt(total)} p. (${n1(lido/total*100)}% lido)</small></div></div>
-    <div class="stat"><div class="k">1ª trilha a fechar</div><div class="v">${fmtLong(firstEnd)}</div></div>
+    <div class="stat"><div class="k">Títulos terminados</div><div class="v">${nInt(nDone)} <small>de ${nInt(sim.books.length)} (${n1(nDone/sim.books.length*100)}%)</small></div></div>
     ${observed(sim)}`;
 }
 
@@ -3685,13 +3722,13 @@ function renderByTrack(sim){
       <td class="num">${t.books.length}</td>
       <td class="num">${nInt(pages)}</td>
       <td class="num">${nInt(rest)}</td>
-      <td class="num">${last?fmt(last.end):"—"}</td>
-      <td class="title">${last?esc(last.title):'<span class="tag">concluída</span>'}</td></tr>`;
+      <td class="num">${t.books.filter(b=>b.done).length}</td>
+      <td class="num">${last?fmt(last.end):'<span class="tag">concluída</span>'}</td></tr>`;
   }).join("");
   document.getElementById("byTrack").innerHTML=`<thead><tr><th>Trilha</th>
     <th style="text-align:right">Títulos</th><th style="text-align:right">Páginas</th>
-    <th style="text-align:right">Falta</th><th style="text-align:right">Fecha em</th>
-    <th>Último título</th></tr></thead><tbody>${rows}</tbody>`;
+    <th style="text-align:right">Falta</th><th style="text-align:right">Lidos</th>
+    <th style="text-align:right">Fecha em</th></tr></thead><tbody>${rows}</tbody>`;
 }
 
 function renderByBook(sim){
@@ -3802,8 +3839,26 @@ document.getElementById("tracks").addEventListener("input",e=>{
 document.getElementById("tracks").addEventListener("click",e=>{
   const add=e.target.closest("[data-add]"),del=e.target.closest("[data-del]"),
         up=e.target.closest("[data-up]"),down=e.target.closest("[data-down]"),
-        dt=e.target.closest("[data-deltrack]"),cal=e.target.closest("[data-cal]");
-  if(cal){const k=cal.dataset.cal;openRows.has(k)?openRows.delete(k):openRows.add(k);renderPanel();return}
+        dt=e.target.closest("[data-deltrack]"),cal=e.target.closest("[data-cal]"),
+        mv=e.target.closest("[data-move]"),mt=e.target.closest("[data-moveto]"),
+        hd=e.target.closest("[data-hide]");
+  if(cal){
+    const k=cal.dataset.cal, [ti,bi]=k.split(":").map(Number);
+    const lendo=bookState(state.tracks[ti].books[bi])==="reading";
+    if(lendo){ closedRows.has(k)?closedRows.delete(k):closedRows.add(k); }
+    else { openRows.has(k)?openRows.delete(k):openRows.add(k); }
+    renderPanel(); return;
+  }
+  if(hd){const k=Number(hd.dataset.hide);hiddenDone.has(k)?hiddenDone.delete(k):hiddenDone.add(k);renderPanel();return}
+  if(mv){const k=mv.dataset.move;moveRow=(moveRow===k)?null:k;renderPanel();return}
+  if(mt){
+    const [ti,bi,dest]=mt.dataset.moveto.split(":").map(Number);
+    const titulo=state.tracks[ti].books[bi].title||"(sem título)";
+    moveBook(ti,bi,dest,state.tracks[dest].books.length);
+    moveRow=null; render(); schedule();
+    toast(`“${titulo}” foi para o fim da Trilha ${dest+1}.`);
+    return;
+  }
   if(add){state.tracks[Number(add.dataset.add)].books.push({title:"",pages:300,read:0});render()}
   if(del){const [ti,bi]=del.dataset.del.split(":").map(Number);state.tracks[ti].books.splice(bi,1);render()}
   if(up){const [ti,bi]=up.dataset.up.split(":").map(Number);
@@ -3817,7 +3872,7 @@ document.getElementById("tracks").addEventListener("click",e=>{
 /* ---------- arrastar para reordenar ---------- */
 let dragFrom=null;
 function clearMarks(){
-  document.querySelectorAll(".book.over-top,.book.over-bottom").forEach(r=>r.classList.remove("over-top","over-bottom"));
+  document.querySelectorAll(".row.over-top,.row.over-bottom").forEach(r=>r.classList.remove("over-top","over-bottom"));
   document.querySelectorAll(".trk.drop-here").forEach(r=>r.classList.remove("drop-here"));
 }
 function moveBook(fromT,fromI,toT,toI){
@@ -3829,7 +3884,7 @@ function moveBook(fromT,fromI,toT,toI){
 }
 const tracksEl=document.getElementById("tracks");
 tracksEl.addEventListener("dragstart",e=>{
-  const row=e.target.closest(".book");
+  const row=e.target.closest(".row");
   if(!row){e.preventDefault();return}
   dragFrom=row.dataset.pos.split(":").map(Number);
   e.dataTransfer.effectAllowed="move";
@@ -3840,7 +3895,7 @@ tracksEl.addEventListener("dragover",e=>{
   if(!dragFrom)return;
   e.preventDefault(); e.dataTransfer.dropEffect="move";
   clearMarks();
-  const row=e.target.closest(".book");
+  const row=e.target.closest(".row");
   if(row){
     const r=row.getBoundingClientRect();
     row.classList.add(e.clientY<r.top+r.height/2?"over-top":"over-bottom");
@@ -3855,7 +3910,7 @@ tracksEl.addEventListener("dragover",e=>{
 tracksEl.addEventListener("drop",e=>{
   if(!dragFrom)return;
   e.preventDefault();
-  const row=e.target.closest(".book");
+  const row=e.target.closest(".row");
   let moved=false;
   if(row){
     const [tT,tI]=row.dataset.pos.split(":").map(Number);
@@ -3866,12 +3921,12 @@ tracksEl.addEventListener("drop",e=>{
     if(trk){const tT=Number(trk.dataset.track);
       moved=moveBook(dragFrom[0],dragFrom[1],tT,state.tracks[tT].books.length)}
   }
-  clearMarks(); dragFrom=null;
+  clearMarks(); dragFrom=null; moveRow=null;
   if(moved){render();schedule()}
 });
 tracksEl.addEventListener("dragend",()=>{
   clearMarks(); dragFrom=null;
-  document.querySelectorAll(".book.dragging").forEach(r=>r.classList.remove("dragging"));
+  document.querySelectorAll(".row.dragging").forEach(r=>r.classList.remove("dragging"));
 });
 document.getElementById("loadJson").addEventListener("click",()=>{
   const el=document.getElementById("paste");
