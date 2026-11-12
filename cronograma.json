@@ -1,5 +1,5 @@
 {
-  "start": "2026-11-10",
+  "start": "2026-11-12",
   "pagesPerDay": 80,
   "weekdays": [
     true,
@@ -25,35 +25,21 @@
           "title": "Pra tudo começar na quinta-feira",
           "pages": 293,
           "read": 293,
-          "startedOn": "2026-08-12",
+          "startedOn": "2026-08-11",
           "finishedOn": "2026-10-20"
         },
         {
           "title": "Jantar secreto",
           "pages": 389,
           "read": 389,
-          "startedOn": "2026-08-20",
+          "startedOn": "2026-08-11",
           "finishedOn": "2026-11-05"
         },
         {
           "title": "Belo mundo, onde você está",
           "pages": 370,
           "read": 370,
-          "startedOn": "2026-09-01",
-          "finishedOn": "2026-11-05"
-        },
-        {
-          "title": "O agente secreto (roteiro)",
-          "pages": 328,
-          "read": 328,
-          "startedOn": "2026-09-10",
-          "finishedOn": "2026-11-05"
-        },
-        {
-          "title": "A cabeça do santo",
-          "pages": 177,
-          "read": 177,
-          "startedOn": "2026-10-08",
+          "startedOn": "2026-08-11",
           "finishedOn": "2026-11-05"
         },
         {
@@ -64,6 +50,13 @@
           "finishedOn": ""
         },
         {
+          "title": "Fullgás: Poesia reunida",
+          "pages": 228,
+          "read": 24,
+          "startedOn": "2026-11-05",
+          "finishedOn": ""
+        },
+        {
           "title": "O ano da morte de Ricardo Reis",
           "pages": 476,
           "read": 0,
@@ -71,22 +64,8 @@
           "finishedOn": ""
         },
         {
-          "title": "Novembro de 63",
-          "pages": 1059,
-          "read": 0,
-          "startedOn": "",
-          "finishedOn": ""
-        },
-        {
           "title": "O evangelho segundo Jesus Cristo",
           "pages": 473,
-          "read": 0,
-          "startedOn": "",
-          "finishedOn": ""
-        },
-        {
-          "title": "O teatro de Sabbath",
-          "pages": 651,
           "read": 0,
           "startedOn": "",
           "finishedOn": ""
@@ -101,55 +80,6 @@
         {
           "title": "Kramp",
           "pages": 113,
-          "read": 0,
-          "startedOn": "",
-          "finishedOn": ""
-        },
-        {
-          "title": "Trilogia 1Q84",
-          "pages": 1499,
-          "read": 0,
-          "startedOn": "",
-          "finishedOn": ""
-        },
-        {
-          "title": "O colibri",
-          "pages": 321,
-          "read": 0,
-          "startedOn": "",
-          "finishedOn": ""
-        },
-        {
-          "title": "Setembro negro",
-          "pages": 276,
-          "read": 0,
-          "startedOn": "",
-          "finishedOn": ""
-        },
-        {
-          "title": "Conversas entre amigos",
-          "pages": 332,
-          "read": 0,
-          "startedOn": "",
-          "finishedOn": ""
-        },
-        {
-          "title": "Pessoas normais",
-          "pages": 295,
-          "read": 0,
-          "startedOn": "",
-          "finishedOn": ""
-        },
-        {
-          "title": "Rei Lear",
-          "pages": 395,
-          "read": 0,
-          "startedOn": "",
-          "finishedOn": ""
-        },
-        {
-          "title": "Não me abandone jamais",
-          "pages": 377,
           "read": 0,
           "startedOn": "",
           "finishedOn": ""
@@ -524,6 +454,76 @@
           "read": 0,
           "startedOn": "",
           "finishedOn": ""
+        },
+        {
+          "title": "Lolita",
+          "pages": 445,
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
+        },
+        {
+          "title": "A estepe: (História de uma viagem)",
+          "pages": 161,
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
+        },
+        {
+          "title": "A greve do sexo (Lisístrata)",
+          "pages": 92,
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
+        },
+        {
+          "title": "Box Graciliano Ramos: Vidas secas, S. Bernardo, Angústia e Memórias do cárcere",
+          "pages": 1481,
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
+        },
+        {
+          "title": "Mad Maria",
+          "pages": 445,
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
+        },
+        {
+          "title": "Jamais fomos modernos",
+          "pages": 192,
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
+        },
+        {
+          "title": "O cão sem plumas",
+          "pages": 204,
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
+        },
+        {
+          "title": "Fausto",
+          "pages": 626,
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
+        },
+        {
+          "title": "Visões da liberdade: Uma história das últimas décadas da escravidão na Corte",
+          "pages": 439,
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
+        },
+        {
+          "title": "Ainda estou aqui",
+          "pages": 296,
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         }
       ]
     },
@@ -537,6 +537,27 @@
           "finishedOn": "2026-08-19"
         },
         {
+          "title": "O colibri",
+          "pages": 321,
+          "read": 321,
+          "startedOn": "2026-08-11",
+          "finishedOn": "2026-11-12"
+        },
+        {
+          "title": "Trilogia 1Q84",
+          "pages": 1499,
+          "read": 1499,
+          "startedOn": "2026-08-11",
+          "finishedOn": "2026-11-12"
+        },
+        {
+          "title": "A cabeça do santo",
+          "pages": 177,
+          "read": 177,
+          "startedOn": "2026-10-08",
+          "finishedOn": "2026-11-05"
+        },
+        {
           "title": "Eneida",
           "pages": 646,
           "read": 342,
@@ -548,13 +569,6 @@
           "pages": 264,
           "read": 61,
           "startedOn": "2026-09-09",
-          "finishedOn": ""
-        },
-        {
-          "title": "Fullgás: Poesia reunida",
-          "pages": 228,
-          "read": 24,
-          "startedOn": "2026-11-05",
           "finishedOn": ""
         },
         {
@@ -1053,13 +1067,6 @@
           "read": 0,
           "startedOn": "",
           "finishedOn": ""
-        },
-        {
-          "title": "Lolita",
-          "pages": 445,
-          "read": 0,
-          "startedOn": "",
-          "finishedOn": ""
         }
       ]
     },
@@ -1078,6 +1085,20 @@
           "read": 497,
           "startedOn": "2026-09-08",
           "finishedOn": "2026-10-22"
+        },
+        {
+          "title": "Setembro negro",
+          "pages": 276,
+          "read": 276,
+          "startedOn": "2026-08-11",
+          "finishedOn": "2026-11-12"
+        },
+        {
+          "title": "O agente secreto (roteiro)",
+          "pages": 328,
+          "read": 328,
+          "startedOn": "2026-09-10",
+          "finishedOn": "2026-11-05"
         },
         {
           "title": "Os mitos egípcios: Um guia aos antigos deuses e lendas",
@@ -1575,20 +1596,6 @@
           "read": 0,
           "startedOn": "",
           "finishedOn": ""
-        },
-        {
-          "title": "Negros da terra: Índios e bandeirantes nas origens de São Paulo",
-          "pages": 445,
-          "read": 0,
-          "startedOn": "",
-          "finishedOn": ""
-        },
-        {
-          "title": "A estepe: (História de uma viagem)",
-          "pages": 161,
-          "read": 0,
-          "startedOn": "",
-          "finishedOn": ""
         }
       ]
     },
@@ -1614,6 +1621,13 @@
           "read": 32,
           "startedOn": "2026-10-16",
           "finishedOn": "2026-10-18"
+        },
+        {
+          "title": "O teatro de Sabbath",
+          "pages": 651,
+          "read": 651,
+          "startedOn": "2026-08-11",
+          "finishedOn": "2026-11-12"
         },
         {
           "title": "Perdido em Marte",
@@ -1674,6 +1688,13 @@
         {
           "title": "Tutameia",
           "pages": 240,
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
+        },
+        {
+          "title": "A heresia dos índios: Catolicismo e rebeldia no Brasil colonial",
+          "pages": 350,
           "read": 0,
           "startedOn": "",
           "finishedOn": ""
@@ -2029,13 +2050,6 @@
           "finishedOn": ""
         },
         {
-          "title": "In Nomine Dei",
-          "pages": 164,
-          "read": 0,
-          "startedOn": "",
-          "finishedOn": ""
-        },
-        {
           "title": "Os vestígios do dia",
           "pages": 307,
           "read": 0,
@@ -2125,27 +2139,6 @@
           "read": 0,
           "startedOn": "",
           "finishedOn": ""
-        },
-        {
-          "title": "A heresia dos índios: Catolicismo e rebeldia no Brasil colonial",
-          "pages": 350,
-          "read": 0,
-          "startedOn": "",
-          "finishedOn": ""
-        },
-        {
-          "title": "Visões da liberdade: Uma história das últimas décadas da escravidão na Corte",
-          "pages": 439,
-          "read": 0,
-          "startedOn": "",
-          "finishedOn": ""
-        },
-        {
-          "title": "A greve do sexo (Lisístrata)",
-          "pages": 92,
-          "read": 0,
-          "startedOn": "",
-          "finishedOn": ""
         }
       ]
     },
@@ -2164,6 +2157,13 @@
           "read": 359,
           "startedOn": "2026-08-13",
           "finishedOn": "2026-09-19"
+        },
+        {
+          "title": "Conversas entre amigos",
+          "pages": 332,
+          "read": 332,
+          "startedOn": "2026-08-11",
+          "finishedOn": "2026-11-12"
         },
         {
           "title": "Os irmãos Karamázov",
@@ -2259,6 +2259,13 @@
         {
           "title": "História da China",
           "pages": 897,
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
+        },
+        {
+          "title": "Princípio do Infinito: Um perfil de Luiz Carlos da Vila",
+          "pages": 106,
           "read": 0,
           "startedOn": "",
           "finishedOn": ""
@@ -2488,8 +2495,15 @@
           "finishedOn": ""
         },
         {
-          "title": "Box Graciliano Ramos: Vidas secas, S. Bernardo, Angústia e Memórias do cárcere",
-          "pages": 1481,
+          "title": "Os cus de judas",
+          "pages": 200,
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
+        },
+        {
+          "title": "Negros da terra: Índios e bandeirantes nas origens de São Paulo",
+          "pages": 445,
           "read": 0,
           "startedOn": "",
           "finishedOn": ""
@@ -2511,6 +2525,20 @@
           "read": 310,
           "startedOn": "2026-08-16",
           "finishedOn": "2026-09-09"
+        },
+        {
+          "title": "Pessoas normais",
+          "pages": 295,
+          "read": 295,
+          "startedOn": "2026-08-11",
+          "finishedOn": "2026-11-12"
+        },
+        {
+          "title": "Novembro de 63",
+          "pages": 1059,
+          "read": 1059,
+          "startedOn": "2026-08-11",
+          "finishedOn": "2026-11-12"
         },
         {
           "title": "Dracula",
@@ -2718,13 +2746,6 @@
         {
           "title": "As palavras de Freud",
           "pages": 354,
-          "read": 0,
-          "startedOn": "",
-          "finishedOn": ""
-        },
-        {
-          "title": "Princípio do Infinito: Um perfil de Luiz Carlos da Vila",
-          "pages": 106,
           "read": 0,
           "startedOn": "",
           "finishedOn": ""
@@ -2984,13 +3005,6 @@
         {
           "title": "Diablo guardián",
           "pages": 502,
-          "read": 0,
-          "startedOn": "",
-          "finishedOn": ""
-        },
-        {
-          "title": "Mad Maria",
-          "pages": 445,
           "read": 0,
           "startedOn": "",
           "finishedOn": ""
@@ -3719,27 +3733,6 @@
           "read": 0,
           "startedOn": "",
           "finishedOn": ""
-        },
-        {
-          "title": "Ainda estou aqui",
-          "pages": 296,
-          "read": 0,
-          "startedOn": "",
-          "finishedOn": ""
-        },
-        {
-          "title": "Os cus de judas",
-          "pages": 200,
-          "read": 0,
-          "startedOn": "",
-          "finishedOn": ""
-        },
-        {
-          "title": "Jamais fomos modernos",
-          "pages": 192,
-          "read": 0,
-          "startedOn": "",
-          "finishedOn": ""
         }
       ]
     },
@@ -3751,6 +3744,20 @@
           "read": 285,
           "startedOn": "2026-08-11",
           "finishedOn": "2026-09-23"
+        },
+        {
+          "title": "Não me abandone jamais",
+          "pages": 377,
+          "read": 377,
+          "startedOn": "2026-08-11",
+          "finishedOn": "2026-11-12"
+        },
+        {
+          "title": "Rei Lear",
+          "pages": 395,
+          "read": 395,
+          "startedOn": "2026-08-11",
+          "finishedOn": "2026-11-12"
         },
         {
           "title": "Memórias do Mediterrâneo",
@@ -4397,15 +4404,8 @@
           "finishedOn": ""
         },
         {
-          "title": "Fausto",
-          "pages": 626,
-          "read": 0,
-          "startedOn": "",
-          "finishedOn": ""
-        },
-        {
-          "title": "O cão sem plumas",
-          "pages": 204,
+          "title": "In Nomine Dei",
+          "pages": 164,
           "read": 0,
           "startedOn": "",
           "finishedOn": ""
@@ -4414,5 +4414,5 @@
     }
   ],
   "view": "pending",
-  "updatedAt": "2026-11-09T21:34:07.359Z"
+  "updatedAt": "2026-11-12T04:23:50.229Z"
 }
