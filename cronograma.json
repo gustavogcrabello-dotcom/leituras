@@ -1,5 +1,5 @@
 {
-  "start": "2026-11-12",
+  "start": "2026-11-20",
   "pagesPerDay": 80,
   "weekdays": [
     true,
@@ -279,6 +279,11 @@
           "read": 0,
           "startedOn": "",
           "finishedOn": ""
+        },
+        {
+          "title": "Autobiografia do vermelho",
+          "pages": 192,
+          "read": 0
         },
         {
           "title": "O Capital - Livros 1 a 3",
@@ -2304,6 +2309,11 @@
           "read": 0,
           "startedOn": "",
           "finishedOn": ""
+        },
+        {
+          "title": "O Chico",
+          "pages": 284,
+          "read": 0
         },
         {
           "title": "Bom dia inverno",
@@ -4414,5 +4424,5 @@
     }
   ],
   "view": "pending",
-  "updatedAt": "2026-11-12T04:23:50.229Z"
+  "updatedAt": "2026-11-19T10:03:50.103Z"
 }
