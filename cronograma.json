@@ -283,7 +283,9 @@
         {
           "title": "Autobiografia do vermelho",
           "pages": 192,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "O Capital - Livros 1 a 3",
@@ -2313,7 +2315,9 @@
         {
           "title": "O Chico",
           "pages": 284,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "Bom dia inverno",
@@ -4092,6 +4096,11 @@
           "finishedOn": ""
         },
         {
+          "title": "O elefante desaparece",
+          "pages": 391,
+          "read": 0
+        },
+        {
           "title": "Macunaíma",
           "pages": 272,
           "read": 0,
@@ -4424,5 +4433,5 @@
     }
   ],
   "view": "pending",
-  "updatedAt": "2026-11-19T10:03:50.103Z"
+  "updatedAt": "2026-11-19T10:46:48.927Z"
 }
