@@ -1,5 +1,5 @@
 {
-  "start": "2026-11-20",
+  "start": "2026-11-25",
   "pagesPerDay": 80,
   "weekdays": [
     true,
@@ -531,6 +531,13 @@
           "read": 0,
           "startedOn": "",
           "finishedOn": ""
+        },
+        {
+          "title": "Noturno do Chile",
+          "pages": 138,
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         }
       ]
     },
@@ -635,6 +642,11 @@
           "finishedOn": ""
         },
         {
+          "title": "O reino",
+          "pages": 546,
+          "read": 0
+        },
+        {
           "title": "Precisamos de novos nomes",
           "pages": 255,
           "read": 0,
@@ -647,6 +659,11 @@
           "read": 0,
           "startedOn": "",
           "finishedOn": ""
+        },
+        {
+          "title": "Ratos e homens",
+          "pages": 113,
+          "read": 0
         },
         {
           "title": "Os Gregos (Asimov)",
@@ -1041,13 +1058,6 @@
           "finishedOn": ""
         },
         {
-          "title": "Número zero",
-          "pages": 178,
-          "read": 0,
-          "startedOn": "",
-          "finishedOn": ""
-        },
-        {
           "title": "Triste fim de Policarpo Quaresma",
           "pages": 396,
           "read": 0,
@@ -1057,13 +1067,6 @@
         {
           "title": "Clara dos Anjos",
           "pages": 322,
-          "read": 0,
-          "startedOn": "",
-          "finishedOn": ""
-        },
-        {
-          "title": "Noturno do Chile",
-          "pages": 138,
           "read": 0,
           "startedOn": "",
           "finishedOn": ""
@@ -1127,6 +1130,11 @@
           "read": 0,
           "startedOn": "",
           "finishedOn": ""
+        },
+        {
+          "title": "O adversário",
+          "pages": 189,
+          "read": 0
         },
         {
           "title": "Os mitos japoneses: Um guia para deuses, heróis e espíritos",
@@ -2015,6 +2023,11 @@
           "finishedOn": ""
         },
         {
+          "title": "Limonov",
+          "pages": 445,
+          "read": 0
+        },
+        {
           "title": "Sagarana",
           "pages": 403,
           "read": 0,
@@ -2521,6 +2534,13 @@
           "read": 0,
           "startedOn": "",
           "finishedOn": ""
+        },
+        {
+          "title": "Número zero",
+          "pages": 178,
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         }
       ]
     },
@@ -2728,6 +2748,11 @@
           "read": 0,
           "startedOn": "",
           "finishedOn": ""
+        },
+        {
+          "title": "Meridiano de sangue",
+          "pages": 447,
+          "read": 0
         },
         {
           "title": "Norwegian Wood",
@@ -3376,6 +3401,11 @@
           "read": 0,
           "startedOn": "",
           "finishedOn": ""
+        },
+        {
+          "title": "Onde os velhos não têm vez",
+          "pages": 301,
+          "read": 0
         },
         {
           "title": "Freud, Obras completas XV",
@@ -4098,7 +4128,9 @@
         {
           "title": "O elefante desaparece",
           "pages": 391,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "Macunaíma",
@@ -4433,5 +4465,5 @@
     }
   ],
   "view": "pending",
-  "updatedAt": "2026-11-19T10:46:48.927Z"
+  "updatedAt": "2026-11-24T23:25:10.294Z"
 }
