@@ -477,13 +477,6 @@
           "finishedOn": ""
         },
         {
-          "title": "A greve do sexo (Lisístrata)",
-          "pages": 92,
-          "read": 0,
-          "startedOn": "",
-          "finishedOn": ""
-        },
-        {
           "title": "Box Graciliano Ramos: Vidas secas, S. Bernardo, Angústia e Memórias do cárcere",
           "pages": 1481,
           "read": 0,
@@ -2173,6 +2166,13 @@
           "read": 0,
           "startedOn": "",
           "finishedOn": ""
+        },
+        {
+          "title": "A greve do sexo (Lisístrata)",
+          "pages": 92,
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         }
       ]
     },
@@ -2913,6 +2913,13 @@
         {
           "title": "Tereza Batista cansada de guerra",
           "pages": 633,
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
+        },
+        {
+          "title": "Calabar",
+          "pages": 112,
           "read": 0,
           "startedOn": "",
           "finishedOn": ""
@@ -4347,13 +4354,6 @@
           "finishedOn": ""
         },
         {
-          "title": "Calabar",
-          "pages": 112,
-          "read": 0,
-          "startedOn": "",
-          "finishedOn": ""
-        },
-        {
           "title": "Gota d’água",
           "pages": 176,
           "read": 0,
@@ -4497,5 +4497,5 @@
     }
   ],
   "view": "pending",
-  "updatedAt": "2026-11-25T19:57:45.981Z"
+  "updatedAt": "2026-11-25T21:21:36.533Z"
 }
