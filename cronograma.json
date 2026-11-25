@@ -2715,6 +2715,20 @@
           "finishedOn": ""
         },
         {
+          "title": "O assassinato do comendador - Vol. 1",
+          "pages": 473,
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
+        },
+        {
+          "title": "O assassinato do comendador - Vol. 2",
+          "pages": 505,
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
+        },
+        {
           "title": "El hotel de cristal",
           "pages": 320,
           "read": 0,
@@ -2962,20 +2976,6 @@
         {
           "title": "À espera de um milagre",
           "pages": 489,
-          "read": 0,
-          "startedOn": "",
-          "finishedOn": ""
-        },
-        {
-          "title": "O assassinato do comendador - Vol. 1",
-          "pages": 473,
-          "read": 0,
-          "startedOn": "",
-          "finishedOn": ""
-        },
-        {
-          "title": "O assassinato do comendador - Vol. 2",
-          "pages": 505,
           "read": 0,
           "startedOn": "",
           "finishedOn": ""
@@ -4497,5 +4497,5 @@
     }
   ],
   "view": "pending",
-  "updatedAt": "2026-11-25T21:21:36.533Z"
+  "updatedAt": "2026-11-25T21:27:31.270Z"
 }
