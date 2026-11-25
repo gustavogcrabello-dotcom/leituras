@@ -531,6 +531,13 @@
           "read": 0,
           "startedOn": "",
           "finishedOn": ""
+        },
+        {
+          "title": "Gota d’água",
+          "pages": 176,
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         }
       ]
     },
@@ -1616,6 +1623,13 @@
           "read": 0,
           "startedOn": "",
           "finishedOn": ""
+        },
+        {
+          "title": "Os bestializados: O Rio de Janeiro e a República que não foi",
+          "pages": 192,
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         }
       ]
     },
@@ -2072,6 +2086,13 @@
         {
           "title": "Ensaio sobre a lucidez",
           "pages": 369,
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
+        },
+        {
+          "title": "Relato de um certo Oriente",
+          "pages": 152,
           "read": 0,
           "startedOn": "",
           "finishedOn": ""
@@ -3864,6 +3885,16 @@
           "finishedOn": ""
         },
         {
+          "title": "Blade Runner",
+          "pages": 303,
+          "read": 0
+        },
+        {
+          "title": "Ubik",
+          "pages": 278,
+          "read": 0
+        },
+        {
           "title": "Tóquio ano zero",
           "pages": 400,
           "read": 0,
@@ -4354,13 +4385,6 @@
           "finishedOn": ""
         },
         {
-          "title": "Gota d’água",
-          "pages": 176,
-          "read": 0,
-          "startedOn": "",
-          "finishedOn": ""
-        },
-        {
           "title": "Os Lusíadas (Edição Didática) - Volume I",
           "pages": 504,
           "read": 0,
@@ -4417,13 +4441,6 @@
           "finishedOn": ""
         },
         {
-          "title": "Relato de um certo Oriente",
-          "pages": 152,
-          "read": 0,
-          "startedOn": "",
-          "finishedOn": ""
-        },
-        {
           "title": "A noite da espera: 1",
           "pages": 216,
           "read": 0,
@@ -4466,13 +4483,6 @@
           "finishedOn": ""
         },
         {
-          "title": "Os bestializados: O Rio de Janeiro e a República que não foi",
-          "pages": 192,
-          "read": 0,
-          "startedOn": "",
-          "finishedOn": ""
-        },
-        {
           "title": "Ética a Nicômaco",
           "pages": 256,
           "read": 0,
@@ -4497,5 +4507,5 @@
     }
   ],
   "view": "pending",
-  "updatedAt": "2026-11-25T21:27:31.270Z"
+  "updatedAt": "2026-11-25T22:19:39.336Z"
 }
