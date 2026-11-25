@@ -519,13 +519,6 @@
           "finishedOn": ""
         },
         {
-          "title": "Visões da liberdade: Uma história das últimas décadas da escravidão na Corte",
-          "pages": 439,
-          "read": 0,
-          "startedOn": "",
-          "finishedOn": ""
-        },
-        {
           "title": "Ainda estou aqui",
           "pages": 296,
           "read": 0,
@@ -535,6 +528,13 @@
         {
           "title": "Noturno do Chile",
           "pages": 138,
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
+        },
+        {
+          "title": "Crônica da casa assassinada",
+          "pages": 770,
           "read": 0,
           "startedOn": "",
           "finishedOn": ""
@@ -644,7 +644,9 @@
         {
           "title": "O reino",
           "pages": 546,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "Precisamos de novos nomes",
@@ -663,7 +665,9 @@
         {
           "title": "Ratos e homens",
           "pages": 113,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "Os Gregos (Asimov)",
@@ -1077,6 +1081,13 @@
           "read": 0,
           "startedOn": "",
           "finishedOn": ""
+        },
+        {
+          "title": "In Nomine Dei",
+          "pages": 164,
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         }
       ]
     },
@@ -1125,16 +1136,18 @@
           "finishedOn": ""
         },
         {
+          "title": "O adversário",
+          "pages": 189,
+          "read": 59,
+          "startedOn": "2026-11-24",
+          "finishedOn": ""
+        },
+        {
           "title": "Erva brava",
           "pages": 116,
           "read": 0,
           "startedOn": "",
           "finishedOn": ""
-        },
-        {
-          "title": "O adversário",
-          "pages": 189,
-          "read": 0
         },
         {
           "title": "Os mitos japoneses: Um guia para deuses, heróis e espíritos",
@@ -1275,6 +1288,26 @@
           "read": 0,
           "startedOn": "",
           "finishedOn": ""
+        },
+        {
+          "title": "Ripley subterrâneo",
+          "pages": 365,
+          "read": 0
+        },
+        {
+          "title": "O jogo de Ripley",
+          "pages": 330,
+          "read": 0
+        },
+        {
+          "title": "O garoto que seguiu Ripley",
+          "pages": 421,
+          "read": 0
+        },
+        {
+          "title": "Ripley debaixo D'água",
+          "pages": 377,
+          "read": 0
         },
         {
           "title": "Tripulação de esqueletos",
@@ -1585,29 +1618,8 @@
           "finishedOn": ""
         },
         {
-          "title": "O último leitor",
-          "pages": 161,
-          "read": 0,
-          "startedOn": "",
-          "finishedOn": ""
-        },
-        {
           "title": "La pregunta de sus ojos",
           "pages": 296,
-          "read": 0,
-          "startedOn": "",
-          "finishedOn": ""
-        },
-        {
-          "title": "Crônica da casa assassinada",
-          "pages": 770,
-          "read": 0,
-          "startedOn": "",
-          "finishedOn": ""
-        },
-        {
-          "title": "A morte em Veneza & Tonio Kröger",
-          "pages": 275,
           "read": 0,
           "startedOn": "",
           "finishedOn": ""
@@ -2025,7 +2037,9 @@
         {
           "title": "Limonov",
           "pages": 445,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "Sagarana",
@@ -2541,6 +2555,13 @@
           "read": 0,
           "startedOn": "",
           "finishedOn": ""
+        },
+        {
+          "title": "O último leitor",
+          "pages": 161,
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         }
       ]
     },
@@ -2752,7 +2773,9 @@
         {
           "title": "Meridiano de sangue",
           "pages": 447,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "Norwegian Wood",
@@ -3405,7 +3428,9 @@
         {
           "title": "Onde os velhos não têm vez",
           "pages": 301,
-          "read": 0
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
         },
         {
           "title": "Freud, Obras completas XV",
@@ -3774,6 +3799,13 @@
         {
           "title": "Feliz ano velho",
           "pages": 272,
+          "read": 0,
+          "startedOn": "",
+          "finishedOn": ""
+        },
+        {
+          "title": "A morte em Veneza & Tonio Kröger",
+          "pages": 275,
           "read": 0,
           "startedOn": "",
           "finishedOn": ""
@@ -4455,8 +4487,8 @@
           "finishedOn": ""
         },
         {
-          "title": "In Nomine Dei",
-          "pages": 164,
+          "title": "Visões da liberdade: Uma história das últimas décadas da escravidão na Corte",
+          "pages": 439,
           "read": 0,
           "startedOn": "",
           "finishedOn": ""
@@ -4465,5 +4497,5 @@
     }
   ],
   "view": "pending",
-  "updatedAt": "2026-11-24T23:35:06.265Z"
+  "updatedAt": "2026-11-25T19:43:57.827Z"
 }
